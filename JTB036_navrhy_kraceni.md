@@ -60,6 +60,16 @@ Ověřeno strojově: všech pět úseků pryč, nic jiného nezměněno, poznám
 
 Nevybrané návrhy (A, D, E, F, G, K, L, pozn. 6, pozn. 15) dávají dohromady zhruba 2 800. Zbytek je na Barboře.
 
+## ✅ Druhé kolo, 15. 10.
+
+Barbora: „no tak asi všechno". Claude smazal přesně vyznačený text u **A, D, E, F, G, K, L**, zkrátil **pozn. 6** na „HROCH, M. a kol. *Úvod do studia dějepisu*, s. 171." a smazal **druhou větu pozn. 15**. Nic nepřepsáno.
+
+Ověřeno strojově: všechny úseky pryč, nadpisy všech pěti oddílů zůstaly, **55 poznámek**, žádná osiřelá, všechna „Tamtéž" navazují na tentýž zdroj jako předtím.
+
+**Výsledek: text 11 912 + poznámky 5 234 + prameny a literatura 832 = 17 978 znaků. Limit 18 000. ✅ V limitu, rezerva 22 znaků.**
+
+⚠ Rezerva je minimální: každé další doplnění textu nebo poznámky ji vyčerpá. Měřeno jako znaky včetně mezer (karta: „12 600 - 18 000 znaků včetně mezer"), nadpisy započteny.
+
 ## Na co dát pozor při škrtání
 
 - Návrhy nenarušují „Tamtéž": po žádném škrtu nezůstane „Tamtéž", které by odkazovalo jinam než dřív. (Pozn. 8 „Tamtéž, s. 168" po vypuštění pozn. 7 dál odkazuje na Hrocha z pozn. 6.)
