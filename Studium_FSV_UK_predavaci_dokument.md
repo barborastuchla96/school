@@ -279,7 +279,7 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 
 ⬜ **Knihu sehnat.** Na bloku 16. 10. se na ni dá zeptat přímo jeho.
 
-## 6.6 JTB036 — ⬜ obě práce nezačaté
+## 6.6 JTB036 — ~~⬜ obě práce nezačaté~~ ✅ obě hotové *(opraveno 15. 10., viz `JTB036_stav.md`)*
 
 ~~Úvaha o tisku a recenze Iggerse, společný soubor. Vyučující Smetana. **Odevzdání 6. až 20. 1. 2027.** ⚠ Termín z dřívějšího přehledu, ověřit.~~ *Chybné, opraveno 15. 10. podle karty SIS, viz `JTB036_karta_SIS_2026-10-15.md`.*
 
