@@ -42,7 +42,10 @@
 - **Teze:** Iggers nejen demytizuje nároky na vědeckou objektivitu, ale na jejich místo staví hodnověrnost ručenou pravidly interpretační komunity.
 - Dva doklady (Ranke–Fogel a Browning), kritický soud o přeformulovaném západocentrismu, odstavec o překladu.
 
-*Rozsah Claude neměřil.*
+**Strojová kontrola 15. 10. (Claude, z Google Docs):**
+
+- Dokument „Iggers" obsahuje **nejdřív čtecí poznámky ke kapitolám** (předmluvy až závěr, zhruba 62 300 znaků), **recenze je až na konci**, od řádku „Georg G. Iggers: Dějepisectví ve 20. století. Od vědecké objektivity k postmoderní výzvě." Do společného souboru jde jen tahle koncová část.
+- **Rozsah recenze:** tělo 5 680 zn. ≈ **3,16 NS**; s hlavičkou a poznámkou [1] 6 211 zn. ≈ **3,45 NS**. ✅ Souhlasí s údajem Barbory, v limitu 3–4 NS.
 
 ---
 
@@ -53,7 +56,7 @@
    2. Je Gaddis použitelný jako doplněk Hrocha?
    3. Stačí poznámky na konci místo pod čarou?
 2. **Prohlášení o AI**, až se oba texty složí do jednoho souboru. Znění je v `Prohlaseni_o_AI_zneni.md`.
-3. **Oprava v poznámkách k recenzi:** u kapitoly 9 stojí „v překladu Otakara Vochoče", správně je Jiří Kasl. *(Podle Barbory; Claude neověřoval.)*
+3. ~~**Oprava v poznámkách k recenzi:** u kapitoly 9 stojí „v překladu Otakara Vochoče", správně je Jiří Kasl.~~ ✅ **15. 10.: oprava není potřeba, v dokumentu „Iggers" už je.** „Vochoč" se v dokumentu nevyskytuje nikde. Čtecí poznámky ke kapitole 9 uvádějí „v překladu Jiřího Kasla" a poznámka [1] recenze „Přel. Jiří Kasl". Claude nic neměnil. ⚠ Pokud „Vochoč" stojí v jiné kopii (např. ve starší verzi nebo ve složeném souboru), je třeba ho najít tam. Správnost údaje „Jiří Kasl" se ověřuje v tiráži knihy, ne tady.
 4. **Složit oba texty do jednoho souboru, jméno na první straně** (karta: „ZCELA ZÁSADNÍ INFORMACE").
 5. **Po bloku 27. 11. znovu otevřít kartu v SIS.** Podle Barbory je sylabus loňský. *(Karta uvádí poslední úpravu 21. 9. 2026.)*
 6. Jedno čtení čerstvýma očima.
@@ -63,3 +66,5 @@
 ---
 
 *Log AI: 15. 10. 2026. Stav zapsán podle zprávy Barbory. Claude ověřil počet a číslování poznámek a změřil rozsah úvahy z Google Docs; text nečetl obsahově a nic v něm neměnil.*
+
+*Log AI: 15. 10. 2026. Na pokyn Barbory („ano prosím, do toho") změřena recenze Iggerse a hledán údaj „Otakara Vochoče" k opravě. Údaj v dokumentu není, opravený tvar už tam je; do dokumentu se nezasahovalo.*
