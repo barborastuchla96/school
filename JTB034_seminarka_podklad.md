@@ -67,6 +67,12 @@ Pracovní znění (Claudův návrh, Barbora upraví po přečtení článku):
 
 **Proč na zpřesnění záleží:** v knize (kap. 3) transfery nerovnost **prohlubují**: příjemce má větší šanci vlastnit další investiční byt. To je nerovnost **mezi příjemci a nepříjemci**. Pokud IJHP 2025 měří **rozložení bytového majetku v celé generaci** proti scénáři bez transferů, obě zjištění si neodporují, jen mluví o jiné nerovnosti. Přesná otázka tenhle rozdíl pojmenuje sama a recenzent ho nebude muset hledat. ⚠ Zda to tak opravdu je, ukáže až článek.
 
+✅ **Pracovní výzkumná otázka, rozhodnutí Barbory 15. 10.:**
+
+> *Proč mezigenerační transfery v českém systému vlastnického bydlení majetkovou nerovnost mezi mladými spíš vyrovnávají, než prohlubují?*
+
+Platí jako pracovní znění; definitivně až po přečtení IJHP 2025 (čtyři body z tabulky výše). Claudovy dvě volitelné poznámky: „mezi mladými **domácnostmi**" odpovídá jednotce v článku (*young households*); slovo „masového" by v otázce rovnou neslo to, co dělá ČR zvláštním případem. Obojí je na Barboře. **Hypotéza se formuluje až po přečtení článku.**
+
 **Varianta B (silnější metodicky, ale riskantní):**
 V recenzované knize (kap. 3, s. 84–88, **ověřeno 13. 9.**) mají příjemci transferu **1,8× vyšší šanci vlastnit další investiční byt** (Exp(B) = 1,803; p < 0,001), tedy transfery nerovnost na úrovni domácností **prohlubují**. Pokud IJHP 2025 na agregátní úrovni ukazuje, že ji **tlumí**, nabízí se otázka, *proč tytéž zdroje dat vedou k opačným závěrům na mikro a makro úrovni*.
 - Výhoda: Kubát hodnotí metodu a tohle je čistě metodická otázka.
