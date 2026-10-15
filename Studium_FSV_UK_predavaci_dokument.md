@@ -59,7 +59,7 @@ Pět předmětů v zimním semestru. **Termíny vycházejí z toho, co bylo zji�
 | **JTB035** Metodologie sociálních věd | Michal Kubát | komparativní studie |
 | **JTB036** | Smetana | úvaha o tisku + recenze Iggerse |
 | **JTB039** Mezinárodní vztahy 1939-1990 *(původně chybně „Soudobé dějiny“, opraveno 15. 10. podle karty SIS)* | Litera | seminární práce + dvě interpretace textů + test |
-| **JTB041** | — | test, práce s readerem; **bez poloviny bodů z testu předmět nejde udělat** |
+| **JTB041** Soudobé světové dějiny | Pavel Szobi | rozbor textu (min. 5 NS, 15. 11.) + analýza demokratického přechodu (min. 7 NS, 27. 12.) + test (15. 1.); **bez poloviny bodů z testu předmět nejde udělat** *(doplněno 15. 10. podle karty SIS; původně jen „test, práce s readerem“)* |
 
 ---
 
@@ -284,7 +284,14 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 
 ## 6.7 JTB041 — ⬜ test
 
-Práce s readerem, test v lednu či únoru. 🛑 **Bez poloviny bodů z testu předmět nejde udělat.**
+~~Práce s readerem, test v lednu či únoru.~~ *Neúplné, opraveno 15. 10. podle karty SIS, viz `JTB041_karta_SIS_2026-10-15.md`.* 🛑 **Bez poloviny bodů z testu předmět nejde udělat.**
+
+**Vyučující: PhDr. Pavel Szobi, Ph.D. Blok 16. 10. 2026, 17:00–19:50 online.**
+
+- ⬜ **Rozbor textu ze studijních materiálů**, min. 5 NS, 25 %, **odevzdat do 15. 11. 2026, 23:59**, Moodle 2. Stavba předepsaná po stranách.
+- ⬜ **Analýza demokratického přechodu** jedné země bývalého východního bloku, min. 7 NS, 25 %, **odevzdat do 27. 12. 2026, 23:59**, Moodle 2. Stavba předepsaná po stranách.
+- ⬜ **Test** 15. 1. 2027, 17:00, Moodle 2, 50 %.
+- **Pozdní odevzdání: −3 body za každý započatý den.**
 
 ---
 
@@ -317,12 +324,15 @@ Práce s readerem, test v lednu či únoru. 🛑 **Bez poloviny bodů z testu p�
 | kdy | co |
 |---|---|
 | **30. 10. 2026** | oznámit Literovi témata obou interpretací |
-| **15. 11. 2026** | dohodnout s Literou téma seminární práce |
+| **16. 10. 2026** | bloky Litera (14:00–17:00) a Szobi (17:00–19:50) |
+| **15. 11. 2026** | dohodnout s Literou téma seminární práce; **JTB041 rozbor textu, 23:59** |
 | **13. 12. 2026** | recenze JTB034 |
 | **15. 12. 2026** | dvě interpretace pro Literu |
+| **27. 12. 2026** | **JTB041 analýza demokratického přechodu, 23:59** |
 | **6.–20. 1. 2027** | obě práce pro JTB036 ⚠ ověřit |
 | **10. 1. 2027** | komparativní studie JTB035; malá seminárka JTB034; seminární práce JTB039 ⚠ přesné rozdělení ověřit v SIS |
-| **leden–únor 2027** | testy JTB039 a JTB041 |
+| **15. 1. 2027, 17:00** | test JTB041 |
+| **leden–únor 2027** | test JTB039 |
 | **2.–28. 2. 2027** | zápis do letního semestru; **JTB034 musí být uzavřený**, je prerekvizitou JTB043 |
 
 ---
@@ -381,6 +391,7 @@ Práce s readerem, test v lednu či únoru. 🛑 **Bez poloviny bodů z testu p�
 - **Prohlášení o AI psané jako esej** místo podle formulářové šablony UK.
 - **Odhad poznámky 18 místo 58.**
 - **Chybný název předmětu JTB039** („Soudobé dějiny“ místo Mezinárodní vztahy 1939-1990). Zjištěno 15. 10. z karty SIS.
+- **Karta JTB041 nebyla v projektu přepsána**, takže chyběly dvě písemné práce (rozbor textu do 15. 11., analýza přechodu do 27. 12.). Zjištěno 15. 10.
 - **„15 NS včetně aparátu“ připsáno kartě SIS**, která to neříká; uvádí jen, že práce musí mít poznámkový aparát. Zjištěno 15. 10.
 
 ---
