@@ -58,7 +58,7 @@ Pět předmětů v zimním semestru. **Termíny vycházejí z toho, co bylo zji�
 | **JTB034** Metodický úvod | Michal Kubát | recenze knihy + malá seminární práce |
 | **JTB035** Metodologie sociálních věd | Michal Kubát | komparativní studie |
 | **JTB036** | Smetana | úvaha o tisku + recenze Iggerse |
-| **JTB039** Soudobé dějiny | Litera | seminární práce + dvě interpretace textů + test |
+| **JTB039** Mezinárodní vztahy 1939-1990 *(původně chybně „Soudobé dějiny“, opraveno 15. 10. podle karty SIS)* | Litera | seminární práce + dvě interpretace textů + test |
 | **JTB041** | — | test, práce s readerem; **bez poloviny bodů z testu předmět nejde udělat** |
 
 ---
@@ -293,6 +293,7 @@ Práce s readerem, test v lednu či únoru. 🛑 **Bez poloviny bodů z testu p�
 ## ⬜ Blok Litera, 16. 10. 2026
 
 1. 🛑 **Rozsah seminární práce.** JTB039 má 18,5 NS vlastního textu a 22,3 NS včetně aparátu, karta SIS uvádí 15 NS včetně aparátu.
+   ⚠ *Doplněno 15. 10.: karta SIS „včetně aparátu“ neříká. Doslova: „v rozsahu 15 normostran opatřené poznámkovým aparátem (!)“. Ptát se tedy, jestli se aparát do 15 NS počítá. Viz `JTB039_karta_SIS_2026-10-15.md`.*
 2. 🛑 **Chce citace přeložené do češtiny?** Práce cituje z anglické literatury; odpověď je zásah do textu, ne úprava na konci.
 3. **Co přesně znamená interpretace.** Navrhované znění dotazu: rozumím tomu tak, že jde o rozbor teze a argumentace vybraného textu a o jeho zařazení do debaty?
 4. **Poznámkový aparát u interpretace:** poznámky pod čarou, nebo stačí čísla stran v závorce?
@@ -379,6 +380,8 @@ Práce s readerem, test v lednu či únoru. 🛑 **Bez poloviny bodů z testu p�
 - **Chybně změřený rozsah JTB039** (16,5 místo 18,5 NS).
 - **Prohlášení o AI psané jako esej** místo podle formulářové šablony UK.
 - **Odhad poznámky 18 místo 58.**
+- **Chybný název předmětu JTB039** („Soudobé dějiny“ místo Mezinárodní vztahy 1939-1990). Zjištěno 15. 10. z karty SIS.
+- **„15 NS včetně aparátu“ připsáno kartě SIS**, která to neříká; uvádí jen, že práce musí mít poznámkový aparát. Zjištěno 15. 10.
 
 ---
 
