@@ -44,6 +44,22 @@ Převod sám ušetřil zhruba 650 znaků (zmizely ruční značky [n] a nadpis �
 
 S ní: **3 778 znaků**, rezerva zhruba 100.
 
+## ✅ Provedeno 15. 10.
+
+Barbora vybrala, Claude smazal přesně vyznačený text (nic nepřepsáno):
+
+- **B** ¶6 odstavec o struktuře práce
+- **C, jen první věta:** „Rozdílná redakční taktika je patrná i na umístění zpráv a tvorbě titulků." s pozn. (věta o Trumanovi zůstala)
+- **H** ¶22 druhá věta s pozn.
+- **I** ¶13 poslední věta
+- **J** ¶20 poslední věta
+
+Ověřeno strojově: všech pět úseků pryč, nic jiného nezměněno, poznámky se přečíslovaly samy (63).
+
+**Nový stav: text 13 930 + poznámky 6 027 + prameny a literatura 832 = 20 789 znaků. Přes limit o 2 789.**
+
+Nevybrané návrhy (A, D, E, F, G, K, L, pozn. 6, pozn. 15) dávají dohromady zhruba 2 800. Zbytek je na Barboře.
+
 ## Na co dát pozor při škrtání
 
 - Návrhy nenarušují „Tamtéž": po žádném škrtu nezůstane „Tamtéž", které by odkazovalo jinam než dřív. (Pozn. 8 „Tamtéž, s. 168" po vypuštění pozn. 7 dál odkazuje na Hrocha z pozn. 6.)
