@@ -373,7 +373,9 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 - `JTB039_SESTAVENO_v2.md` — jediný platný text seminární práce JTB039
 - `JTB035_text_rozepsany.md` — jediný platný text komparativní studie a jediný zdroj informace o tom, co je hotové
 - Google Docs *REcenzeLUX…* — recenze pro JTB034
-- Google Docs *JTB039 — Interpretace 1: Luňák…* — interpretace 1 a veškerý materiál k ní
+- Google Docs *JTB039 — Interpretace 1: Luňák…* — interpretace 1 a veškerý materiál k ní (ID `1JSIbncs6KmP6H-XPKWYFWgpxK7HcS0KVJ-kB03NO748`, dodáno 15. 10.)
+- Google Docs *REcenzeLUX…* — ID `16uXL4nxwwlEwYaBDkhbwxQZttGwWcj1fWGo2TrnSkyY`
+- Google Docs *Smetana: Seminarka verze 10.9.* a *Iggers* — JTB036, viz `JTB036_stav.md`
 
 **Pravidla a normy:**
 - `Citacni_norma_IMS_vytah.md`
