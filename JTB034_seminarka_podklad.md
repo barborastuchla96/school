@@ -81,6 +81,23 @@ Platí jako pracovní znění; definitivně až po přečtení IJHP 2025 (čtyř
 
 Claudova připomínka (15. 10.): obě věty popisují **co** (výsledek IJHP 2025), ne **proč**; hypotéza jako předběžná odpověď na otázku „proč" potřebuje mechanismus („…vyrovnávají, protože…"). Materiál k mechanismu je v článku (s. 352, 365: i rodiče s nižšími a středními příjmy předávají zděděné bydlení dál, bez ohledu na příjem) a v kotvě nepřímé reciprocity. „Stabilizační prvek" článek nedokládá. Formuluje Barbora.
 
+✅ **Hypotéza, druhá verze Barbory (15. 10.), platná pracovní:**
+
+> *Mezigenerační rodinné transfery určené na pořízení bydlení nerovnost v majetku v bydlení v české společnosti v dlouhodobém horizontu neprohlubují, ale pravděpodobně působí jako majetkový vyrovnávač (wealth equaliser), protože na rozdíl od západních společností neprobíhají pouze u vysokopříjmových domácností, ale jsou plošně rozšířeny napříč všemi příjmovými skupinami. I středně- a nízkopříjmoví rodiče totiž v rámci řetězců mezigenerační solidarity předávají svým dětem majetek v bydlení, který sami získali v procesu privatizace či dědictví od svých rodičů.*
+
+**Opora v IJHP 2025 (Claude ověřil 15. 10.):**
+
+| část hypotézy | místo v článku |
+|---|---|
+| „pravděpodobně … wealth equaliser" | s. 364 *„may … serve as wealth equalisers"*; s. 365 *„probably work as wealth equalisers"* |
+| na Západě jen u vysokopříjmových | s. 350 *„only or mainly well-off parents provide their children with financial transfers to buy a home"* (pozor: *well-off* = majetní, dobře situovaní, ne přesně „vysokopříjmoví") |
+| rozšířeny napříč příjmovými skupinami | s. 365 *„regardless of their income"*; s. 366 *„more widespread and common, representing a kind of informal and general social norm"* |
+| středně- a nízkopříjmoví rodiče, řetězce solidarity | s. 365 *„even a large number of middle- and lower-income parents participate in chains of intergenerational solidarity"* |
+| majetek z privatizace | s. 354 *„giveaway privatisation of public housing to sitting tenants … wealth that they could also transfer to the next generations"* |
+| majetek zděděný | s. 352, 365 *„the wealth they inherited from their parents"* |
+
+Claudovy poznámky: „**všemi** příjmovými skupinami" a „**plošně**" jsou silnější než článek (*„even a large number of"*, *„more widespread"*); bezpečnější „napříč příjmovými skupinami". Článek na s. 366 sám jmenuje **dva faktory** („The two factors together explain…"): rovnoměrněji rozložený bytový majetek a rozšířenou rodinnou pomoc jako normu; hypotéza pokrývá oba. **Analytická kapitola** pak nemá jen opakovat autory, ale prověřit mechanismus proti dalším kotvám: nepřímá reciprocita (Lux – Sunega – Kážmér 2021), postsocialistické režimy a privatizace (Stephens – Lux – Sunega 2015), západní srovnání (Szydlik 2004, Albertini – Kohli 2013).
+
 **Varianta B (silnější metodicky, ale riskantní):**
 V recenzované knize (kap. 3, s. 84–88, **ověřeno 13. 9.**) mají příjemci transferu **1,8× vyšší šanci vlastnit další investiční byt** (Exp(B) = 1,803; p < 0,001), tedy transfery nerovnost na úrovni domácností **prohlubují**. Pokud IJHP 2025 na agregátní úrovni ukazuje, že ji **tlumí**, nabízí se otázka, *proč tytéž zdroje dat vedou k opačným závěrům na mikro a makro úrovni*.
 - Výhoda: Kubát hodnotí metodu a tohle je čistě metodická otázka.
