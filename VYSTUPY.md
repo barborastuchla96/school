@@ -87,6 +87,8 @@
 
 ### 8. JTB034 malá seminární práce (Kubát)
 
+- **Podklad pro psaní:** `JTB034_seminarka_podklad.md` (kostra po kapitolách, co číst a co ne, pasti).
+
 - **Téma:** Dostupnost vlastnického bydlení a rodinná solidarita (páteř: Lux – Sunega 2025). Musí viditelně dělat něco jiného než recenze.
 - **Rozsah:** psát na 10 stran; bibliografie a poznámky se počítají do rozsahu.
 - **Povinná stavba:** úvod (otázka, hypotéza, metodologie, prameny), teoretická, deskriptivní, analytická kapitola, závěr, bibliografie, **anglický abstrakt, anglická klíčová slova**, přílohy.
