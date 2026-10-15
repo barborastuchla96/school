@@ -185,7 +185,7 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 
 ⬜ **Zbývá:** doplnit datum odevzdání do prohlášení (začátek období 11. 9. 2026), přeměřit rozsah po vypuštění seznamu, export do PDF, jedno čtení čerstvýma očima.
 
-**Odevzdání: 13. 12. 2026.**
+**Odevzdání: 13. 12. 2026 do 24:00, Moodle2.** *(Potvrzeno kartou SIS 15. 10.)* **Váha 30 %, musí mít minimálně E.**
 
 ## 6.2 JTB034 — malá seminární práce: ⬜ nezačatá
 
@@ -193,9 +193,9 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 
 **Páteří je rozpor z článku Lux – Sunega 2025 (IJHP)**, ne obsah recenzované knihy. **Recenze a seminárka musí viditelně dělat něco jiného**, jinak to je porušení zákazu republikace.
 
-**Rozsah: psát na 10 stran**, z toho vlastní text 8 až 8,5 a zbytek aparát. ⚠ Karta SIS uvádí 10–15 NS, blok 5 až 10 stran; deset je průnik. **Nutné: anglický abstrakt a klíčová slova.**
+**Rozsah: psát na 10 stran**, z toho vlastní text 8 až 8,5 a zbytek aparát. ⚠ Karta SIS uvádí 10–15 NS, blok 5 až 10 stran; deset je průnik. *⚠ Doplněno 15. 10.: karta JTB034 rozsah neuvádí vůbec; původ údaje 10–15 NS nedoložený, viz `JTB034_karta_SIS_2026-10-15.md`.* **Nutné: anglický abstrakt a klíčová slova.**
 
-**Odevzdání: 10. 1. 2027.** ⚠ Granola uvádí okno 10. až 24. ledna; drží se dřívější datum.
+**Odevzdání: 10. 1. 2027 do 24:00, Moodle2.** ~~⚠ Granola uvádí okno 10. až 24. ledna; drží se dřívější datum.~~ *Potvrzeno kartou SIS 15. 10.* **Váha 70 %, musí mít minimálně E.**
 
 ## 6.3 JTB035 — komparativní studie: ✅ napsaná
 
@@ -399,6 +399,7 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 - **Prohlášení o AI psané jako esej** místo podle formulářové šablony UK.
 - **Odhad poznámky 18 místo 58.**
 - **Chybný název předmětu JTB039** („Soudobé dějiny“ místo Mezinárodní vztahy 1939-1990). Zjištěno 15. 10. z karty SIS.
+- **„Karta SIS uvádí 10–15 NS“ u malé seminárky JTB034**: karta JTB034 rozsah neuvádí. Zjištěno 15. 10.
 - **Karta JTB041 nebyla v projektu přepsána**, takže chyběly dvě písemné práce (rozbor textu do 15. 11., analýza přechodu do 27. 12.). Zjištěno 15. 10.
 - **„15 NS včetně aparátu“ připsáno kartě SIS**, která to neříká; uvádí jen, že práce musí mít poznámkový aparát. Zjištěno 15. 10.
 
