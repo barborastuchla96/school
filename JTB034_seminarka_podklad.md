@@ -37,7 +37,9 @@
 
 **Nález, na kterém práce stojí** (zápis z 10. 9.): v českém prostředí rodinné transfery majetkovou nerovnost v bydlení **spíš tlumí, než prohlubují**. Mikrosimulace v Lux – Sunega 2025 (IJHP) ukazuje, že kdyby transfery ustaly, budoucí nerovnost by výrazně vzrostla. Pro západní společnosti je popsán opak.
 
-> ⚠ **Neověřeno v článku.** Zápis z 10. 9. vznikl z bibliografie knihy a veřejných záznamů; že to článek tvrdí právě takhle (a v jakém rozsahu, s jakými výhradami), musí Barbora vidět v článku. Celá práce na tom stojí, proto je to **čtení č. 1** (oddíl 5).
+> ✅ **15. 10.: ověřeno v článku** (s. 349, 352, 364, 365), včetně „opaku na Západě" (s. 350). Podrobnosti, opravená čísla a materiál k hypotéze: `JTB034_IJHP2025_poznamky.md`.
+>
+> ~~⚠ **Neověřeno v článku.**~~ Zápis z 10. 9. vznikl z bibliografie knihy a veřejných záznamů; že to článek tvrdí právě takhle (a v jakém rozsahu, s jakými výhradami), musí Barbora vidět v článku. Celá práce na tom stojí, proto je to **čtení č. 1** (oddíl 5).
 >
 > ⚠ **Totéž o „opaku na Západě".** Tvrzení potřebuje konkrétní místo: buď srovnání přímo v IJHP 2025, nebo Albertini – Kohli 2013 či Szydlik 2004. Bez toho se nepíše.
 
