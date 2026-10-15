@@ -71,7 +71,7 @@ Pracovní znění (Claudův návrh, Barbora upraví po přečtení článku):
 
 > *Proč mezigenerační transfery v českém systému vlastnického bydlení majetkovou nerovnost mezi mladými spíš vyrovnávají, než prohlubují?*
 
-Platí jako pracovní znění; definitivně až po přečtení IJHP 2025 (čtyři body z tabulky výše). Claudovy dvě volitelné poznámky: „mezi mladými **domácnostmi**" odpovídá jednotce v článku (*young households*); slovo „masového" by v otázce rovnou neslo to, co dělá ČR zvláštním případem. Obojí je na Barboře. **Hypotéza se formuluje až po přečtení článku.**
+Platí jako pracovní znění; definitivně až po přečtení IJHP 2025 (čtyři body z tabulky výše). Claudův návrh „mladé domácnosti" Barbora zamítla (česky nepřirozené); **zůstává „mezi mladými"**. V textu pak jednou vymezit, koho „mladí" podle článku zahrnují (jednotkou v IJHP 2025 jsou domácnosti, *young households*). Návrh doplnit „masového" je volitelný, na Barboře. **Hypotéza se formuluje až po přečtení článku.**
 
 **Varianta B (silnější metodicky, ale riskantní):**
 V recenzované knize (kap. 3, s. 84–88, **ověřeno 13. 9.**) mají příjemci transferu **1,8× vyšší šanci vlastnit další investiční byt** (Exp(B) = 1,803; p < 0,001), tedy transfery nerovnost na úrovni domácností **prohlubují**. Pokud IJHP 2025 na agregátní úrovni ukazuje, že ji **tlumí**, nabízí se otázka, *proč tytéž zdroje dat vedou k opačným závěrům na mikro a makro úrovni*.
