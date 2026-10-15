@@ -50,6 +50,23 @@ Rozhodnutí je na Barboře; obě jsou typu „proč".
 - Hypotéza se skládá ze dvou kotev, které už jsou vybrané: **zvláštnost českého systému (super-homeownership)** a **mechanismus transferů (nepřímá reciprocita)**. Jak přesně spolu souvisejí, musí vyjít z článků, ne odsud.
 - Výhoda: páteří je článek, ne kniha, takže se seminárka viditelně liší od recenze.
 
+**Zpřesnění varianty A (15. 10., na žádost Barbory „chtělo by to dovysvětlit, jakože tlumí nerovnosti"):**
+
+„Tlumí nerovnost" má čtyři části, které otázka musí říct, a všechny se doplní z IJHP 2025:
+
+| | co doplnit | co je jisté už teď | co se zjistí v článku |
+|---|---|---|---|
+| **jaká nerovnost** | majetková, ne příjmová | název článku: *housing wealth inequality*, tedy nerovnost v hodnotě bydlení jako majetku | jak ji měří (ukazatel) |
+| **mezi kým** | | název článku: *young households* | jak jsou mladé domácnosti vymezené |
+| **proti čemu** | „tlumí" = proti situaci bez transferů | zápis z 10. 9.: mikrosimulace, scénář „transfery ustanou" | ⚠ ověřit |
+| **kdy** | budoucí nerovnost | zápis z 10. 9.: „budoucí nerovnost by výrazně vzrostla" | ⚠ horizont simulace |
+
+Pracovní znění (Claudův návrh, Barbora upraví po přečtení článku):
+- *Proč rodinné transfery v ČR snižují budoucí nerovnost v bytovém majetku mezi mladými domácnostmi, když v západních společnostech ji zvyšují?*
+- kratší: *Proč mezigenerační transfery v českém systému masového vlastnického bydlení majetkovou nerovnost mezi mladými domácnostmi spíš vyrovnávají, než prohlubují?*
+
+**Proč na zpřesnění záleží:** v knize (kap. 3) transfery nerovnost **prohlubují**: příjemce má větší šanci vlastnit další investiční byt. To je nerovnost **mezi příjemci a nepříjemci**. Pokud IJHP 2025 měří **rozložení bytového majetku v celé generaci** proti scénáři bez transferů, obě zjištění si neodporují, jen mluví o jiné nerovnosti. Přesná otázka tenhle rozdíl pojmenuje sama a recenzent ho nebude muset hledat. ⚠ Zda to tak opravdu je, ukáže až článek.
+
 **Varianta B (silnější metodicky, ale riskantní):**
 V recenzované knize (kap. 3, s. 84–88, **ověřeno 13. 9.**) mají příjemci transferu **1,8× vyšší šanci vlastnit další investiční byt** (Exp(B) = 1,803; p < 0,001), tedy transfery nerovnost na úrovni domácností **prohlubují**. Pokud IJHP 2025 na agregátní úrovni ukazuje, že ji **tlumí**, nabízí se otázka, *proč tytéž zdroje dat vedou k opačným závěrům na mikro a makro úrovni*.
 - Výhoda: Kubát hodnotí metodu a tohle je čistě metodická otázka.
