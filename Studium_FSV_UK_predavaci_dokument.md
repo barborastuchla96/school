@@ -406,6 +406,7 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 - **Prohlášení o AI psané jako esej** místo podle formulářové šablony UK.
 - **Odhad poznámky 18 místo 58.**
 - **Chybný název předmětu JTB039** („Soudobé dějiny“ místo Mezinárodní vztahy 1939-1990). Zjištěno 15. 10. z karty SIS.
+- **JTB036 „obě práce nezačaté“** (oddíl 6.6) proti `Deliverables_a_ukoly.md` z 25. 9., kde jsou obě hotové (úvaha 65 poznámek, recenze 3,15 NS); totéž potvrzují `Kontrola_citaci_protokol.md` a `Prohlaseni_o_AI_zneni.md`. Text v balíku není. Zjištěno 15. 10.
 - **Chybné termíny JTB036** („6.–20. 1.“ místo 6. 1. / 13. 1. / 27. 1.) a **„recenze Iggerse“** místo volby Iggers nebo Evans. Zjištěno 15. 10.
 - **„Karta SIS uvádí 10–15 NS“ u malé seminárky JTB034**: karta JTB034 rozsah neuvádí. Zjištěno 15. 10.
 - **Karta JTB041 nebyla v projektu přepsána**, takže chyběly dvě písemné práce (rozbor textu do 15. 11., analýza přechodu do 27. 12.). Zjištěno 15. 10.

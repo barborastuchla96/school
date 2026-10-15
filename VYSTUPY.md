@@ -10,18 +10,20 @@
 
 | # | předmět | výstup | rozsah | váha | termín | stav |
 |---|---|---|---|---|---|---|
-| 1 | JTB041 | rozbor textu | min. 5 NS | 25 % | **15. 11. 2026, 23:59** | ⬜ nezačatý |
+| 1 | JTB041 | rozbor textu (podle seznamu z 25. 9. zvolen Huntington) | min. 5 NS | 25 % | **15. 11. 2026, 23:59** | ⬜ nezačatý |
 | 2 | JTB034 | recenze knihy | 5–7 NS | 30 % | **13. 12. 2026, 24:00** | ✅ téměř hotová |
 | 3 | JTB039 | interpretace 1 (Luňák) | 5 NS | neuvedeno | **15. 12. 2026** | ✅ rozepsaná |
 | 4 | JTB039 | interpretace 2 (Litera) | 5 NS | neuvedeno | **15. 12. 2026** | ⬜ nezačatá |
 | 5 | JTB041 | analýza demokratického přechodu | min. 7 NS | 25 % | **27. 12. 2026, 23:59** | ⬜ nezačatá |
-| 6 | JTB036 | úvaha o využitelnosti tisku | 7–10 NS | 70 % | **6. 1., 13. 1. nebo 27. 1. 2027, 23:59** | ⬜ nezačatá |
-| 7 | JTB036 | recenze (Iggers nebo Evans) | 3–4 NS | 30 % | spolu s č. 6 | ⬜ nezačatá |
+| 6 | JTB036 | úvaha o využitelnosti tisku | 7–10 NS | 70 % | **6. 1., 13. 1. nebo 27. 1. 2027, 23:59** | ⚠ **rozpor**, viz níže |
+| 7 | JTB036 | recenze Iggerse | 3–4 NS | 30 % | spolu s č. 6 | ⚠ **rozpor**, viz níže |
 | 8 | JTB034 | malá seminární práce | psát na 10 stran | 70 % | **10. 1. 2027, 24:00** | ⬜ nezačatá |
 | 9 | JTB035 | komparativní studie | 10–15 NS vč. aparátu | 100 % | **10. 1. 2027, 24:00** | ✅ napsaná |
 | 10 | JTB039 | seminární práce | 15 NS s poznámkovým aparátem | „důraz" | **10. 1. 2027** | ✅ hotová |
 | 11 | JTB041 | test | | 50 % | **15. 1. 2027, 17:00** | |
 | 12 | JTB039 | test | | neuvedeno | **leden–únor 2027** | |
+
+⚠ **JTB036, rozpor ve stavu:** předávací dokument (15. 10.) uvádí obě práce jako nezačaté. `Deliverables_a_ukoly.md` (25. 9.) je uvádí jako **hotové** (úvaha 65 poznámek, recenze Iggerse 3,15 NS), `Kontrola_citaci_protokol.md` počítá s 65 poznámkami v úvaze a `Prohlaseni_o_AI_zneni.md` má hotové znění pro „společný soubor: úvaha o tisku + recenze Iggerse“. **Text žádné z nich v projektu není**, takže stav se nedá ověřit. Do ověření se nepovažují ani za hotové, ani za nezačaté.
 
 **Úkony, které nejsou odevzdáním práce:**
 

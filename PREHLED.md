@@ -17,7 +17,7 @@
 | **15. 12.** | **interpretace 1** (Luňák), 5 NS | JTB039 | ✅ rozepsaná, zbývají úpravy |
 | **15. 12.** | **interpretace 2** (Litera), 5 NS | JTB039 | ⬜ nezačatá, kniha nesehnaná |
 | **27. 12., 23:59** | **analýza demokratického přechodu**, min. 7 NS, Moodle 2 | JTB041 | ⬜ nezačatá |
-| **6. 1., 13. 1. nebo 27. 1., 23:59** | **úvaha o tisku** 7–10 NS + **recenze** 3–4 NS, jeden soubor, Moodle | JTB036 | ⬜ obě nezačaté |
+| **6. 1., 13. 1. nebo 27. 1., 23:59** | **úvaha o tisku** 7–10 NS + **recenze** 3–4 NS, jeden soubor, Moodle | JTB036 | ⚠ rozpor: 25. 9. „hotové“, 15. 10. „nezačaté“; text v projektu není |
 | **10. 1., 24:00** | **komparativní studie**, 10–15 NS včetně aparátu, Moodle2 | JTB035 | ✅ napsaná; ⚠ nejspíš přes limit |
 | **10. 1., 24:00** | **malá seminární práce**, Moodle2 | JTB034 | ⬜ nezačatá |
 | **10. 1.** | **seminární práce**, 15 NS s poznámkovým aparátem | JTB039 | ✅ hotová; ⚠ 18,5 NS vlastního textu |
@@ -51,11 +51,11 @@ Všech pět předmětů má v SIS „Zk". **Samostatná zkouška mimo to, co je 
 | JTB041 rozbor textu | min. 5 NS | 15. 11. |
 | JTB039 interpretace 2 | 5 NS | 15. 12. |
 | JTB041 analýza přechodu | min. 7 NS | 27. 12. |
-| JTB036 úvaha o tisku | 7–10 NS | 6. / 13. / 27. 1. |
-| JTB036 recenze | 3–4 NS | 6. / 13. / 27. 1. |
+| ⚠ JTB036 úvaha o tisku | 7–10 NS | 6. / 13. / 27. 1. |
+| ⚠ JTB036 recenze | 3–4 NS | 6. / 13. / 27. 1. |
 | JTB034 malá seminární práce | psát na 10 stran | 10. 1. |
 
-**Celkem zhruba 37 až 41 NS nového textu za tři měsíce.**
+**Celkem zhruba 37 až 41 NS nového textu za tři měsíce.** ⚠ Pokud jsou obě práce JTB036 hotové (podle seznamu z 25. 9. ano), ubývá 10 až 14 NS a zbývá **zhruba 27 NS**.
 
 ## 4. Co zbývá dokončit (hotové texty)
 
