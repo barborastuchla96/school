@@ -55,6 +55,7 @@
    1. Počítá se aparát do rozsahu?
    2. Je Gaddis použitelný jako doplněk Hrocha?
    3. Stačí poznámky na konci místo pod čarou?
+   *Co k nim říká karta SIS (15. 10.):* (1) rozsah „7-10 normostran (tzn. 12 600 - 18 000 znaků včetně mezer)“, o aparátu nic; na rozdíl od karty JTB035, která „včetně vědeckého aparátu“ píše výslovně. (2) Gaddis, *The Landscape of History*, je v povinné literatuře, stejně jako Hroch; o jeho použití v úvaze karta nic neříká. (3) Karta chce „POZNÁMKOVÝ APARÁT s konkrétními odkazy“, jeho absence = o stupeň hůř; jestli pod čarou, nebo na konci, neurčuje. Výchozí je norma IMS (vyhláška 09/2023), viz `Citacni_norma_IMS_vytah.md`. **Všechny tři otázky tedy trvají.**
 2. **Prohlášení o AI**, až se oba texty složí do jednoho souboru. Znění je v `Prohlaseni_o_AI_zneni.md`.
 3. ~~**Oprava v poznámkách k recenzi:** u kapitoly 9 stojí „v překladu Otakara Vochoče", správně je Jiří Kasl.~~ ✅ **15. 10.: oprava není potřeba, v dokumentu „Iggers" už je.** „Vochoč" se v dokumentu nevyskytuje nikde. Čtecí poznámky ke kapitole 9 uvádějí „v překladu Jiřího Kasla" a poznámka [1] recenze „Přel. Jiří Kasl". Claude nic neměnil. ⚠ Pokud „Vochoč" stojí v jiné kopii (např. ve starší verzi nebo ve složeném souboru), je třeba ho najít tam. Správnost údaje „Jiří Kasl" se ověřuje v tiráži knihy, ne tady.
 4. **Složit oba texty do jednoho souboru, jméno na první straně** (karta: „ZCELA ZÁSADNÍ INFORMACE").
