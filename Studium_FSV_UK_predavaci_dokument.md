@@ -41,6 +41,7 @@ Studijní e-mail: 50121202@fsv.cuni.cz. Studijní oddělení: Mgr. Eliška Raiso
 - **Co neřekl vyučující ani norma, se nepíše jako požadavek.** Claude jednou vydal vlastní dohad o „obvyklé české praxi" za požadavek.
 - **Claudovy chyby se v souborech nechávají zapsané jako chyby**, ne tiše mažou.
 - **Žádné dlouhé pomlčky (em dash).** Krátké pomlčky v rozsazích stran a let zůstávají, norma je vyžaduje.
+- **Termíny, rozsahy, váhy a způsob odevzdání se berou z aktuálních karet SIS** (přepisy `JTB0xx_karta_SIS_*.md`). Starší přehledy (`Deliverables_a_ukoly.md`, `Zadani_dle_SIS.md`) jsou jen záznam. Při každé změně karty se pořídí nový přepis s datem. *(Zavedeno 15. 10., poté co se ukázalo, že vyučující karty po 18. 9. upravili.)*
 - **Web se načítá výhradně nástroji WebSearch a WebFetch.** Když fetch neprojde, neobchází se to.
 
 ## 2.4 Tón

@@ -16,7 +16,7 @@
 | 4 | JTB039 | interpretace 2 (Litera) | 5 NS | neuvedeno | **15. 12. 2026** | ⬜ nezačatá |
 | 5 | JTB041 | analýza demokratického přechodu | min. 7 NS | 25 % | **27. 12. 2026, 23:59** | ⬜ nezačatá |
 | 6 | JTB036 | úvaha o využitelnosti tisku | 7–10 NS | 70 % | **6. 1., 13. 1. nebo 27. 1. 2027, 23:59** | ⚠ **rozpor**, viz níže |
-| 7 | JTB036 | recenze Iggerse | 3–4 NS | 30 % | spolu s č. 6 | ⚠ **rozpor**, viz níže |
+| 7 | JTB036 | recenze (karta: Iggers **nebo** Evans; podle 25. 9. psaná na Iggerse) | 3–4 NS | 30 % | spolu s č. 6 | ⚠ **rozpor**, viz níže |
 | 8 | JTB034 | malá seminární práce | psát na 10 stran | 70 % | **10. 1. 2027, 24:00** | ⬜ nezačatá |
 | 9 | JTB035 | komparativní studie | 10–15 NS vč. aparátu | 100 % | **10. 1. 2027, 24:00** | ✅ napsaná |
 | 10 | JTB039 | seminární práce | 15 NS s poznámkovým aparátem | „důraz" | **10. 1. 2027** | ✅ hotová |
