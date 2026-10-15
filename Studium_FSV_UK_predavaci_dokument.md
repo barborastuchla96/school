@@ -307,7 +307,15 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 5. **Vyžaduje komparace prameny v jazycích obou zemí?**
 6. **Kde sehnat jeho vlastní knihu.**
 
-**Mail s tématy interpretací posílat až po bloku, termín 30. 10.** Návrh znění je v souborech.
+7. **Jak probíhá zkouška.** Karta: „Způsob provedení zkoušky: kombinovaná“, „Zk“; test (leden–únor) je podmínkou zkoušky. Je kromě testu ještě ústní část? Kdy je test a hlásí se na něj přes „Termíny zkoušek“ v SIS? *(Doplněno 15. 10.)*
+
+**Mail s tématy interpretací posílat až po bloku, termín 30. 10.**
+
+## ⬜ Blok Szobi, 16. 10. 2026, 17:00–19:50 *(doplněno 15. 10.)*
+
+1. **Test 15. 1. 2027 v Moodlu: zapisuje se na něj i termín v SIS** („Termíny zkoušek“)? Karta u JTB041 nemá způsob provedení zkoušky vyplněný.
+2. **Citační norma a poznámkový aparát u obou analýz.** Karta neuvádí nic.
+3. **Počítá se aparát do minimálního rozsahu** (5 a 7 NS)? Návrh znění je v souborech.
 
 ## ⬜ Kubát, až bude příležitost
 
