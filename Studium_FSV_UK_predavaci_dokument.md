@@ -56,8 +56,8 @@ Pět předmětů v zimním semestru. **Termíny vycházejí z toho, co bylo zji�
 | předmět | vyučující | výstupy |
 |---|---|---|
 | **JTB034** Metodický úvod | Michal Kubát | recenze knihy + malá seminární práce |
-| **JTB035** Metodologie sociálních věd | Michal Kubát | komparativní studie |
-| **JTB036** | Smetana | úvaha o tisku + recenze Iggerse |
+| **JTB035** Metodologie sociálních věd | Michal Kubát | komparativní studie, 10–15 NS **včetně aparátu** (karta SIS) |
+| **JTB036** Metodologie soudobých dějin | Vít Smetana | úvaha o tisku 7–10 NS (70 %) + recenze 3–4 NS, Iggers **nebo** Evans (30 %), v jednom souboru *(opraveno 15. 10. podle karty SIS; původně „recenze Iggerse“)* |
 | **JTB039** Mezinárodní vztahy 1939-1990 *(původně chybně „Soudobé dějiny“, opraveno 15. 10. podle karty SIS)* | Litera | seminární práce + dvě interpretace textů + test |
 | **JTB041** Soudobé světové dějiny | Pavel Szobi | rozbor textu (min. 5 NS, 15. 11.) + analýza demokratického přechodu (min. 7 NS, 27. 12.) + test (15. 1.); **bez poloviny bodů z testu předmět nejde udělat** *(doplněno 15. 10. podle karty SIS; původně jen „test, práce s readerem“)* |
 
@@ -218,7 +218,7 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 4. ⬜ Zkontrolovat, že u každé finské citace je překlad.
 5. ⬜ Prohlášení o AI.
 6. ⬜ **Zjistit, jestli Kubát chce anglický abstrakt a klíčová slova i tady.**
-7. ⬜ **Zjistit, jestli se do rozsahu počítá aparát.** Při 15 NS textu plus aparát je to přes 17 NS proti 10–15 v SIS.
+7. ✅ ~~⬜ **Zjistit, jestli se do rozsahu počítá aparát.**~~ **Zodpovězeno kartou SIS 15. 10.: „10–15 normostran včetně vědeckého aparátu“.** Při 15 NS textu plus aparát je to přes 17 NS. ⚠ Skutečný rozsah změřit z textového souboru.
 
 **Odevzdání: 10. 1. 2027 do 24:00, Moodle2, doc/docx nebo pdf.**
 
@@ -280,7 +280,14 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 
 ## 6.6 JTB036 — ⬜ obě práce nezačaté
 
-Úvaha o tisku a recenze Iggerse, společný soubor. Vyučující Smetana. **Odevzdání 6. až 20. 1. 2027.** ⚠ Termín z dřívějšího přehledu, ověřit.
+~~Úvaha o tisku a recenze Iggerse, společný soubor. Vyučující Smetana. **Odevzdání 6. až 20. 1. 2027.** ⚠ Termín z dřívějšího přehledu, ověřit.~~ *Chybné, opraveno 15. 10. podle karty SIS, viz `JTB036_karta_SIS_2026-10-15.md`.*
+
+**Vyučující: doc. PhDr. Vít Smetana, Ph.D.** Obě práce **v jednom souboru, jméno na první straně**, Moodle2.
+
+- ⬜ **Úvaha o využitelnosti denního tisku**: Rudé právo + jeden další deník, buď 24. 6. – 16. 7. 1947, nebo 9. 1. – 28. 1. 1989. **7–10 NS, 70 %.** Poznámkový aparát povinný (jinak o stupeň hůř); deníky se musí skutečně projít (jinak F).
+- ⬜ **Recenze** 3–4 NS na Iggerse (*Dějepisectví ve 20. století*, 2002), **nebo** Evanse (*Na obranu historie*, 2019). **30 %.**
+- Obě minimálně E.
+- **Termíny: 6. 1., 13. 1. nebo 27. 1. 2027, vždy do 23:59.** Opravný 17. 2. 2027 jen po F.
 
 ## 6.7 JTB041 — ⬜ test
 
@@ -320,7 +327,7 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 ## ⬜ Kubát, až bude příležitost
 
 1. **Chce anglický abstrakt a klíčová slova i u JTB035?**
-2. **Počítá se do rozsahu aparát i u JTB035?**
+2. ~~**Počítá se do rozsahu aparát i u JTB035?**~~ *Zodpovězeno kartou SIS: ano.*
 3. **Tvar citace z druhé ruky.**
 4. **Ke které práci se vztahovalo „5 až 10 stran"?**
 5. **Počítá se do rozsahu titulní list a obsah?**
@@ -337,8 +344,8 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 | **13. 12. 2026** | recenze JTB034 |
 | **15. 12. 2026** | dvě interpretace pro Literu |
 | **27. 12. 2026** | **JTB041 analýza demokratického přechodu, 23:59** |
-| **6.–20. 1. 2027** | obě práce pro JTB036 ⚠ ověřit |
-| **10. 1. 2027** | komparativní studie JTB035; malá seminárka JTB034; seminární práce JTB039 ⚠ přesné rozdělení ověřit v SIS |
+| **6. / 13. / 27. 1. 2027, 23:59** | JTB036 obě práce v jednom souboru, jeden ze tří termínů *(opraveno 15. 10.; původně „6.–20. 1.“)* |
+| **10. 1. 2027** | komparativní studie JTB035 (24:00); malá seminárka JTB034 (24:00); seminární práce JTB039 *(všechny tři potvrzeny kartami SIS 15. 10.)* |
 | **15. 1. 2027, 17:00** | test JTB041 |
 | **leden–únor 2027** | test JTB039 |
 | **2.–28. 2. 2027** | zápis do letního semestru; **JTB034 musí být uzavřený**, je prerekvizitou JTB043 |
@@ -399,6 +406,7 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 - **Prohlášení o AI psané jako esej** místo podle formulářové šablony UK.
 - **Odhad poznámky 18 místo 58.**
 - **Chybný název předmětu JTB039** („Soudobé dějiny“ místo Mezinárodní vztahy 1939-1990). Zjištěno 15. 10. z karty SIS.
+- **Chybné termíny JTB036** („6.–20. 1.“ místo 6. 1. / 13. 1. / 27. 1.) a **„recenze Iggerse“** místo volby Iggers nebo Evans. Zjištěno 15. 10.
 - **„Karta SIS uvádí 10–15 NS“ u malé seminárky JTB034**: karta JTB034 rozsah neuvádí. Zjištěno 15. 10.
 - **Karta JTB041 nebyla v projektu přepsána**, takže chyběly dvě písemné práce (rozbor textu do 15. 11., analýza přechodu do 27. 12.). Zjištěno 15. 10.
 - **„15 NS včetně aparátu“ připsáno kartě SIS**, která to neříká; uvádí jen, že práce musí mít poznámkový aparát. Zjištěno 15. 10.
