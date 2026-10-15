@@ -75,6 +75,12 @@ Pracovní znění (Claudův návrh, Barbora upraví po přečtení článku):
 
 Platí jako pracovní znění; definitivně až po přečtení IJHP 2025 (čtyři body z tabulky výše). Claudův návrh „mladé domácnosti" Barbora zamítla (česky nepřirozené); **zůstává „mezi mladými"**. V textu pak jednou vymezit, koho „mladí" podle článku zahrnují (jednotkou v IJHP 2025 jsou domácnosti, *young households*). Návrh doplnit „masového" je volitelný, na Barboře. **Hypotéza se formuluje až po přečtení článku.**
 
+**Hypotéza, první verze Barbory (15. 10.):**
+
+> *Mezigenerační majetkové a finanční transfery v rámci rodiny fungují v českém systému vysokého soukromého vlastnictví bydlení (super-homeownership system) jako stabilizační prvek se zmenšujícím (vyrovnávacím) dopadem na majetkovou nerovnost. Případné přerušení těchto transferů by v dlouhodobé perspektivě vedlo k výraznému nárůstu nerovnosti v majetku v bydlení, a to především u nejmladší věkové skupiny.*
+
+Claudova připomínka (15. 10.): obě věty popisují **co** (výsledek IJHP 2025), ne **proč**; hypotéza jako předběžná odpověď na otázku „proč" potřebuje mechanismus („…vyrovnávají, protože…"). Materiál k mechanismu je v článku (s. 352, 365: i rodiče s nižšími a středními příjmy předávají zděděné bydlení dál, bez ohledu na příjem) a v kotvě nepřímé reciprocity. „Stabilizační prvek" článek nedokládá. Formuluje Barbora.
+
 **Varianta B (silnější metodicky, ale riskantní):**
 V recenzované knize (kap. 3, s. 84–88, **ověřeno 13. 9.**) mají příjemci transferu **1,8× vyšší šanci vlastnit další investiční byt** (Exp(B) = 1,803; p < 0,001), tedy transfery nerovnost na úrovni domácností **prohlubují**. Pokud IJHP 2025 na agregátní úrovni ukazuje, že ji **tlumí**, nabízí se otázka, *proč tytéž zdroje dat vedou k opačným závěrům na mikro a makro úrovni*.
 - Výhoda: Kubát hodnotí metodu a tohle je čistě metodická otázka.
