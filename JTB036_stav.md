@@ -58,7 +58,7 @@
 2. **Prohlášení o AI**, až se oba texty složí do jednoho souboru. Znění je v `Prohlaseni_o_AI_zneni.md`.
 3. ~~**Oprava v poznámkách k recenzi:** u kapitoly 9 stojí „v překladu Otakara Vochoče", správně je Jiří Kasl.~~ ✅ **15. 10.: oprava není potřeba, v dokumentu „Iggers" už je.** „Vochoč" se v dokumentu nevyskytuje nikde. Čtecí poznámky ke kapitole 9 uvádějí „v překladu Jiřího Kasla" a poznámka [1] recenze „Přel. Jiří Kasl". Claude nic neměnil. ⚠ Pokud „Vochoč" stojí v jiné kopii (např. ve starší verzi nebo ve složeném souboru), je třeba ho najít tam. Správnost údaje „Jiří Kasl" se ověřuje v tiráži knihy, ne tady.
 4. **Složit oba texty do jednoho souboru, jméno na první straně** (karta: „ZCELA ZÁSADNÍ INFORMACE").
-5. **Po bloku 27. 11. znovu otevřít kartu v SIS.** Podle Barbory je sylabus loňský. *(Karta uvádí poslední úpravu 21. 9. 2026.)*
+5. **Po bloku 27. 11.** *(datum potvrdila Barbora 15. 10.; karta SIS ho neuvádí)* **znovu otevřít kartu v SIS.** Podle Barbory je sylabus loňský. *(Karta uvádí poslední úpravu 21. 9. 2026.)*
 6. Jedno čtení čerstvýma očima.
 
 **Termín:** 6. 1., 13. 1. nebo 27. 1. 2027, vždy do 23:59, Moodle kurz 3004.

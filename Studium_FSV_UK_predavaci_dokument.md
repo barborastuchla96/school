@@ -342,6 +342,7 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 | **30. 10. 2026** | oznámit Literovi témata obou interpretací |
 | **16. 10. 2026** | bloky Litera (14:00–17:00) a Szobi (17:00–19:50) |
 | **15. 11. 2026** | dohodnout s Literou téma seminární práce; **JTB041 rozbor textu, 23:59** |
+| **27. 11. 2026** | blok Smetana, JTB036 *(datum potvrdila Barbora 15. 10.; karta SIS ho neuvádí)* |
 | **13. 12. 2026** | recenze JTB034 |
 | **15. 12. 2026** | dvě interpretace pro Literu |
 | **27. 12. 2026** | **JTB041 analýza demokratického přechodu, 23:59** |

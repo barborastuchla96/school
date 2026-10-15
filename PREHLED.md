@@ -13,6 +13,7 @@
 | **30. 10.** | oznámit Literovi témata obou interpretací | JTB039 | návrh mailu v `JTB039_temata_interpretaci.md` (není v repozitáři) |
 | **15. 11.** | dohodnout s Literou téma seminární práce | JTB039 | práce je hotová, téma je dané |
 | **15. 11., 23:59** | **rozbor textu**, min. 5 NS, Moodle 2 | JTB041 | ⬜ nezačatý |
+| **27. 11.** | blok Smetana (datum potvrdila Barbora 15. 10.; karta ho neuvádí) | JTB036 | otázky mají jít mailem dřív, viz `JTB036_stav.md` |
 | **13. 12., 24:00** | **recenze** Lux – Mikeszová, Moodle2 | JTB034 | ✅ téměř hotová |
 | **15. 12.** | **interpretace 1** (Luňák), 5 NS | JTB039 | ✅ rozepsaná, zbývají úpravy |
 | **15. 12.** | **interpretace 2** (Litera), 5 NS | JTB039 | ⬜ nezačatá, kniha nesehnaná |
