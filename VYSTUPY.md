@@ -57,6 +57,7 @@
 ### 3. JTB039 interpretace 1 (Litera)
 
 - **Text:** Luňák, *Západ*, oddíl „Studená válka a Trumanova doktrína", s. 67–74.
+- **Soubor:** Google Docs „JTB039 — Interpretace 1: Luňák, Západ, s. 67–74" (`1JSIbncs6KmP6H-XPKWYFWgpxK7HcS0KVJ-kB03NO748`).
 - **Rozsah:** 5 NS.
 - **Neuvedeno:** kam se odevzdává, formát, aparát (otázka na blok 16. 10.).
 - **Zbývá:** přesunout úvodní a závěrečný odstavec, slovosled v Trumanově citaci, ověřit větu o kongresmanech, vrátit zmínku o Lefflerovi, změřit rozsah.
