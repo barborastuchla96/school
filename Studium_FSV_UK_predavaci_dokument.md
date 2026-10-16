@@ -326,7 +326,7 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 2. **stručný výcuc**
 3. **uzavřít naším názorem na to, čemu by se ještě autor mohl věnovat** atd.
 
-Tím je zodpovězena otázka 3 („co přesně znamená interpretace"). ⚠ Interpretace 1 je dosud postavená hlavně na kritice pramenné základny (pozn. 58/59, asymetrie pramenů); ověřit, jak sedí na tuto trojici, zvlášť na bod 3. Návrh mailu s tématy interpretací je v `JTB039_temata_interpretaci.md`; ⚠ u interpretace 1 v něm ještě stojí s. 51–111, téma je ale od té doby zúžené na s. 67–74.
+Tím je zodpovězena otázka 3 („co přesně znamená interpretace"). **🛑 Interpretace 2 nesmí být na Literův text** (Barbora z bloku 16. 10.). Literova kniha *Od Stalina ke Gorbačovovi* tím z interpretací vypadá; ⬜ vybrat jiný text (podle Litery z jakéhokoli vědeckého časopisu). ⚠ Interpretace 1 je dosud postavená hlavně na kritice pramenné základny (pozn. 58/59, asymetrie pramenů); ověřit, jak sedí na tuto trojici, zvlášť na bod 3. Návrh mailu s tématy interpretací je v `JTB039_temata_interpretaci.md`; ⚠ u interpretace 1 v něm ještě stojí s. 51–111, téma je ale od té doby zúžené na s. 67–74.
 
 ## ⬜ Blok Szobi, 16. 10. 2026, 17:00–19:50 *(doplněno 15. 10.)*
 
