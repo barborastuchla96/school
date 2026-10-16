@@ -319,7 +319,7 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 
 **Mail s tématy interpretací posílat až po bloku, termín 30. 10.**
 
-**Z bloku 16. 10. (Barbora, během bloku):** Litera chce, aby mu studenti **poslali téma seminární práce** (termín dohody podle karty do 15. 11.). Barbořin dojem: s internetem moc neumí. ⬜ Jak a kam poslat a do kdy, doplnit podle Barbory. **Upřesnění Barbory z bloku:** mluvil o **anotaci**, a to **k interpretacím**. Odpovídá bodu c) karty: témata obou interpretací oznámit **do 30. 10.** ⬜ Jestli chce zvlášť i téma seminárky (karta: dohoda do 15. 11.), ověřit. Návrh mailu s tématy interpretací je v `JTB039_temata_interpretaci.md`; ⚠ u interpretace 1 v něm ještě stojí s. 51–111, téma je ale od té doby zúžené na s. 67–74.
+**Z bloku 16. 10. (Barbora, během bloku):** Litera chce, aby mu studenti **poslali téma seminární práce** (termín dohody podle karty do 15. 11.). Barbořin dojem: s internetem moc neumí. ⬜ Jak a kam poslat a do kdy, doplnit podle Barbory. **Upřesnění Barbory z bloku:** mluvil o **anotaci**, a to **k interpretacím**. Odpovídá bodu c) karty: témata obou interpretací oznámit **do 30. 10.** ✅ **Upřesněno:** chce poslat **všechno najednou: témata obou interpretací i téma seminární práce.** ⬜ Formát anotace, kanál a termín doplnit podle Barbory (karta: interpretace do 30. 10., seminárka do 15. 11.). Návrh mailu s tématy interpretací je v `JTB039_temata_interpretaci.md`; ⚠ u interpretace 1 v něm ještě stojí s. 51–111, téma je ale od té doby zúžené na s. 67–74.
 
 ## ⬜ Blok Szobi, 16. 10. 2026, 17:00–19:50 *(doplněno 15. 10.)*
 
