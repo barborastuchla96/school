@@ -319,7 +319,14 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 
 **Mail s tématy interpretací posílat až po bloku, termín 30. 10.**
 
-**Z bloku 16. 10. (Barbora, během bloku):** Litera chce, aby mu studenti **poslali téma seminární práce** (termín dohody podle karty do 15. 11.). Barbořin dojem: s internetem moc neumí. ⬜ Jak a kam poslat a do kdy, doplnit podle Barbory. **Upřesnění Barbory z bloku:** mluvil o **anotaci**, a to **k interpretacím**. Odpovídá bodu c) karty: témata obou interpretací oznámit **do 30. 10.** ✅ **Upřesněno:** chce poslat **všechno najednou: témata obou interpretací i téma seminární práce.** ⬜ Formát anotace, kanál a termín doplnit podle Barbory (karta: interpretace do 30. 10., seminárka do 15. 11.). **Litera dále:** texty k interpretacím mohou být **z jakýchkoli vědeckých časopisů**. (Karta: „k interpretacím je také možné využít práce obsažené v seznamu studijní literatury", tedy seznam byl možnost, ne podmínka.) ⬜ Rozhodnutí Barbory, jestli interpretaci 2 (Literova kniha, nesehnaná) vyměnit za časopiseckou studii. Návrh mailu s tématy interpretací je v `JTB039_temata_interpretaci.md`; ⚠ u interpretace 1 v něm ještě stojí s. 51–111, téma je ale od té doby zúžené na s. 67–74.
+**Z bloku 16. 10. (Barbora, během bloku):** Litera chce, aby mu studenti **poslali téma seminární práce** (termín dohody podle karty do 15. 11.). Barbořin dojem: s internetem moc neumí. ⬜ Jak a kam poslat a do kdy, doplnit podle Barbory. **Upřesnění Barbory z bloku:** mluvil o **anotaci**, a to **k interpretacím**. Odpovídá bodu c) karty: témata obou interpretací oznámit **do 30. 10.** ✅ **Upřesněno:** chce poslat **všechno najednou: témata obou interpretací i téma seminární práce.** ⬜ Formát anotace, kanál a termín doplnit podle Barbory (karta: interpretace do 30. 10., seminárka do 15. 11.). **Litera dále:** texty k interpretacím mohou být **z jakýchkoli vědeckých časopisů**. (Karta: „k interpretacím je také možné využít práce obsažené v seznamu studijní literatury", tedy seznam byl možnost, ne podmínka.) ⬜ Rozhodnutí Barbory, jestli interpretaci 2 (Literova kniha, nesehnaná) vyměnit za časopiseckou studii.
+
+**🛑 Litera k interpretacím, jak má vypadat (blok 16. 10., zapsáno podle Barbory během bloku):**
+1. **autor se zabývá tou a tou problematikou v letech těch a těch**
+2. **stručný výcuc**
+3. **uzavřít naším názorem na to, čemu by se ještě autor mohl věnovat** atd.
+
+Tím je zodpovězena otázka 3 („co přesně znamená interpretace"). ⚠ Interpretace 1 je dosud postavená hlavně na kritice pramenné základny (pozn. 58/59, asymetrie pramenů); ověřit, jak sedí na tuto trojici, zvlášť na bod 3. Návrh mailu s tématy interpretací je v `JTB039_temata_interpretaci.md`; ⚠ u interpretace 1 v něm ještě stojí s. 51–111, téma je ale od té doby zúžené na s. 67–74.
 
 ## ⬜ Blok Szobi, 16. 10. 2026, 17:00–19:50 *(doplněno 15. 10.)*
 
