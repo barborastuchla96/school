@@ -12,6 +12,8 @@ Studuje při plném pracovním úvazku. **Má už dva akademické tituly, mimo j
 
 Studijní e-mail: 50121202@fsv.cuni.cz. Studijní oddělení: Mgr. Eliška Raisová.
 
+**Litera (JTB039): všechno posílat na jmv504@seznam.cz** (blok 16. 10.).
+
 ---
 
 # 2. Jak se v tomhle projektu pracuje
@@ -320,6 +322,8 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 **Mail s tématy interpretací posílat až po bloku, termín 30. 10.**
 
 **Z bloku 16. 10. (Barbora, během bloku):** Litera chce, aby mu studenti **poslali téma seminární práce** (termín dohody podle karty do 15. 11.). Barbořin dojem: s internetem moc neumí. ⬜ Jak a kam poslat a do kdy, doplnit podle Barbory. **Upřesnění Barbory z bloku:** mluvil o **anotaci**, a to **k interpretacím**. Odpovídá bodu c) karty: témata obou interpretací oznámit **do 30. 10.** ✅ **Upřesněno:** chce poslat **všechno najednou: témata obou interpretací i téma seminární práce.** ⬜ Formát anotace, kanál a termín doplnit podle Barbory (karta: interpretace do 30. 10., seminárka do 15. 11.). **Litera dále:** texty k interpretacím mohou být **z jakýchkoli vědeckých časopisů**. (Karta: „k interpretacím je také možné využít práce obsažené v seznamu studijní literatury", tedy seznam byl možnost, ne podmínka.) ⬜ Rozhodnutí Barbory, jestli interpretaci 2 (Literova kniha, nesehnaná) vyměnit za časopiseckou studii.
+
+**🛑 Kam Literovi posílat VŠECHNO (témata, anotace, interpretace, seminární práci): jmv504@seznam.cz** *(řekl na bloku 16. 10., zapsáno podle Barbory)*
 
 **🛑 Litera k interpretacím, jak má vypadat (blok 16. 10., zapsáno podle Barbory během bloku):**
 1. **autor se zabývá tou a tou problematikou v letech těch a těch**

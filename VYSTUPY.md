@@ -56,6 +56,8 @@
 
 ### 3. JTB039 interpretace 1 (Litera)
 
+- **🛑 Všechno pro Literu se posílá na jmv504@seznam.cz** (blok 16. 10.).
+
 - **Text:** Luňák, *Západ*, oddíl „Studená válka a Trumanova doktrína", s. 67–74.
 - **Soubor:** Google Docs „JTB039 — Interpretace 1: Luňák, Západ, s. 67–74" (`1JSIbncs6KmP6H-XPKWYFWgpxK7HcS0KVJ-kB03NO748`).
 - **Rozsah:** 5 NS.
