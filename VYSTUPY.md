@@ -13,7 +13,7 @@
 | 1 | JTB041 | rozbor textu (podle seznamu z 25. 9. zvolen Huntington) | min. 5 NS | 25 % | **15. 11. 2026, 23:59** | ⬜ nezačatý |
 | 2 | JTB034 | recenze knihy | 5–7 NS | 30 % | **13. 12. 2026, 24:00** | ✅ téměř hotová |
 | 3 | JTB039 | interpretace 1 (Luňák) | 5 NS | neuvedeno | **15. 12. 2026** | ✅ rozepsaná |
-| 4 | JTB039 | interpretace 2 (Litera) | 5 NS | neuvedeno | **15. 12. 2026** | ⬜ nezačatá |
+| 4 | JTB039 | interpretace 2 (Lerner 2008) | 5 NS | neuvedeno | **15. 12. 2026** | ⬜ nezačatá |
 | 5 | JTB041 | analýza demokratického přechodu | min. 7 NS | 25 % | **27. 12. 2026, 23:59** | ⬜ nezačatá |
 | 6 | JTB036 | úvaha o využitelnosti tisku | 7–10 NS | 70 % | **6. 1., 13. 1. nebo 27. 1. 2027, 23:59** | ✅ hotová 10. 9. |
 | 7 | JTB036 | recenze Iggerse (karta: Iggers nebo Evans) | 3–4 NS | 30 % | spolu s č. 6 | ✅ hotová 15. 9. |
@@ -66,9 +66,10 @@
 
 ### 4. JTB039 interpretace 2 (Litera)
 
-- **Text:** Litera, *Od Stalina ke Gorbačovovi*, s. 121–186 (rok 1953).
+- **Text (rozhodnutí 16. 10.):** LERNER, Mitchell. „Trying to Find the Guy Who Invited Them": Lyndon Johnson, Bridge Building, and the End of the Prague Spring. *Diplomatic History*, 2008, roč. 32, č. 1, s. 77–103. *(Literova kniha vypadla: interpretace nesmí být na jeho text.)*
 - **Rozsah:** 5 NS.
-- **Zbývá:** sehnat knihu (možná je v `06_MV_1945-1990_texty_Litera.pdf` v SIS), přečíst, napsat.
+- **Stavba podle Litery (blok 16. 10.):** autor se zabývá problematikou X v letech Y → stručný výcuc → vlastní názor, čemu by se autor ještě mohl věnovat.
+- **Zbývá:** sehnat (nejspíš v `readerJTB041.pdf`), přečíst, napsat.
 
 ### 5. JTB041 analýza demokratického přechodu (Szobi)
 
