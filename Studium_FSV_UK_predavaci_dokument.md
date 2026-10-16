@@ -336,6 +336,11 @@ Tím je zodpovězena otázka 3 („co přesně znamená interpretace"). **🛑 I
 
 ## ⬜ Blok Szobi, 16. 10. 2026, 17:00–19:50 *(doplněno 15. 10.)*
 
+**Z bloku 16. 10. (podle Barbory):**
+- ✅ **Aparát se do rozsahu nepočítá** (min. 5 a 7 NS je vlastní text).
+- ✅ **Citovat lze jakkoli, ale konzistentně.** (Výchozí volba projektu: norma IMS.)
+
+
 1. **Test 15. 1. 2027 v Moodlu: zapisuje se na něj i termín v SIS** („Termíny zkoušek“)? Karta u JTB041 nemá způsob provedení zkoušky vyplněný.
 2. **Citační norma a poznámkový aparát u obou analýz.** Karta neuvádí nic.
 3. **Počítá se aparát do minimálního rozsahu** (5 a 7 NS)? Návrh znění je v souborech.

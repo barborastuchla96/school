@@ -43,7 +43,8 @@
 - **Předepsaná stavba po stranách:** 1. hlavní myšlenky, 2. zhodnocení v širším kontextu, 3. co z textu vyplývá a jak mění chápání problému, 4. kritika, 5. odůvodněný osobní postoj.
 - **Kam:** Moodle 2, kurz https://dl2.cuni.cz/course/view.php?id=3015.
 - **Pozdě:** −3 body za každý započatý den.
-- **Neuvedeno:** formát souboru, citační norma, aparát.
+- **Szobi (blok 16. 10.):** aparát se do rozsahu **nepočítá**; citační styl libovolný, ale **konzistentní**. *(Platí i pro analýzu přechodu.)*
+- **Neuvedeno:** formát souboru.
 
 ### 2. JTB034 recenze (Kubát)
 
