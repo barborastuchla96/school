@@ -325,6 +325,10 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 
 ✅ **Rozsah seminární práce (Litera, blok 16. 10., podle Barbory): 15 stran je MINIMUM, ne maximum.** Otázka 1 vyřízena: JTB039 s 18,5 NS vlastního textu a 22,3 NS celkem je v pořádku, **nekrátí se**.
 
+✅ **Zkouška (Litera, 16. 10.): žádná zvláštní zkouška není, jen test** (leden–únor). Otázka 7 vyřízena.
+
+⚪ **Překlad citací:** Litera nic konkrétního neřekl (Barbora: „nevím, nějak normálně"). **Požadavek tedy neexistuje** a nepíše se jako požadavek; text JTB039 zůstává, jak je, rozhoduje Barbora a hlídá se jen konzistence.
+
 **🛑 Kam Literovi posílat VŠECHNO (témata, anotace, interpretace, seminární práci): jmv504@seznam.cz** *(řekl na bloku 16. 10., zapsáno podle Barbory)*
 
 **🛑 Litera k interpretacím, jak má vypadat (blok 16. 10., zapsáno podle Barbory během bloku):**
