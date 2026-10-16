@@ -81,9 +81,13 @@ Platí jako pracovní znění; definitivně až po přečtení IJHP 2025 (čtyř
 
 Claudova připomínka (15. 10.): obě věty popisují **co** (výsledek IJHP 2025), ne **proč**; hypotéza jako předběžná odpověď na otázku „proč" potřebuje mechanismus („…vyrovnávají, protože…"). Materiál k mechanismu je v článku (s. 352, 365: i rodiče s nižšími a středními příjmy předávají zděděné bydlení dál, bez ohledu na příjem) a v kotvě nepřímé reciprocity. „Stabilizační prvek" článek nedokládá. Formuluje Barbora.
 
-✅ **Hypotéza, druhá verze Barbory (15. 10.), platná pracovní:**
+**Hypotéza, druhá verze Barbory (15. 10.):**
 
 > *Mezigenerační rodinné transfery určené na pořízení bydlení nerovnost v majetku v bydlení v české společnosti v dlouhodobém horizontu neprohlubují, ale pravděpodobně působí jako majetkový vyrovnávač (wealth equaliser), protože na rozdíl od západních společností neprobíhají pouze u vysokopříjmových domácností, ale jsou plošně rozšířeny napříč všemi příjmovými skupinami. I středně- a nízkopříjmoví rodiče totiž v rámci řetězců mezigenerační solidarity předávají svým dětem majetek v bydlení, který sami získali v procesu privatizace či dědictví od svých rodičů.*
+
+✅ **Hypotéza, třetí verze (16. 10.), platná pracovní.** Na pokyn Barbory („ty tři drobnosti prosím oprav") Claude upravil dvě místa, jinak beze změny: „vysokopříjmových" → „majetných" (článek s. 350: *well-off*); „plošně rozšířeny napříč všemi příjmovými skupinami" → „rozšířeny napříč příjmovými skupinami". Třetí poznámka (dva faktory na s. 366) změnu nevyžadovala.
+
+> *Mezigenerační rodinné transfery určené na pořízení bydlení nerovnost v majetku v bydlení v české společnosti v dlouhodobém horizontu neprohlubují, ale pravděpodobně působí jako majetkový vyrovnávač (wealth equaliser), protože na rozdíl od západních společností neprobíhají pouze u majetných domácností, ale jsou rozšířeny napříč příjmovými skupinami. I středně- a nízkopříjmoví rodiče totiž v rámci řetězců mezigenerační solidarity předávají svým dětem majetek v bydlení, který sami získali v procesu privatizace či dědictví od svých rodičů.*
 
 **Opora v IJHP 2025 (Claude ověřil 15. 10.):**
 
