@@ -339,6 +339,8 @@ Tím je zodpovězena otázka 3 („co přesně znamená interpretace"). **🛑 I
 **Z bloku 16. 10. (podle Barbory):**
 - ✅ **Aparát se do rozsahu nepočítá** (min. 5 a 7 NS je vlastní text).
 - ✅ **Citovat lze jakkoli, ale konzistentně.** (Výchozí volba projektu: norma IMS.)
+- ✅ **Na test 15. 1. se zapisuje i termín v SIS.** ⬜ Zapsat se, až bude termín vypsaný.
+- Huntington: na dotaz nebyl prostor. **Rozhodnutí Barbory: řídit se kartou SIS** (Szobi ji má aktuální). Karta dovoluje „jakýkoli z povinných či doporučených textů" a Huntington, *Democracy's Third Wave*, na ní je, takže platí.
 
 
 1. **Test 15. 1. 2027 v Moodlu: zapisuje se na něj i termín v SIS** („Termíny zkoušek“)? Karta u JTB041 nemá způsob provedení zkoušky vyplněný.

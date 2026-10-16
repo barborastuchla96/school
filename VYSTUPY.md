@@ -112,7 +112,7 @@
 
 ### 11. JTB041 test (Szobi)
 
-- 15. 1. 2027, 17:00, Moodle 2. **50 % známky, nutná aspoň polovina bodů.** Látka: šest okruhů A–F a jejich povinné texty na kartě.
+- 15. 1. 2027, 17:00, Moodle 2. **50 % známky, nutná aspoň polovina bodů.** ⬜ **Zapsat se na termín v SIS** (Szobi, 16. 10.). Látka: šest okruhů A–F a jejich povinné texty na kartě.
 
 ### 12. JTB039 test (Litera)
 
