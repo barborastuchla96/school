@@ -105,7 +105,7 @@
 
 ### 10. JTB039 seminární práce (Litera)
 
-- **Rozsah:** 15 NS s poznámkovým aparátem. Text má 18,5 NS + 3,8 NS aparátu. Do odpovědi Litery se nekrátí.
+- **Rozsah:** 15 NS s poznámkovým aparátem, ✅ **podle Litery (16. 10.) je to minimum, ne maximum.** Text má 18,5 NS + 3,8 NS aparátu, tedy v pořádku, nekrátí se.
 - **Termín:** do 10. ledna. Pozdě bez omluvy = propadnutí. **Neuvedeno:** kam a v jakém formátu.
 - **Zbývá:** datum v prohlášení o AI, Claudova věta v kap. 5, rozsah a překlad citací podle Litery, titulní list, jedno čtení.
 
