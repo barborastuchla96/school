@@ -70,7 +70,13 @@
 - **Text (rozhodnutí 16. 10.):** LERNER, Mitchell. „Trying to Find the Guy Who Invited Them": Lyndon Johnson, Bridge Building, and the End of the Prague Spring. *Diplomatic History*, 2008, roč. 32, č. 1, s. 77–103. *(Literova kniha vypadla: interpretace nesmí být na jeho text.)*
 - **Rozsah:** 5 NS.
 - **Stavba podle Litery (blok 16. 10.):** autor se zabývá problematikou X v letech Y → stručný výcuc → vlastní názor, čemu by se autor ještě mohl věnovat.
-- **Zbývá:** sehnat (nejspíš v `readerJTB041.pdf`), přečíst, napsat.
+- **Stav 18. 10.:** Barbora článek sehnala (OUP, přes UK) a přečetla. ✅ Bibliografické údaje ověřeny i proti titulní straně: *Diplomatic History*, Vol. 32, No. 1 (January 2008), s. 77–103 (copyright 2007).
+- **Claudův průchod textem (18. 10.), k anotaci a bodu 3:**
+  - **téma a léta:** Johnsonova politika „bridge building" vůči východnímu bloku (zhruba 1964–1968) a její vliv na rozhodnutí Varšavské smlouvy o invazi v srpnu 1968
+  - **teze (s. 78):** *„Bridge building, to put it simply, was not merely the victim of the Czech coup; it was also a cause."* Rozhodující nebyl skutečný, ale **vnímaný** dopad politiky na vůdce bloku.
+  - **autor sám tlumí:** *„Such concerns should not be overstated"* (s. 78); *„although it is certainly an overstatement"* (s. 103)
+  - **pramenná základna (strojově z poznámek):** FRUS 42×, LBJ Library 7×; východoblokové dokumenty přes anglické edice (CWIHP 23×, Mastny, *Cardboard Castle?*, 9×); **česky psané prameny ani literatura nejsou**. Možný materiál pro bod 3 („čemu by se autor mohl věnovat"): československá strana. ⚠ Barbora ověří při psaní.
+- **Zbývá:** napsat.
 
 ### 5. JTB041 analýza demokratického přechodu (Szobi)
 
