@@ -40,6 +40,7 @@
 
 - **Rozsah:** minimálně 5 NS (9000 znaků včetně mezer). Minimum, ne strop.
 - **Text:** jakýkoli povinný či doporučený text ze SIS.
+- **Zvolený text:** HUNTINGTON, Samuel P. „Democracy's Third Wave". *Journal of Democracy*, 1991, roč. 2, č. 2, s. 12–34. DOI 10.1353/jod.1991.0016. *(Ověřeno proti Crossrefu 20. 10.; karta SIS uvádí jméno bez iniciály „P.". ⚠ Proti titulní straně zatím ne.)* Pozor na záměnu: týž autor má v témže časopise i „After Twenty Years: The Future of the Third Wave" (1997).
 - **Předepsaná stavba po stranách:** 1. hlavní myšlenky, 2. zhodnocení v širším kontextu, 3. co z textu vyplývá a jak mění chápání problému, 4. kritika, 5. odůvodněný osobní postoj.
 - **Kam:** Moodle 2, kurz https://dl2.cuni.cz/course/view.php?id=3015.
 - **Pozdě:** −3 body za každý započatý den.
