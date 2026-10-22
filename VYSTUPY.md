@@ -10,7 +10,7 @@
 
 | # | předmět | výstup | rozsah | váha | termín | stav |
 |---|---|---|---|---|---|---|
-| 1 | JTB041 | rozbor textu (podle seznamu z 25. 9. zvolen Huntington) | min. 5 NS | 25 % | **15. 11. 2026, 23:59** | ⬜ nezačatý |
+| 1 | JTB041 | rozbor textu (podle seznamu z 25. 9. zvolen Huntington) | min. 5 NS | 25 % | **15. 11. 2026, 23:59** | ⬜ nezačatý; poznámky ověřeny 22. 10. (`JTB041_Huntington_poznamky.md`) |
 | 2 | JTB034 | recenze knihy | 5–7 NS | 30 % | **13. 12. 2026, 24:00** | ✅ téměř hotová |
 | 3 | JTB039 | interpretace 1 (Luňák) | 5 NS | neuvedeno | **15. 12. 2026** | ✅ rozepsaná |
 | 4 | JTB039 | interpretace 2 (Lerner 2008) | 5 NS | neuvedeno | **15. 12. 2026** | ⬜ nezačatá |
