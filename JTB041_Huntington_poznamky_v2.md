@@ -84,6 +84,16 @@ U tebe:
 
 ---
 
+## Opravy v Google Docu (Claude, 22. 10., na pokyn Barbory: „tohle můžeš opravit ty“)
+
+Provedeno přímo v docu (nová revize AHj4eMTVrv8…), obsah podle článku se stránkami:
+- **Oddíl 3** přepsán: nadpis „3. Možnost třetí protivlny (s. 17–20)“; úvod (Súdán, Nigérie, s. 17); **7 faktorů 1. a 2. protivlny** (s. 17–18); odstavec o převratech (s. 18); **4 možné příčiny třetí protivlny** (s. 19–20).
+- **Oddíl 4** přepsán: čtyři skupiny podle s. 20–22 + bod o překrývání a zkušenosti s demokracií (23 z 30, s. 21).
+- Strana 1, drobnosti: katolická vlna 1974–1989 (s. 13); krize legitimity s „performance legitimacy“ (s. 13); ES z pohledu Řecka, Španělska a Portugalska (s. 14); snowballing (s. 13, 16); „Klíčová teze“, „mnohé“ místo „většina“ (s. 17); chudoba „jedna z hlavních, pravděpodobně hlavní“ (s. 31).
+- **Nedotčeno:** strany 2–5 (argumentace Barbory). Zbývají tam body ⚠ výše (hybridní režimy, tržní reformy, Čína, „zrakový úhel“, zdroje).
+
+---
+
 ## Poznámky Barbory, verze 2 (přepis z Google Docu 22. 10., beze změny)
 
 > JTB041: Příprava na rozbor textu S. Huntingtona (1991)
