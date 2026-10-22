@@ -81,58 +81,62 @@
 
 ---
 
-## Poznámky Barbory (beze změny)
+## Poznámky Barbory (s opravami z 22. 10.)
+
+*Opraveno na pokyn Barbory („tak to opravme"). Věcné chyby jsou opravené přímo v textu. Co v článku není, je označené **[kniha]** (je to v knize *The Third Wave*, citovat jen z ní) nebo **[není v článku]**. Kde článek tvrzení vyvrací, je text přeškrtnutý nebo doplněný poznámkou **[⚠ …]**. Přeformulování těchto míst je na Barboře. Původní znění je v historii gitu (commit fc71d48).*
 
 ### Strana 1
 
-* Definice „vlny demokratizace“: Skupina přechodů od nedemokratických k demokratickým režimům, k nimž dochází v určitém časovém období a které výrazně převyšují přechody v opačném směru (k autoritářství).
+* Definice „vlny demokratizace“ **[kniha]**: Skupina přechodů od nedemokratických k demokratickým režimům, k nimž dochází v určitém časovém období a které výrazně převyšují přechody v opačném směru (k autoritářství).
 * Časové vymezení Třetí vlny: 1974 až do doby psaní článku (1990/1991).
    * Předchozí vlny a protivlny podle Huntingtona:
-      1. 1. vlna: 1828–1926 (rozšiřování volebního práva, USA, Západní Evropa) $\rightarrow$ 1. protivlna: 1922–1942 (fašismus, nacismus).
-      2. 2. vlna: 1943–1962 (poválečná demokratizace, dekolonizace) $\rightarrow$ 2. protivlna: 1958–1975 (vojenské převraty v Latinské Americe, autoritářství v Africe).
-      3. 3. vlna: Začíná 25. dubna 1974 („Karafiátová revoluce“ v Portugalsku), pokračuje v Jižní Evropě (Španělsko, Řecko), v 80. letech se šíří do Latinské Ameriky a Východní Asie (Jižní Korea, Filipíny) a vrcholí v letech 1989–1990 v Jižní Africe, Střední a Východní Evropě a rozpadem sovětského bloku.
+      1. 1. vlna: 20. léta 19. století–1926, asi 29 demokracií (s. 12) (rozšiřování volebního práva, USA, Západní Evropa) → 1. protivlna: 1922–1942, pokles na 12 demokracií (s. 12) (fašismus, nacismus).
+      2. 2. vlna: od vítězství Spojenců ve 2. světové válce do 1962, vrchol 36 demokracií (s. 12) (poválečná demokratizace, dekolonizace **[není v článku]**) → 2. protivlna: 1960–1975, pokles na 30 demokracií (s. 12) (vojenské převraty v Latinské Americe, autoritářství v Africe).
+      3. 3. vlna: Začíná 1974 v Portugalsku a Španělsku (s. 13) (25. dubna 1974, „Karafiátová revoluce“ **[kniha]**), pokračuje v Jižní Evropě (Španělsko, Řecko), v 80. letech se šíří do Latinské Ameriky a Východní Asie (Jižní Korea, Filipíny) a vrcholí v letech 1989–1990 ve Střední a Východní Evropě a rozpadem sovětského bloku.
 * Příčiny Třetí vlny (Huntington uvádí 5 klíčových faktorů):
-   1. Krize legitimity autoritářských režimů: Selhání vojenských a diktátorských režimů v ekonomice nebo ve válkách (např. řecká junta a Kypr, argentinská junta a Falklandy).
-   2. Ekonomický růst 60. let: Nárůst životní úrovně a vzdělání vedl ke vzniku silnější střední třídy, která požaduje politickou participaci („ekonomická zóna přechodu“).
-   3. Změny v doktrínách církví (především Katolické církve): Po II. vatikánském koncilu se církev transformovala z podporovatelky statusu quo v obránce lidských práv a opozici vůči diktaturám.
-   4. Změna politiky vnějších aktérů: Evropské společenství (podmínka demokracie pro vstup), USA (Carterův důraz na lidská práva a Reaganova podpora demokratizačních procesů) a zejména Gorbačovova SSSR (opuštění Brežněvovy doktríny, což umožnilo pád komunistických režimů ve Východní Evropě).
-   5. Efekt sněhové koule (demonstrační efekt / lavinový efekt): Rychlý přenos informací skrze média způsobil, že úspěch demokracie v jedné zemi inspiruje opozici v sousedních zemích.
+   1. Krize legitimity autoritářských režimů: Selhání vojenských a diktátorských režimů v ekonomice nebo ve válkách (např. řecká junta a Kypr, argentinská junta a Falklandy **[kniha]**).
+   2. Ekonomický růst 60. let: Nárůst životní úrovně a vzdělání vedl ke vzniku silnější střední třídy, která požaduje politickou participaci („politická zóna přechodu“, *political transition zone*, s. 31).
+   3. Změny v doktrínách církví (především Katolické církve): Po II. vatikánském koncilu se církev transformovala z podporovatelky statusu quo v odpůrce autoritářství (s. 13).
+   4. Změna politiky vnějších aktérů: Evropské společenství (podmínka demokracie pro vstup), USA (Carterův důraz na lidská práva a Reaganova podpora demokratizačních procesů **[není v článku]**) a zejména Gorbačovova SSSR (opuštění Brežněvovy doktríny **[není v článku]**, což umožnilo pád komunistických režimů ve Východní Evropě).
+   5. Efekt sněhové koule (demonstrační efekt / lavinový efekt): Rychlý přenos informací skrze média způsobil, že úspěch demokracie v jedné zemi inspiruje opozici v sousedních zemích. **[⚠ s. 16: příklad východní Evropy působil hlavně na vládce, „not on the people they ruled“; bez vnitřních podmínek snowballing sám nestačí. s. 17: do roku 1990 příčiny třetí vlny zeslábly.]**
 
 ### Strana 2: Širší kontext (Propojení se Szobiho přednáškou a další četbou)
 
-* Kontext Studené války a jejího konce: Huntingtonův text z roku 1991 bezprostředně reaguje na pád Berlínské zdi a rozpad východního bloku. Propojuje geopolitický posun (Reagan–Gorbačov, jak popisuje Kissinger či Gaddis) s vnitropolitickými změnami v jednotlivých státech.
-* Souvislost s další povinnou četbou (FSV UK / JMB502):
+* Kontext Studené války a jejího konce: Huntingtonův text z roku 1991 bezprostředně reaguje na pád Berlínské zdi **[výslovně není v článku; jen „events of 1989 in Eastern Europe“, s. 17]** a rozpad východního bloku. Propojuje geopolitický posun (Reagan–Gorbačov, jak popisuje Kissinger či Gaddis) s vnitropolitickými změnami v jednotlivých státech.
+* Souvislost s další povinnou četbou (FSV UK / JTB041):
    * Denisa Nečasová & Mary Nolan: Zatímco Nečasová a Nolan popisují snahu totálních/socialistických režimů o kompletní sociální inženýrství a vytvoření „nového člověka“, Huntington ukazuje, jak tyto režimy selhaly v dlouhodobé legitimity a jak vnější i vnitřní modernizační tlaky tyto umělé projekty rozložily.
    * Henry Kissinger („Uspořádání světa“): Kissinger vnímá mezinárodní vztahy optikou moci, rovnováhy sil a zájmů supervelmocí. Huntington doplňuje Kissingerův strukturální pohled zdola – jak systémové uvolnění moci (Gorbačovovo rozhodnutí nezasahovat) otevřelo prostor pro lokální pro-demokratické aktéry.
 * Alternativní / odporující teze:
    * Francis Fukuyama (Konec dějin): Fukuyama tvrdí, že liberalismus a demokracie zvítězily ideologicky a definitivně. Huntington je opatrnější – varuje, že po každé vlně historicky následovala protivlna a demokratizace není přímočarý, neodvratný proces.
-   * Strukturální determinismus vs. Aktérský přístup: Huntington kombinuje strukturální podmínky (ekonomika, církev) s paktováním elit, což odporuje přísně marxistickým nebo čistě ekonomickým teoriím, které tvrdí, že demokracie je pouhým derivátem bohatství.
+   * Strukturální determinismus vs. Aktérský přístup: Huntington kombinuje strukturální podmínky (ekonomika, církev) s paktováním elit **[není v článku; článek: ekonomický rozvoj a politické vedení, s. 33]**, což odporuje přísně marxistickým nebo čistě ekonomickým teoriím, které tvrdí, že demokracie je pouhým derivátem bohatství. **[⚠ s. 30–31: vztah bohatství a demokracie má za jeden z nejsilnějších, chudobu za hlavní překážku.]**
 
 ### Strana 3: Co z textu vyplývá (Posun v chápání demokratizace)
 
-* Opuštění „předpokladové“ teorie (Prerequisites of Democracy): Starší sociologie tvrdila, že země musí mít pevně vybudované západní instituce, Protestantismus či vysoký HDP, aby mohla být demokratická. Huntington ukazuje, že Třetí vlna zasáhla hluboce odlišné kultury (katolické, konfuciánské, pravoslavné) a proběhla i v zemích s nižším HDP.
-* Procesualismus a role elit (Transitologie): Způsob, jakým režim padne, určuje stabilitu budoucí demokracie. Huntington rozlišuje:
+* Opuštění „předpokladové“ teorie (Prerequisites of Democracy): Starší sociologie tvrdila, že země musí mít pevně vybudované západní instituce, Protestantismus či vysoký HDP, aby mohla být demokratická. Huntington ukazuje, že Třetí vlna zasáhla hluboce odlišné kultury (katolické, konfuciánské, pravoslavné) ~~a proběhla i v zemích s nižším HDP~~. **[⚠ článek opak: přechody hlavně v „transition zone, especially at its upper reaches“, s. 31.]**
+* Procesualismus a role elit (Transitologie): Způsob, jakým režim padne, určuje stabilitu budoucí demokracie. Huntington rozlišuje **[kniha, celá typologie]**:
    1. Transformation (reform) – sama elita režimu vede přechod.
    2. Replacement (collapse) – starý režim se zhroutí, opozice ho nahradí.
-   3. Transplacement (pact) – vláda a opozice vyjednají kompromis (např. Kulatý stůl v Polsku).
+   3. Transplacement (pact) – vláda a opozice vyjednají kompromis (např. Kulatý stůl v Polsku **[není v článku]**).
 * Demokracie jako postupný a zranitelný proces: Z textu vyplývá, že konsolidace demokracie je mnohem těžší než samotný pád diktatury. Úspěch závisí na schopnosti nově zvolených lídrů vyřešit hospodářské problémy a nepropadnout pokušení autoritářství.
 
 ### Strana 4: Kritika a limitace autora (Co mohl v roce 1991 vědět jen částečně)
 
-* Přílišný optimismus ohledně postkomunistického prostoru: V roce 1991 nemohl Huntington plně předvídat vzestup neliberálních demokracií či návrat autoritářství v post-sovětském prostoru (zejména v Rusku, Střední Asii či Bělorusku).
-* Zjednodušení role náboženství a kultury: Huntington přisuzuje katolické církvi jednoznačně demokratizační roli. O pár let později ve své slavné knize Střet civilizací (1996) naopak přešel k přísnému kulturnímu determinismu, kde tvrdil, že některé kultury (islámská, pravoslavná) mají k západní demokracii strukturální odstup.
+* Přílišný optimismus ohledně postkomunistického prostoru: V roce 1991 nemohl Huntington plně předvídat vzestup neliberálních demokracií či návrat autoritářství v post-sovětském prostoru (zejména v Rusku, Střední Asii či Bělorusku). **[⚠ článek s tím počítá: Rusko „if it occurs“, s. 14–15; obnova autoritářství v Rusku, s. 19; autoritářský nacionalismus ve vých. Evropě, s. 20; linie západní/východní křesťanství, s. 23.]**
+* Zjednodušení role náboženství a kultury: Huntington přisuzuje katolické církvi jednoznačně demokratizační roli. O pár let později ve své slavné knize Střet civilizací (1996) naopak přešel k přísnému kulturnímu determinismu, kde tvrdil, že některé kultury (islámská, pravoslavná) mají k západní demokracii strukturální odstup. **[⚠ už v článku: katolický impuls vyčerpán, s. 13; katolicismus má i nedemokratické prvky, s. 30; konfucianismus a islám jako překážky, s. 22–30; linie s. 23. Tvrzení o Střetu ověřit v knize.]**
 * Podcenění ekonomické transformace (Šoková terapie): Článek sice zmínil ekonomické příčiny pádu diktatur, ale dostatečně neřešil, jak drastické sociální dopady privatizace v 90. letech oslabí důvěru veřejnosti v nové demokratické instituce.
-* Institucionální slepota k hybridním režimům: Huntington pracoval převážně s binárním viděním (demokracie vs. autoritářství). Dnes víme, že Třetí vlna vytvořila množství tzv. hybridních režimů (iliberální demokracie, kompetitivní autoritářství), které nejsou ani plnou demokracií, ani klasickou diktaturou.
+* Institucionální slepota k hybridním režimům: Huntington pracoval převážně s binárním viděním (demokracie vs. autoritářství). Dnes víme, že Třetí vlna vytvořila množství tzv. hybridních režimů (iliberální demokracie, kompetitivní autoritářství), které nejsou ani plnou demokracií, ani klasickou diktaturou. **[⚠ článek: „two semidemocracies“, s. 20; „continuum between democracy and authoritarianism“, „democracy without turnover“, s. 27.]**
 
 ### Strana 5: Osobní postoj a zhodnocení
 
 * S čím souhlasím:
-   * Koncept cykličnosti / Vln: Historická zkušenost potvrzuje, že demokratizace nepostupuje lineárně. Huntingtonovo varování před 3. protivlnou bylo prorocké – dnešní ústup demokracie ve světě (demokratický regres od cca roku 2006) dává jeho varováním za pravdu.
-   * Důraz na mezinárodní faktory: Správně vystihl, že pád diktatur v 80. letech nebyl jen vnitřní záležitostí, ale stál na změně geopolitického tlaku (Gorbačov, USA, EU).
+   * Koncept cykličnosti / Vln: Historická zkušenost potvrzuje, že demokratizace nepostupuje lineárně. Huntingtonovo varování před 3. protivlnou bylo prorocké – dnešní ústup demokracie ve světě (demokratický regres od cca roku 2006 **[potřebuje zdroj]**) dává jeho varováním za pravdu. **[⚠ článek končí optimisticky: „Time is on the side of democracy“, s. 33; vlny „receded less“, s. 34.]**
+   * Důraz na mezinárodní faktory: Správně vystihl, že pád diktatur v 80. letech nebyl jen vnitřní záležitostí, ale stál na změně geopolitického tlaku (Gorbačov, USA, ES).
 * S čím nesouhlasím a proč:
-   * Příliš mechanické škatulkování: Huntington má sklon vytvářet velmi pevné typologie (např. 3 způsoby přechodu), které v realitě často splynuly dohromady.
-   * Zanedbání občanské společnosti zdola: Huntington staví přechod k demokracii primárně na kalkulu a dohodách politických elit (paktování). Podceňuje dlouhodobou mravenčí práci disentu, odborů (viz Solidarita) a občanských hnutí, které elity k jednání donutily.
+   * Příliš mechanické škatulkování: Huntington má sklon vytvářet velmi pevné typologie (např. 3 způsoby přechodu **[kniha]**), které v realitě často splynuly dohromady.
+   * Zanedbání občanské společnosti zdola: Huntington staví přechod k demokracii primárně na kalkulu a dohodách politických elit (paktování **[není v článku; doložit přes s. 16, 21, 33–34: vedení, změna vedení uvnitř režimu]**). Podceňuje dlouhodobou mravenčí práci disentu, odborů (viz Solidarita) a občanských hnutí, které elity k jednání donutily.
 
 ---
+
+*Log AI (JTB041): 22. 10. 2026. Opravy v poznámkách provedl Claude na pokyn Barbory (data vln, Jižní Afrika, zóna přechodu, kód předmětu, ES, šipky; označení [kniha] / [není v článku] / [⚠]); argumentační místa přeformuluje Barbora.*
 
 *Log AI (JTB041): 22. 10. 2026. Poznámky pořídila Barbora. Claude je na její žádost ověřil proti výtahu z readeru (článek s. 12–34): pět příčin sedí; 2 věcné chyby (2. protivlna 1960, ne 1958; Jižní Afrika v článku není); větší část obsahu (typologie přechodů, definice vlny, 25. 4. 1974, Carter/Reagan, Brežněvova doktrína) je z knihy, ne z článku; 3 body kritiky článek sám vyvrací (s. 14–15, 19–20, 23, 27, 30); 1 tvrzení obrácené (HDP, s. 31).*
