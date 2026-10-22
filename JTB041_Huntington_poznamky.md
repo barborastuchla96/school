@@ -10,6 +10,8 @@
 - **Část obsahu může pocházet z Huntingtonovy knihy, ne z článku.** Typologie *transformation / replacement / transplacement* a podrobná chronologie vln jsou rozpracované v knize *The Third Wave* (1991). Jestli jsou i v článku, ukáže až text. ⚠ Claudův předpoklad, ověřit.
 - **Strany 2, 4 a 5 obsahují tvrzení o jiných dílech a o pozdějším vývoji** (Fukuyama, *Střet civilizací* 1996, demokratický regres od cca 2006, hybridní režimy, šoková terapie). Každé takové tvrzení potřebuje vlastní zdroj, který Barbora viděla, nebo musí být formulované jako vlastní úvaha bez faktického tvrzení.
 - **Stopy po jiném nástroji:** v poznámkách je zápis `$\rightarrow$` (LaTeX) a kód předmětu „JMB502" (správně JTB041). Pokud část poznámek vznikla s pomocí jiného AI nástroje, **musí to být v prohlášení o AI** a obsah je třeba ověřit stejně přísně.
+  - ✅ **Vysvětlení Barbory 22. 10.:** píše bez diakritiky a diakritiku doplňuje přes **Gemini**. Odtud `$\rightarrow$`. ⚠ Kód „JMB502" ale není diakritika: Gemini mohl při úpravě i něco přepsat, takže výstup kontrolovat. **Pokud se Gemini použije i na odevzdávaný text, patří do prohlášení o AI** (jazyková úprava).
+- **Huntington, *Střet civilizací*:** Barbora knihu četla (sociologie, první VŠ) a má ji doma. Citovat lze po ověření konkrétní strany v knize.
 
 ---
 
