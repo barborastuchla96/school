@@ -201,3 +201,7 @@ Provedeno přímo v docu (nová revize AHj4eMTVrv8…), obsah podle článku se 
 **Zdroje nenalezeny, věty odstraněny (23. 10., na pokyn Barbory „pojďme to dát pryč"):** z bodu 1 věta *„Právě tento pokles životní úrovně … oslabil důvěru veřejnosti v nové demokratické instituce."*; z bodu 2 závorka *„(tzv. hybridní režimy, např. kompetitivní autoritářství) [doplnit zdroj]"*. Strana 4 teď stojí jen na článku.
 
 **„drastické" odstraněno** z bodu 1 (23. 10., na pokyn Barbory). ✅ Strana 4 hotová.
+
+**Strana 5, úpravy 23. 10. (na pokyn Barbory: „1. ok, 2 vyhodit, 3 postavme na tom…"):**
+- „zrakový úhel" → „úhel pohledu"; odstraněno „pro analýzu globálního demokratického regresu po roce 2006" (bez zdroje).
+- Čína: věta „Huntington předpokládal, že ekonomický rozvoj dlouhodobě podkopává autoritářství." nahrazena: *„Huntington s možností, že by Čína rostla pod autoritářskou vládou (s. 19–20), i s novými formami autoritářství v bohatých, informačně a technologicky vyspělých společnostech (s. 20, 33) počítá, ale žádnou z těchto možností nepovažuje za vysoce pravděpodobnou (s. 20) a článek uzavírá tím, že „time is on the side of democracy" (s. 33)."* Ověřeno proti článku ✅. Následující věta („Současný vývoj (např. Čína) však ukazuje…") ponechána jako vlastní úvaha Barbory.
