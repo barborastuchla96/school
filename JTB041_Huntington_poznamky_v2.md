@@ -195,3 +195,5 @@ Provedeno přímo v docu (nová revize AHj4eMTVrv8…), obsah podle článku se 
 **Bod 3, úprava 23. 10. podle diktátu Barbory** („tak primárně na ekonomice a vedení; a strukturálních a historických, které zmiňuje, ale s institucemi je nepropojuje"): v docu nyní *„…staví vývoj primárně na ekonomickém rozvoji a politickém vedení (s. 33–34). Podcenil tím hloubku institucionálních problémů v postsovětském prostoru, které nebyly pouhým selháním konkrétních lídrů, ale systémovým jevem. Strukturální a historické problémy sice zmiňuje (s. 14–15, 21, 23), ale s institucemi je nepropojuje."* Ověřeno proti článku ✅.
 
 **Bod 4 (kultura) vynechán** z docu 23. 10. na pokyn Barbory („4 vynechat"). Původní znění je výše ve verzi 3. Strana 4 má tedy tři body; *Střet civilizací* se v rozboru citovat nemusí.
+
+**Bod 1, úprava 23. 10. (na pokyn Barbory „ano prosím"):** „podkopává" → „může dlouhodobě podkopat" (s. 19: *„sustained inability … could over time undermine"*); „tržní reformy" → „nový konsenzus ekonomů 80. let" (s. 33). ⬜ Zbývá zdroj k poklesu životní úrovně a důvěře (bod 1) a ke kompetitivnímu autoritářství (bod 2).
