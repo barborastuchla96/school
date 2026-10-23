@@ -444,6 +444,7 @@ Tím je zodpovězena otázka 3 („co přesně znamená interpretace"). **🛑 I
 - **„Karta SIS uvádí 10–15 NS“ u malé seminárky JTB034**: karta JTB034 rozsah neuvádí. Zjištěno 15. 10.
 - **Karta JTB041 nebyla v projektu přepsána**, takže chyběly dvě písemné práce (rozbor textu do 15. 11., analýza přechodu do 27. 12.). Zjištěno 15. 10.
 - **„15 NS včetně aparátu“ připsáno kartě SIS**, která to neříká; uvádí jen, že práce musí mít poznámkový aparát. Zjištěno 15. 10.
+- **Chybné umístění citací Gaddise (23. 10.):** Claude v chatu uvedl, že „ordinary people“ a „sandpile“ jsou v oddílu I kap. 7; ve skutečnosti stojí v úvodní pasáži kapitoly před oddílem I. Opraveno týž den před zápisem do docu.
 - **Neověřená adresa „korektor.cz“ (22. 10.):** Claude uvedl adresu Korektoru z paměti, bez ověření. Ověřeno týž den: Korektor je nástroj ÚFAL MFF UK, stránka projektu ufal.mff.cuni.cz/korektor, webové rozhraní na lindat.mff.cuni.cz/services/korektor (Claudovi 22. 10. vracelo chybu 503, Barboře týž den funguje).
 
 ---
