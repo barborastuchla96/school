@@ -199,3 +199,5 @@ Provedeno přímo v docu (nová revize AHj4eMTVrv8…), obsah podle článku se 
 **Bod 1, úprava 23. 10. (na pokyn Barbory „ano prosím"):** „podkopává" → „může dlouhodobě podkopat" (s. 19: *„sustained inability … could over time undermine"*); „tržní reformy" → „nový konsenzus ekonomů 80. let" (s. 33). ⬜ Zbývá zdroj k poklesu životní úrovně a důvěře (bod 1) a ke kompetitivnímu autoritářství (bod 2).
 
 **Zdroje nenalezeny, věty odstraněny (23. 10., na pokyn Barbory „pojďme to dát pryč"):** z bodu 1 věta *„Právě tento pokles životní úrovně … oslabil důvěru veřejnosti v nové demokratické instituce."*; z bodu 2 závorka *„(tzv. hybridní režimy, např. kompetitivní autoritářství) [doplnit zdroj]"*. Strana 4 teď stojí jen na článku.
+
+**„drastické" odstraněno** z bodu 1 (23. 10., na pokyn Barbory). ✅ Strana 4 hotová.
