@@ -205,3 +205,16 @@ Provedeno přímo v docu (nová revize AHj4eMTVrv8…), obsah podle článku se 
 **Strana 5, úpravy 23. 10. (na pokyn Barbory: „1. ok, 2 vyhodit, 3 postavme na tom…"):**
 - „zrakový úhel" → „úhel pohledu"; odstraněno „pro analýzu globálního demokratického regresu po roce 2006" (bez zdroje).
 - Čína: věta „Huntington předpokládal, že ekonomický rozvoj dlouhodobě podkopává autoritářství." nahrazena: *„Huntington s možností, že by Čína rostla pod autoritářskou vládou (s. 19–20), i s novými formami autoritářství v bohatých, informačně a technologicky vyspělých společnostech (s. 20, 33) počítá, ale žádnou z těchto možností nepovažuje za vysoce pravděpodobnou (s. 20) a článek uzavírá tím, že „time is on the side of democracy" (s. 33)."* Ověřeno proti článku ✅. Následující věta („Současný vývoj (např. Čína) však ukazuje…") ponechána jako vlastní úvaha Barbory.
+
+## Strana 2: úpravy a ověření Gaddise (23. 10.)
+
+**Odstraněno z docu na pokyn Barbory („Gaddis checkni, zbytek vyhodíme"):** podnadpis „Propojení s další povinnou četbou", body Nečasová & Nolan, Kissinger a Fukuyama; v prvním bodě „Gaddis nebo Kissinger" → „Gaddis". Zůstává bod „Ekonomický determinismus vs. politické vedení" (opřený o článek).
+
+**Gaddis:** GADDIS, John Lewis. *The Cold War: A New History* (2005), kap. 7 „The Triumph of Hope" a Epilog „The View Back"; ve výtahu z readeru JTB041 PDF s. 26–41 (reader s. 291–306). ⚠ Stránky knihy ve výtahu nejsou; pro citaci zjistit vydání a stránkování (nebo citovat reader). ⚠ Vydání/rok ověřit proti titulní straně, ve výtahu chybí.
+
+**Tvrzení v poznámkách:** Huntington „propojuje systémový posun (vnímání geopolitiky, jak jej rozebírá Gaddis) s vnitropolitickými procesy".
+- ⚠ Gaddis konec studené války v kap. 7 **nevykládá hlavně geopoliticky**, spíš naopak: *„The people who dropped them were not in charge of superpowers or movements or religions: they were ordinary people … Their 'leaders' had little choice but to follow."*; *„a sandpile ready to slide"*; „criticality"; Gorbačovova volba nepoužít sílu *„made little sense in traditional geopolitical terms"*. Epilog: *„it was 'ordinary people' who made that happen"*. Geopolitika (sjednocení Německa, NATO) je v oddílu II kapitoly, ale není to jádro výkladu.
+- **Využitelné styčné body (Claudův postřeh, rozhodne Barbora):**
+  1. Gaddis (lidé zdola, vůdci jen následují) proti Huntingtonovi (příklad východní Evropy působil na vládce, *„not on the people they ruled"*, s. 16; změna vedení předchází demokratizaci, s. 21). Opora pro kritiku na straně 5 (elity vs. občanská společnost).
+  2. Epilog, *„the globalization of democratization"*: Gaddis vyjmenovává příčiny (žádné velké krize a války, politika podpory demokracie, vzdělání, informační revoluce, výkonnost trhů), podobné Huntingtonovým příčinám třetí vlny.
+  3. Epilog: *„South Korea, Taiwan, Singapore, and China all developed successful economies under less than democratic conditions"*; souvisí s bodem o Číně na straně 5.
