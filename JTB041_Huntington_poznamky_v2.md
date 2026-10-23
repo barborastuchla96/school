@@ -168,3 +168,22 @@ Provedeno přímo v docu (nová revize AHj4eMTVrv8…), obsah podle článku se 
 ---
 
 *Log AI (JTB041): 22. 10. 2026. Barbora poznámky přepracovala v Google Docu. Claude text přepsal do repozitáře (pravidlo projektu) a ověřil proti článku: 2 oddíly neodpovídají článku (7 faktorů, 4 skupiny); 3 tvrzení kritiky/postoje článek zmiňuje (hybridní režimy, ekonomické reformy, Čína); několik drobností. Opravy provede Barbora.*
+
+---
+
+## Strana 4, verze 3 (Barbora vložila do konverzace 23. 10., beze změny) a ověření
+
+> * Podcenění dopadů sociálně-ekonomické transformace v postkomunistickém prostoru:
+>    * Huntington varuje, že neschopnost demokratických vlád zajistit hospodářský rozvoj podkopává jejich legitimitu (s. 19) a pozitivně hodnotí tržní reformy (s. 33), neřeší však sociální dopady drastické privatizace a hospodářské transformace (šokové terapie) 90. let. Právě tento pokles životní úrovně v postkomunistických zemích výrazně oslabil důvěru veřejnosti v nové demokratické instituce.
+> * Chápání neplnohodnotných režimů jako pouhého přechodného stádia:
+>    * Huntington sice v článku zmiňuje polodemokracie (semidemocracies) a systémy dominantní strany na kontinuu mezi demokracií a autoritářstvím (s. 20, 27), ale přistupuje k nim jako k dočasným stavům na cestě k demokracii nebo zpět k diktatuře. Podcenil tak možnost, že tzv. hybridní režimy (např. kompetitivní autoritářství) se stanou trvalou a stabilní formou vládnutí, nikoliv jen dočasnou zastávkou.
+> * Institucionální duraz na úkor strukturálních pastí autoritářského nacionalismu:
+>    * Přestože Huntington výslovně zmminuje riziko vzestupu autoritářského nacionalismu ve Východní Evropě či obrody autoritářství v Rusku (s. 19–20), jeho analytický rámec staví vývoj primárně na dovednostech a rozhodnutích politického vedení (s. 33–34). Podcenil tím hloubku neinstitucionálních, strukturálních a historických problemu v postsovětském prostoru, které nebyly pouhým selháním konkrétních lídrů, ale systémovým jevem.
+> * Pohled na kulturu a náboženství jako proměnlivý faktor (ale mozna to vyhnechme, at sem nemusime tahat ten stret civilizaci]:
+>    * V článku z roku 1991 Huntington argumentuje proti statickému chápání kultury a odmítá, že by islám nebo konfucianismus byly trvalými překážkami (s. 30).
+
+**Ověření (Claude, 23. 10.):**
+1. **Transformace:** s. 19 ✅, ale u Huntingtona *„sustained inability to provide welfare, prosperity, equity, justice, domestic order, or external security **could** over time undermine the legitimacy"*, tedy „může podkopat", a nejde jen o hospodářský rozvoj. s. 33: hodnotí *„new consensus … among developmental economists"*, *„may or may not prove more lasting"*, *„already seems to have produced significant results"*; slovo „tržní" v textu není (vlastní označení). Věta o poklesu životní úrovně a důvěře potřebuje zdroj.
+2. **Hybridní režimy:** ⚠ beze změny proti verzi 2. „Přistupuje k nim jako k dočasným stavům" článek nepodporuje: *„a distinctly East Asian variety of democratic institutions"* (s. 26), *„democracy without turnover"*, *„adaptation of Western democratic practices"* (s. 27); pochybnost jen o přežití při dlouhém poklesu (s. 27). Japonsko je *„unquestionably a democracy"* (s. 26). Kompetitivní autoritářství potřebuje zdroj.
+3. **Strukturální pasti:** s. 19–20 ✅. ⚠ „Primárně na politickém vedení" je silnější než text: rozhodující jsou *„economic development and political leadership"*, oba (s. 33). ⚠ Strukturální a historické problémy postsovětského prostoru Huntington zmiňuje: etnická různorodost a *„the people cannot decide until somebody decides who are the people"*, *„years if not decades"* (s. 14–15); chybějící zkušenost s demokracií (s. 21); carské a osmanské dědictví, pravoslaví, bez feudalismu, renesance, reformace, osvícenství (s. 23). Nadpis („institucionální důraz") nesedí s obsahem (vedení není instituce).
+4. **Kultura:** s. 30 ✅ (*„cultures historically are dynamic, not stagnant"*). „Odmítá" je silnější než *„reasons to doubt whether these must necessarily prevent"* (s. 29) a *„viewed with a certain skepticism"* (s. 30). Vynechání je na Barboře.
