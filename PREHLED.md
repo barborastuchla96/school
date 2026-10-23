@@ -10,7 +10,7 @@
 |---|---|---|---|
 | **pá 16. 10.**, 14:00–17:00 | blok Litera (Zoom) | JTB039 | otázky v předávacím dokumentu, oddíl 7 |
 | **pá 16. 10.**, 17:00–19:50 | blok Szobi (odkaz přijde e-mailem v den přednášky) | JTB041 | otázky v předávacím dokumentu, oddíl 7 |
-| **30. 10.** | oznámit Literovi témata obou interpretací | JTB039 | návrh mailu v `JTB039_temata_interpretaci.md` (není v repozitáři) |
+| **30. 10.** | oznámit Literovi témata obou interpretací | JTB039 | ✅ odesláno 23. 10. (s tématem seminárky), čeká se na odpověď |
 | **15. 11.** | dohodnout s Literou téma seminární práce | JTB039 | práce je hotová, téma je dané |
 | **15. 11., 23:59** | **rozbor textu**, min. 5 NS, Moodle 2 | JTB041 | ⬜ nezačatý |
 | **27. 11.** | blok Smetana (datum potvrdila Barbora 15. 10.; karta ho neuvádí) | JTB036 | otázky mají jít mailem dřív, viz `JTB036_stav.md` |

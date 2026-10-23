@@ -29,7 +29,7 @@
 
 | kdy | co |
 |---|---|
-| **30. 10. 2026** | oznámit Literovi témata obou interpretací |
+| **30. 10. 2026** | oznámit Literovi témata obou interpretací | ✅ odesláno 23. 10.
 | **15. 11. 2026** | dohodnout s Literou téma seminární práce |
 
 ---

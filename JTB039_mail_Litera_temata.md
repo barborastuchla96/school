@@ -7,7 +7,8 @@
 - **Termín:** nejpozději **30. 10. 2026** (interpretace; seminárka by mohla do 15. 11., ale Litera chce všechno najednou)
 - **Předmět:** JTB039 – témata seminární práce a interpretací (Barbora Stuchlá)
 - Bez příloh, všechno v těle mailu.
-- ⬜ **21. 10.: Barbora odešle, až se v SIS změní studijní jméno** (aby Literu nezmátlo jiné jméno). ⚠ Kdyby se změna protáhla, poslat stejně nejpozději **29. 10.**; termín je 30. 10.
+- ✅ **Odesláno 23. 10. 2026** (Barbora), ze školní adresy na jmv504@seznam.cz, se stávajícím jménem ze SIS (změna jména v SIS se protahuje). Předmět „JTB039 - témata“, oslovení „Dobrý den“, doplněna otázka „Je to takto v pořádku?“; znění podle screenshotů z 23. 10. ⬜ Čeká se na odpověď Litery.
+- ~~21. 10.: odeslat, až se v SIS změní studijní jméno~~
 
 ---
 
