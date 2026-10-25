@@ -68,3 +68,4 @@
   - IRMANOVÁ, Eva. „Vnitřní procesy maďarské sovětizace 1944–1949 (Několik poznámek)". *Slovanský přehled*, 2014, č. 1 (obsah čísla, HIÚ AV ČR).
   - IRMANOVÁ, Eva. *Řešení maďarské otázky v Československu po roce 1945: mezinárodní aspekty* (katalog KNAV).
   - Údaje (rok, nakladatel, stránky) ověřit v katalogu před citací. Seminárka je hotová; jestli a jak Irmanovou zapracovat, rozhodne Barbora.
+- 25. 10.: Barbora: Irmanová není digitalizovaná. Upřesněno z obsahu čísla (PDF HIÚ AV ČR): studie „Vnitřní procesy maďarské sovětizace 1944–1949 (Několik poznámek)" začíná v *Slovanském přehledu* 2014, č. 1, na **s. 35** (konec stránkového rozsahu z obsahu nezjištěn). ⬜ Možnosti: dostupnost článku přes databáze UK (ukaz.cuni.cz), služba dodávání kopií článků v knihovně; nebo tip vynechat (Litera: „možná by se tam cos našlo", seminárka je hotová). Rozhodne Barbora.
