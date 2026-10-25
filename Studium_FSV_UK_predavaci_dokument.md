@@ -12,7 +12,7 @@ Studuje při plném pracovním úvazku. **Má už dva akademické tituly, mimo j
 
 Studijní e-mail: 50121202@fsv.cuni.cz. Studijní oddělení: Mgr. Eliška Raisová.
 
-**Litera (JTB039): všechno posílat na jmv504@seznam.cz** (blok 16. 10.).
+**Litera (JTB039): všechno posílat na jmb504@seznam.cz** (blok 16. 10.).
 
 ---
 
@@ -331,7 +331,7 @@ Text žije v Google Docs, soubor *REcenzeLUX, Martin – MIKESZOVÁ, Martina (ed
 
 ⚪ **Překlad citací:** Litera nic konkrétního neřekl (Barbora: „nevím, nějak normálně"). **Požadavek tedy neexistuje** a nepíše se jako požadavek; text JTB039 zůstává, jak je, rozhoduje Barbora a hlídá se jen konzistence.
 
-**🛑 Kam Literovi posílat VŠECHNO (témata, anotace, interpretace, seminární práci): jmv504@seznam.cz** *(řekl na bloku 16. 10., zapsáno podle Barbory)*
+**🛑 Kam Literovi posílat VŠECHNO (témata, anotace, interpretace, seminární práci): jmb504@seznam.cz** *(řekl na bloku 16. 10., zapsáno podle Barbory)*
 
 **🛑 Litera k interpretacím, jak má vypadat (blok 16. 10., zapsáno podle Barbory během bloku):**
 1. **autor se zabývá tou a tou problematikou v letech těch a těch**
@@ -444,6 +444,7 @@ Tím je zodpovězena otázka 3 („co přesně znamená interpretace"). **🛑 I
 - **„Karta SIS uvádí 10–15 NS“ u malé seminárky JTB034**: karta JTB034 rozsah neuvádí. Zjištěno 15. 10.
 - **Karta JTB041 nebyla v projektu přepsána**, takže chyběly dvě písemné práce (rozbor textu do 15. 11., analýza přechodu do 27. 12.). Zjištěno 15. 10.
 - **„15 NS včetně aparátu“ připsáno kartě SIS**, která to neříká; uvádí jen, že práce musí mít poznámkový aparát. Zjištěno 15. 10.
+- **Chybná adresa Litery „jmv504“ (zapsáno 16. 10., opraveno 25. 10.):** správně **jmb504@seznam.cz** (z té adresy Litera 24. 10. odpověděl; Barbora mail poslala na JMB504). Při zápisu z bloku chyba v jednom písmenu; nepodařilo se zjistit, jestli vznikla u Clauda, nebo už v zadání. Opraveno ve všech souborech.
 - **Chybné umístění citací Gaddise (23. 10.):** Claude v chatu uvedl, že „ordinary people“ a „sandpile“ jsou v oddílu I kap. 7; ve skutečnosti stojí v úvodní pasáži kapitoly před oddílem I. Opraveno týž den před zápisem do docu.
 - **Neověřená adresa „korektor.cz“ (22. 10.):** Claude uvedl adresu Korektoru z paměti, bez ověření. Ověřeno týž den: Korektor je nástroj ÚFAL MFF UK, stránka projektu ufal.mff.cuni.cz/korektor, webové rozhraní na lindat.mff.cuni.cz/services/korektor (Claudovi 22. 10. vracelo chybu 503, Barboře týž den funguje).
 

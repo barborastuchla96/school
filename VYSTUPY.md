@@ -29,7 +29,7 @@
 
 | kdy | co |
 |---|---|
-| **30. 10. 2026** | oznámit Literovi témata obou interpretací | ✅ odesláno 23. 10.
+| **30. 10. 2026** | oznámit Literovi témata obou interpretací | ✅ odesláno 23. 10., schváleno 24. 10.
 | **15. 11. 2026** | dohodnout s Literou téma seminární práce |
 
 ---
@@ -58,7 +58,7 @@
 
 ### 3. JTB039 interpretace 1 (Litera)
 
-- **🛑 Všechno pro Literu se posílá na jmv504@seznam.cz** (blok 16. 10.).
+- **🛑 Všechno pro Literu se posílá na jmb504@seznam.cz** (blok 16. 10.).
 
 - **Text:** Luňák, *Západ*, oddíl „Studená válka a Trumanova doktrína", s. 67–74.
 - **Soubor:** Google Docs „JTB039 — Interpretace 1: Luňák, Západ, s. 67–74" (`1JSIbncs6KmP6H-XPKWYFWgpxK7HcS0KVJ-kB03NO748`).

@@ -2,12 +2,12 @@
 
 *Sestaveno 18. 10. 2026. **Návrh znění od Clauda, k přepsání vlastními slovy.** Údaje (jména, tituly, strany, roky) ověřené proti pramenům a souborům projektu, viz poznámky pod návrhem. Odesílá Barbora.*
 
-- **Komu:** jmv504@seznam.cz *(Litera na bloku 16. 10.: „všechno se posílá sem")*
+- **Komu:** jmb504@seznam.cz *(Litera na bloku 16. 10.: „všechno se posílá sem")*
 - **Odkud:** doporučeně ze školní adresy 50121202@fsv.cuni.cz
 - **Termín:** nejpozději **30. 10. 2026** (interpretace; seminárka by mohla do 15. 11., ale Litera chce všechno najednou)
 - **Předmět:** JTB039 – témata seminární práce a interpretací (Barbora Stuchlá)
 - Bez příloh, všechno v těle mailu.
-- ✅ **Odesláno 23. 10. 2026** (Barbora), ze školní adresy na jmv504@seznam.cz, se stávajícím jménem ze SIS (změna jména v SIS se protahuje). Předmět „JTB039 - témata“, oslovení „Dobrý den“, doplněna otázka „Je to takto v pořádku?“; znění podle screenshotů z 23. 10. ⬜ Čeká se na odpověď Litery.
+- ✅ **Odesláno 23. 10. 2026** (Barbora), ze školní adresy na jmb504@seznam.cz, se stávajícím jménem ze SIS (změna jména v SIS se protahuje). Předmět „JTB039 - témata“, oslovení „Dobrý den“, doplněna otázka „Je to takto v pořádku?“; znění podle screenshotů z 23. 10. ⬜ Čeká se na odpověď Litery.
 - ~~21. 10.: odeslat, až se v SIS změní studijní jméno~~
 
 ---
@@ -39,7 +39,7 @@
 
 | údaj | zdroj |
 |---|---|
-| adresa jmv504@seznam.cz | Litera na bloku 16. 10., zapsáno podle Barbory |
+| adresa jmb504@seznam.cz | Litera na bloku 16. 10., zapsáno podle Barbory |
 | oslovení „pane doktore" | karta SIS: PhDr. Bohuslav Litera, CSc. |
 | název seminárky | `Studium_FSV_UK_predavaci_dokument.md`, oddíl 6.4 |
 | věta o seminárce | teze z oddílu 6.4 (obě vlády rozhodly 11. 7.; „kolik donucení bylo ještě potřeba") |
@@ -53,3 +53,18 @@
 ⚠ **Věta o seminárce** je zkratka Claudova; Barbora ji přepíše tak, aby seděla na její vlastní formulaci teze.
 
 *Log AI: 18. 10. 2026. Návrh mailu sestavil Claude na žádost Barbory („ano prosím, pojďme na to"). Text mailu je návrh; Barbora ho upraví a odešle sama.*
+
+---
+
+## Odpověď Litery (so 24. 10. 2026, 16:13, z jmb504@seznam.cz)
+
+*Přepsáno 25. 10. ze screenshotu, který Barbora vložila do konverzace.* Barbořin mail byl odeslán 23. 10. 2026 v 18:57 na JMB504@seznam.cz, předmět „JTB039 - témata ke schválení".
+
+> OK, "beru". Pokud se týká sem. práce, podívejte se, prosím, na práce kolegyně Evy Irmanové. Nevím, ale možná by se tam cos našlo. Dejte se do toko Zdravím Vás. B.L.
+
+- ✅ **Témata seminární práce i obou interpretací schválena.**
+- ⬜ **Tip k seminárce: práce Evy Irmanové** (historička Maďarska). Nalezeno přes WebSearch 25. 10., **nečteno, obsah neověřen**:
+  - IRMANOVÁ, Eva. *Maďarsko v éře sovětizace: mezinárodní a politické aspekty.* 2008 (záznam IdRef).
+  - IRMANOVÁ, Eva. „Vnitřní procesy maďarské sovětizace 1944–1949 (Několik poznámek)". *Slovanský přehled*, 2014, č. 1 (obsah čísla, HIÚ AV ČR).
+  - IRMANOVÁ, Eva. *Řešení maďarské otázky v Československu po roce 1945: mezinárodní aspekty* (katalog KNAV).
+  - Údaje (rok, nakladatel, stránky) ověřit v katalogu před citací. Seminárka je hotová; jestli a jak Irmanovou zapracovat, rozhodne Barbora.
