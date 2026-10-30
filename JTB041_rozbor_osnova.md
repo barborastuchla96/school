@@ -48,3 +48,15 @@ Strana 5 poznámek: souhlas (cykličnost; rozvoj + vedení); nesouhlas (elity ×
 ---
 
 **Ke zvážení:** zadání v Moodlu má pět „stran" (hlavní myšlenky, kontext, co vyplývá, kritika, postoj). Oddíly 1–6 = hlavní myšlenky, 7 = kontext, 8–10 = zbytek; struktura zadání je tak zachovaná.
+
+---
+
+## ✅ Rozhodnutí Barbory 30. 10.: zkrácená varianta (cíl celkem ~9–10 NS)
+
+**4. Protivlna, překážky a závěr článku (~1,5 NS, 4 odstavce)**
+1. Možná třetí protivlna: Súdán, Nigérie (s. 17); kdo demokracie ruší, elity u moci (s. 18); možné příčiny jednou větou (s. 19–20); nic z toho nepovažuje za vysoce pravděpodobné (s. 20).
+2. Překážky politické a kulturní: chybějící zkušenost s demokracií (s. 21); konfucianismus a islám jako možné překážky, ale kultury se mění (s. 22–30).
+3. Ekonomika: transition zone, chudoba jako hlavní překážka (s. 30–31).
+4. Závěr článku: rozvoj umožňuje, vedení uskutečňuje; podmíněný optimismus (s. 33–34).
+
+**5. Gaddis (~1 NS)**, **6. Co z textu vyplývá (~1 NS)**, **7. Kritika (~1 NS)**, **8. Osobní postoj a závěr (~1 NS)**: podle oddílů 7–10 výše. Sedm faktorů a čtyři skupiny zemí jen jednou větou nebo vůbec.
