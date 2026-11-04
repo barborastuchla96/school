@@ -1,6 +1,6 @@
 # JTB041: rozbor textu (Huntington 1991), text Barbory
 
-*Přepis z Google Docu, **stav 4. 11. 2026 po sloučení** (příčiny jen v odd. 3). Rozsah bez nadpisu práce a seznamu literatury: **10034 znaků s odkazy = 5.6 NS; bez závorkových odkazů 9459 = 5.3 NS** (Szobi: aparát se nepočítá). Minimum 9 000 znaků = 5 NS.*
+*Přepis z Google Docu, **stav 4. 11. 2026 se závěrem** (odd. 1–7). Rozsah bez nadpisu práce a seznamu literatury: **11 037 znaků s odkazy = 6,1 NS; bez závorkových odkazů 10 462 = 5,8 NS** (Szobi: aparát se nepočítá). Minimum 9 000 znaků = 5 NS.*
 
 ---
 
@@ -61,6 +61,14 @@ Další omezení Huntingtonova přístupu vidím v tom, jak pracuje s ekonomicko
 Za problematické považuji také Huntingtonovo poměrně optimistické hodnocení dlouhodobých vyhlídek demokracie. Autor sice připouští možnost ekonomicky úspěšné autoritářské Číny a upozorňuje na nové formy diktatur, ale jejich dlouhodobou stabilitu spíše podceňuje (Huntington, 1991, s. 19–20, 33). Vývoj Číny ukazuje, že hospodářský růst nemusí nutně vést k demokratizaci a může naopak poskytnout autoritářskému režimu další prostředky k upevnění moci.
 
 Podobně Huntington zmiňuje polodemokratické režimy a systémy dominantní strany (Huntington, 1991, s. 20, 26–27), ale méně se zabývá možností, že by se stabilní formou vlády mohl stát režim, který sice pořádá volby, ale zároveň systematicky omezuje politickou soutěž. Současné zkušenosti s takovými režimy ukazují, že hranice mezi demokracií a autoritářstvím nemusí být vždy jednoznačná a že demokratické instituce mohou být oslabovány i bez úplného odstranění voleb.
+
+7. Závěr
+
+Huntingtonův článek nabízí důležitý pohled na demokratizaci jako na otevřený a potenciálně vratný proces. Za jeho největší přínos považuji koncept demokratizačních vln a protivln, který umožňuje vysvětlit nejen rozšiřování demokracie, ale také její ústup. Přesvědčivé je rovněž propojení hospodářských a kulturních podmínek s rolí politického vedení.
+
+Zároveň si myslím, že Huntington nedostatečně zohledňuje význam občanské společnosti, sociální důsledky hospodářských změn a schopnost autoritářských režimů přizpůsobovat se novým podmínkám. Jeho závěrečný optimismus, podle kterého čas hraje ve prospěch demokracie, proto dnes působí méně přesvědčivě než v roce 1991.
+
+Právě v tom však spočívá i současná relevance článku. Huntington připomíná, že demokracie není samozřejmým ani nezvratným výsledkem historického vývoje. Její existence závisí nejen na podmínkách, které umožnily její vznik, ale také na schopnosti demokratických institucí dlouhodobě udržet legitimitu a obstát v období krizí.
 
 Seznam literatury
 
@@ -210,3 +218,13 @@ Pět faktorů (s. 13); „performance legitimacy" (s. 13); 2. vatikánský konci
 **Ověření (Claude, 4. 11.):** ✅ věcně sedí (s. 12–15). ⚠ Chybí odkaz u 2. odstavce (s. 13) a u 4. odstavce (s. 14–15). ⚠ „Tato změna pomáhá vysvětlit…": Huntington souvislost výslovně nevyvozuje, ale mluví o „katolické vlně" a o *„Catholic impetus to democratization"* (s. 13), takže výklad obstojí. ⬜ **Chybí pátá příčina (snowballing) a teze, že do roku 1990 příčiny zeslábly (s. 13, 16–17).**
 
 **Úprava 4. 11. (Claude, na pokyn Barbory „ano"):** příčiny byly v docu dvakrát (konec odd. 2 a odd. 3, obojí od Barbory); z odd. 2 smazány odstavce „První příčinou…" až „…ani stabilitu nových demokracií.", ponechán odd. 3. Odd. 2 končí větou „Huntington přitom identifikuje pět hlavních příčin tohoto vývoje". Do tohoto zásahu Claude omylem tvrdil, že snowballing a zeslábnutí příčin v textu chybí (hodnotil jen úryvek z chatu, doc už je obsahoval).
+
+---
+
+## Překryvy odd. 1–4 a závěru (Claude, 4. 11., na dotaz Barbory)
+
+Závěr (odd. 7) věcně sedí („time is on the side of democracy", s. 33). Překryvy:
+1. **Konec odd. 2 × začátek odd. 3:** „Huntington přitom identifikuje pět hlavních příčin tohoto vývoje" a hned „Huntington identifikuje pět hlavních faktorů…". Doslovné opakování.
+2. **Konec odd. 3 × začátek odd. 4:** „pokračování demokratizace nepovažoval za samozřejmé" → „upozorňuje na možnost třetí protivlny". Přirozený přechod, ale stejná myšlenka je už i v úvodu (odd. 1, 2. odst.: „úspěch … nelze považovat za samozřejmost…").
+3. **Legitimita třikrát:** úvod (nové demokracie mohou ztratit legitimitu), odd. 3 (krize legitimity autoritářských režimů), odd. 4, 2. odst. (demokratická vláda může ztratit legitimitu). Odd. 3 a 4 jsou dvě různé věci (autoritářské × demokratické režimy), úvod předjímá odd. 4.
+4. **Konec odd. 4 × poslední odstavec závěru:** obojí říká, že přechod k demokracii a její udržení jsou dvě různé věci a demokracie musí obstát v krizích.
