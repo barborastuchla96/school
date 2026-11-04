@@ -10,13 +10,13 @@ Rozbor textu Samuela P. Huntingtona: Třetí vlna demokratizace, její příčin
 
 Samuel P. Huntington se ve svém článku z roku 1991 zabývá příčinami demokratizace a otázkou, zda může po období rozšiřování demokracie následovat návrat k autoritářství. Demokratizaci nechápe jako nezvratný historický vývoj, ale jako proces, ve kterém se střídají období rozšiřování demokratických institucí s jejich oslabováním. Důležitou součástí jeho analýzy proto nejsou pouze podmínky vzniku demokracie, ale také okolnosti, za kterých může demokracie selhat.
 
-Článek vznikl v období zásadních politických změn spojených s koncem studené války. Pád komunistických režimů ve střední a východní Evropě v roce 1989 Huntington zasazuje do širšího procesu, který označuje jako třetí vlnu demokratizace. Zároveň však upozorňuje, že úspěch těchto změn nelze považovat za samozřejmost. Nově vzniklé demokracie mohou ztratit legitimitu, pokud nedokážou řešit hospodářské a společenské problémy nebo pokud se změní mezinárodní podmínky, které jejich existenci podporovaly (Huntington, 1991, s. 12–17).
+Článek vznikl v období zásadních politických změn spojených s koncem studené války. Pád komunistických režimů ve střední a východní Evropě v roce 1989 Huntington zasazuje do širšího procesu, který označuje jako třetí vlnu demokratizace (Huntington, 1991, s. 12).
 
 2. Demokratizační vlny a jejich historická logika
 
 Huntington rozlišuje tři demokratizační vlny a dvě protivlny, během kterých se část zemí vrátila k autoritářskému způsobu vlády. První vlna probíhala od 19. století do roku 1926 a vedla ke vzniku přibližně 29 demokracií. Následovala protivlna spojená mimo jiné se vzestupem fašismu a nacismu, v jejímž důsledku se počet demokracií snížil na 12. Druhá vlna začala po druhé světové válce a dosáhla vrcholu s přibližně 36 demokratickými režimy. Od šedesátých let však opět následovaly vojenské převraty a upevňování autoritářských vlád (Huntington, 1991, s. 12).
 
-Třetí vlna začala v roce 1974 pádem autoritářského režimu v Portugalsku a postupně zasáhla Evropu, Latinskou Ameriku, Asii i část Afriky. Do roku 1990 přešlo k demokracii nejméně třicet zemí, čímž se počet demokratických režimů téměř zdvojnásobil. Huntington přitom identifikuje pět hlavních příčin tohoto vývoje (Huntington, 1991, s. 12–13).
+Třetí vlna začala v roce 1974 pádem autoritářského režimu v Portugalsku a postupně zasáhla Evropu, Latinskou Ameriku, Asii i část Afriky. Do roku 1990 přešlo k demokracii nejméně třicet zemí, čímž se počet demokratických režimů téměř zdvojnásobil (Huntington, 1991, s. 12).
 
 3. Příčiny třetí vlny demokratizace
 
@@ -36,7 +36,7 @@ Za zvlášť nebezpečnou považuje situaci, kdy demokratická vláda dlouhodob�
 
 Vedle vnitřních problémů demokratických států upozorňuje také na možné posilování autoritářských velmocí, zejména Sovětského svazu a Číny. Uvažuje rovněž o nových formách autoritářství, včetně nacionalistických, náboženských nebo technologicky vyspělých diktatur. Ačkoli jejich nástup nepovažuje za vysoce pravděpodobný, připouští, že demokratizační vývoj nemusí pokračovat stejným směrem jako v předchozích desetiletích (Huntington, 1991, s. 19–20).
 
-Právě toto upozornění považuji za jednu z nejpřínosnějších částí textu. Huntington ukazuje, že přechod k demokracii a její dlouhodobé udržení jsou dva odlišné problémy. Úspěšné odstranění autoritářského režimu samo o sobě nezaručuje, že nové demokratické instituce dokážou obstát při dalších hospodářských nebo politických krizích.
+Právě toto upozornění považuji za jednu z nejpřínosnějších částí textu.
 
 5. Kulturní a ekonomické podmínky demokratizace
 
@@ -228,3 +228,5 @@ Závěr (odd. 7) věcně sedí („time is on the side of democracy", s. 33). P�
 2. **Konec odd. 3 × začátek odd. 4:** „pokračování demokratizace nepovažoval za samozřejmé" → „upozorňuje na možnost třetí protivlny". Přirozený přechod, ale stejná myšlenka je už i v úvodu (odd. 1, 2. odst.: „úspěch … nelze považovat za samozřejmost…").
 3. **Legitimita třikrát:** úvod (nové demokracie mohou ztratit legitimitu), odd. 3 (krize legitimity autoritářských režimů), odd. 4, 2. odst. (demokratická vláda může ztratit legitimitu). Odd. 3 a 4 jsou dvě různé věci (autoritářské × demokratické režimy), úvod předjímá odd. 4.
 4. **Konec odd. 4 × poslední odstavec závěru:** obojí říká, že přechod k demokracii a její udržení jsou dvě různé věci a demokracie musí obstát v krizích.
+
+**Konsolidace 4. 11. (Claude, na pokyn Barbory „nějak to zkonsoliduj prosím"):** jen škrty, bez přepisování: (1) konec odd. 2, věta „Huntington přitom identifikuje pět hlavních příčin…" (odkaz s. 12 ponechán u předchozí věty); (2) úvod, 2. odst., věty „Zároveň však upozorňuje… podporovaly" (odkaz s. 12 k předchozí větě); (3) konec odd. 4, dvě věty o přechodu a udržení demokracie (myšlenka zůstává v závěru). Rozsah po úpravě: 10355 znaků s odkazy (5.8 NS), bez odkazů 9786 (5.4 NS). Do prohlášení o AI i tyto škrty.
