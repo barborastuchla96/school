@@ -1,6 +1,6 @@
 # JTB041: rozbor textu (Huntington 1991), text Barbory
 
-*Přepis rozepsaného textu z Google Docu „JTB041: Příprava na rozbor textu" (pod poznámkami), **stav 24. 10. 2026** (úvod, odd. 2, odd. 3). Text píše Barbora; tento soubor je kopie pro evidenci stavu. Rozsah: **8 850 znaků = 4,9 NS** (včetně nadpisu; minimum 9 000 znaků = 5 NS).*
+*Přepis rozepsaného textu z Google Docu „JTB041: Příprava na rozbor textu" (pod poznámkami), **stav 4. 11. 2026** (úvod, odd. 2–4). Text píše Barbora; tento soubor je kopie pro evidenci stavu. Rozsah: **11 234 znaků = 6,2 NS** (včetně nadpisu; minimum 9 000 znaků = 5 NS).*
 
 ---
 
@@ -40,9 +40,19 @@ Třetí příčinou byla proměna postavení katolické církve. Po druhém vati
 
 Pátou příčinou byl takzvaný efekt sněhové koule, tedy demonstrační účinek úspěšných demokratických přechodů. Pokud se jedné zemi podaří překonat autoritářský režim, může tím povzbudit politické aktéry v dalších státech (Huntington, 1991, s. 13). Úspěšná změna zároveň poskytuje praktický příklad toho, že přechod k demokracii je možný. Lze se domnívat, že tento mechanismus může urychlovat šíření demokratických institucí, protože snižuje nejistotu spojenou s politickou změnou a zvyšuje očekávání, že podobný výsledek lze dosáhnout i jinde.
 
-Huntington ovšem upozorňuje, že efekt sněhové koule nelze chápat jako samostatnou a dostačující příčinu demokratizace. Události ve východní Evropě v roce 1989 působily podle něj především na představitele dalších autoritářských režimů, kteří mohli dospět k závěru, že dosavadní způsob vlády je neudržitelný. Efekt sněhové koule byl podle něj skutečný jen tehdy, pokud je přesvědčil o žádoucnosti či nutnosti demokratizace (Huntington, 1991, s. 16-17). Tento účinek se nemusel bezprostředně projevit u obyvatelstva, které dané režimy ovládaly. Například zairský prezident Mobutu reagoval zděšeně na televizní záběry popravy svého přítele, rumunského vůdce Nicolae Ceaușesca, které představovaly názornou ukázku toho, jak rychle může dojít k pádu dosud zdánlivě stabilního režimu. O několik měsíců později oznámil, že ve volbách umožní kandidovat i dvěma dalším stranám. Samotná inspirace zahraničními událostmi však nemůže nahradit domácí politické a společenské podmínky potřebné pro změnu (Huntington, 1991, s. 13, 16).
+Huntington ovšem upozorňuje, že efekt sněhové koule nelze chápat jako samostatnou a dostačující příčinu demokratizace. Události ve východní Evropě v roce 1989 působily podle něj především na představitele dalších autoritářských režimů, kteří mohli dospět k závěru, že dosavadní způsob vlády je neudržitelný. Efekt sněhové koule byl podle něj skutečný jen tehdy, pokud je přesvědčil o žádoucnosti či nutnosti demokratizace (Huntington, 1991, s. 16-17). Tento účinek se nemusel bezprostředně projevit u obyvatelstva, které dané režimy ovládaly. Například zairský prezident Mobutu reagoval zděšeně na televízní záběry popravy svého přítele, rumunského vůdce Nicolae Ceaușesca, které představovaly názornou ukázku toho, jak rychle může dojít k pádu dosud zdánlivě stabilního režimu. O několik měsíců později oznámil, že ve volbách umožní kandidovat i dvěma dalším stranám. Samotná inspirace zahraničními událostmi však nemůže nahradit domácí politické a společenské podmínky potřebné pro změnu (Huntington, 1991, s. 13, 16).
 
-Zásadní je, že do roku 1990 původní příčiny třetí vlny podle Huntingtona výrazně zeslábly a některé se prakticky vyčerpaly. Z tohoto důvodu nepovažoval pokračování demokratizace za samozřejmé. Faktory, které přispěly k počátečnímu úspěchu vlny, totiž nemusely být dostatečně silné k tomu, aby zajistily její další rozšiřování nebo dlouhodobou stabilitu již vzniklých demokracií (Huntington, 1991, s. 17).
+Zásadní je, že do roku 1990 původní příčiny třetí vlny podle Huntingtona výrazně zeslábly a některé se prakticky vyčerpaly. Z tohoto důvodu nepovažoval pokračování demokratizace za samozřejmé. Faktory, které přispěly k počátečnímu úspěchu vlny, totiž nemusely být dostatečně silné k tomu, aby zajistily její další rozšiřování nebo dlouhodobou stabilitu již vzniklých demokracií (Huntington, 1991, s. 17).4. Kulturní a ekonomické podmínky demokratizace
+
+Další část Huntingonova článku se věnuje překážkám demokratizace v zemích, které na počátku devadesátých let zatím zůstávaly nedemokratické. Huntington mezi ně řadí zejména marxisticko-leninistické režimy, státy subsaharské Afriky, islámské země a část východní Asie. Překážky jejich demokratizace rozděluje na politické, kulturní a ekonomické (Huntington, 1991, s. 20–22).
+
+V kulturní oblasti se zabývá zejména otázkou, zda jsou konfuciánské nebo islámské hodnoty slučitelné s demokracií. Přestože upozorňuje na některé autoritářské prvky těchto tradic, nepovažuje kulturu za neměnnou překážku demokratizace. Kulturní hodnoty se podle něj mohou proměňovat v souvislosti s hospodářským a společenským vývojem. Jako příklady uvádí demokratizační procesy v Jižní Koreji a na Tchaj-wanu (Huntington, 1991, s. 22–30).
+
+Tento přístup považuji za důležitý, protože odmítá představu, že by určité společnosti byly na základě své kultury nebo náboženství trvale neschopné demokratické vlády. Politickou roli kulturních institucí je podle mě nutné posuzovat v konkrétním historickém kontextu, nikoliv ji považovat za předem danou.
+
+Ještě větší význam Huntington přikládá hospodářskému rozvoji. Poukazuje na silný vztah mezi ekonomickou úrovní země a existencí demokratických institucí. Chudobu označuje za jednu z hlavních, pravděpodobně dokonce největší překážku demokracie. Zároveň ukazuje, že demokratické přechody se nejčastěji odehrávají v určitém pásmu hospodářského rozvoje, které nazývá political transition zone (Huntington, 1991, s. 30–33).
+
+Hospodářský rozvoj však podle Huntingtona demokratizaci automaticky nezaručuje. V závěru článku svůj argument shrnuje myšlenkou, že ekonomický rozvoj vytváří předpoklady demokracie, ale její uskutečnění závisí na politickém vedení (Huntington, 1991, s. 33–34). Jeho přístup tak propojuje strukturální podmínky s rozhodováním konkrétních politických aktérů.
 
 ---
 
@@ -100,3 +110,17 @@ Pět faktorů (s. 13); „performance legitimacy" (s. 13); 2. vatikánský konci
 **Úprava 24. 10. (Claude, na pokyn Barbory „zmírnila i formulovala jako svůj výklad"):** v odd. 3 deset úprav v docu i v kopii výše: legitimita (výčet zmírněn; „široce přijímány"), růst (podle s. 13 + odkaz; „Lze předpokládat"; „podle mého výkladu … srov. s. 33"), církev (podle s. 13 + odkaz; „Z toho podle mě plyne … srov. s. 30"), snowballing (odkaz s. 13; „Lze se domnívat"; doplněna věta podle s. 16–17). **Do prohlášení o AI:** úpravy formulací a doplnění odkazů v oddílu 3 provedené Claudem na pokyn autorky. Zbývají drobnosti v odd. 1–2.
 
 **Úprava 24. 10. (Claude, na pokyn Barbory „ano"):** drobnosti v odd. 1–2 opraveny v docu i v kopii výše: „jednak … jednak"; „Demokracie se … mohou vracet"; „současnou odolnost"; 1. vlna „během ní vzniklo přibližně 29 demokracií"; „v roce 1942 … 12 (s. 12)"; 2. protivlna „na 30 (s. 12, 18)"; „v menší míře i Afriky"; „se … zdvojnásobil (s. 12)"; „podle mého názoru vyžaduje odlišné podmínky". Portugalsko 1974 ponecháno jako obecně známý fakt. **Do prohlášení o AI** i tyto úpravy. Rozsahy stran se spojovníkem (12-13) sjednotit na pomlčku až na konci. ✅ Všechny body ověření odd. 1–3 vyřízeny.
+
+---
+
+## Ověření odd. 4 „Kulturní a ekonomické podmínky demokratizace" (Claude, 4. 11.)
+
+**✅ Věcně sedí:** čtyři skupiny nedemokratických zemí a překážky politické, kulturní, ekonomické (s. 20–21); kultura není neměnná překážka a mění se s vývojem (s. 29–30); Korea a Tchaj-wan (s. 25–26); silný vztah bohatství a demokracie, chudoba „pravděpodobně největší" překážka, political transition zone (s. 30–31); „rozvoj umožňuje, vedení uskutečňuje" (s. 33). Vlastní názor je označený („považuji", „podle mě").
+
+**⚠ Drobnosti:**
+- Nadpis „4." je v docu nalepený na konec předchozího odstavce („…s. 17).4. Kulturní…"); chybí Enter.
+- „Huntingonova" → „Huntingtonova"; „marxisticko-leninistické" → spisovně „marxisticko-leninské".
+- „political transition zone" dát do uvozovek nebo kurzívy (cizí termín).
+- Korea a Tchaj-wan: jako obecný příklad toho, jak ekonomika mění kulturu, uvádí Huntington výslovně **Španělsko** (s. 30); Korea a Tchaj-wan jsou na s. 25–26 (u Koreje píše, že střet staré kultury a nové prosperity zatím nebyl rozhodnut, s. 26). Odkaz „s. 22–30" pokrývá obojí, jen pro přesnost.
+
+**⚠ Ke zvážení:** úvod práce uvádí jako Huntingtonovu tezi, že po rozšiřování demokracie může přijít další vlna návratu k autoritářství. Samotná **třetí protivlna** (s. 17–20: Súdán a Nigérie, možné příčiny, nic z toho nepovažuje za vysoce pravděpodobné) v textu zatím vysvětlená není. Stačily by 2–3 věty, např. na začátek odd. 4; hodí se i pro pozdější kritiku (Čína, s. 19–20).
