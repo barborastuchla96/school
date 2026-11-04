@@ -116,3 +116,20 @@ Zatím nenapsáno; relevantní bude práce s readerem.
 *Log AI: 2. 10. 2026 — doplněno znění k JTB039 ve dvou variantách a poznámka ke Kubátovu výroku z bloku. **Obě varianty navrhl Claude, výběr je na Barboře.***
 
 *Log AI: 2. 10. 2026, druhý zápis — **celý soubor přepsán podle oficiálního návodu UK, který dodala B.** Claudova dřívější znění byla proti šabloně zhruba trojnásobně delší a vyprávěla, co ověřování odhalilo; **šablona UK ani žádný z jejích čtyř příkladů tohle nedělá.** Byla to Claudova chyba ve formě, ne ve faktech: údaje byly pravdivé, ale formát neodpovídal zadání. Nově jsou všechna čtyři znění v šabloně UK, data jsou vynechána jako nedoplněná a doplní se před odevzdáním.*
+
+---
+
+## JTB041 — rozbor textu (Huntington 1991)
+
+*Návrh 4. 11. 2026 na žádost Barbory. Začátek práce s Claudem: 22. 10. 2026 (první soubor k Huntingtonovi v projektu). Konec: datum odevzdání (nejpozději 15. 11. 2026).*
+
+> Prohlašuji, že při přípravě předložené práce byly použity následující nástroje generativní AI uvedenými způsoby:
+>
+> Při přípravě práce byl použit nástroj Claude (Anthropic) v období 22. 10. – [*datum odevzdání*] 2026. Nástroj jsem použila k ověřování poznámek a citací proti analyzovanému článku, k návrhu osnovy práce a k dílčím úpravám textu podle mých pokynů (věcné opravy, úpravy formulací, doplnění odkazů a zkrácení).
+>
+> [*Jen pokud platí:* Při přípravě práce byl použit nástroj Gemini (Google) v období [*od–do*]. Nástroj jsem použila k doplnění diakritiky.]
+>
+> Po použití uvedených nástrojů umělé inteligence jsem důkladně revidovala a upravila obsah podle potřeby a plně přejímám odpovědnost za výslednou podobu práce.
+
+⬜ **Gemini:** Barbora ho používala na diakritiku v poznámkách (22. 10.). Větu ponechat, jen pokud prošel Gemini i text rozboru; jinak vypustit. Korektor (ÚFAL) není generativní AI; v pochybnostech lze uvést.
+⬜ Umístění: na začátek práce před úvod, nebo jako příloha. ⬜ Generátor UK (ai.cuni.cz/AI-80.html) ověřit, jestli už běží.
