@@ -190,3 +190,17 @@ Pět faktorů (s. 13); „performance legitimacy" (s. 13); 2. vatikánský konci
 > Zásadní je, že do roku 1990 původní příčiny třetí vlny podle Huntingtona výrazně zeslábly a některé se prakticky vyčerpaly. Z tohoto důvodu nepovažoval pokračování demokratizace za samozřejmé. Faktory, které přispěly k počátečnímu úspěchu vlny, totiž nemusely být dostatečně silné k tomu, aby zajistily její další rozšiřování nebo dlouhodobou stabilitu již vzniklých demokracií (Huntington, 1991, s. 17).
 
 **Obnova 4. 11. (Claude, na pokyn Barbory „ano prosím"):** původní odd. 3 „Příčiny třetí vlny demokratizace" (znění z archivu výše, se všemi dřívějšími opravami) vložen zpět do docu mezi odd. 2 a „Riziko třetí protivlny"; nadpis jako Nadpis 2, text jako normální text. Přečíslováno: 4. Riziko třetí protivlny, 5. Kulturní a ekonomické podmínky, 6. Širší kontext a kritické zhodnocení. Rozsah po obnově: 14 592 znaků s odkazy (8,1 NS), bez odkazů 13 763 (7,6 NS). ⬜ Barbora oddíl zkrátí na zhruba jeden odstavec.
+
+---
+
+## Nové znění třetí vlny a příčin (Barbora vložila do konverzace 4. 11., varianta B, zatím jen v chatu)
+
+> Třetí vlna začala v roce 1974 pádem autoritářského režimu v Portugalsku a postupně zasáhla Evropu, Latinskou Ameriku, Asii i část Afriky. Do roku 1990 přešlo k demokracii nejméně třicet zemí, čímž se počet demokratických režimů téměř zdvojnásobil. Huntington přitom identifikuje pět hlavních příčin tohoto vývoje (Huntington, 1991, s. 12–13).
+>
+> První příčinou byla krize legitimity autoritářských režimů. Ty svou vládu často ospravedlňovaly hospodářskými a politickými výsledky, ale pokud nedokázaly naplnit očekávání obyvatelstva, jejich postavení sláblo. Druhým faktorem byl hospodářský růst šedesátých let, který přispěl k rozšíření městské střední třídy a vytvořil příznivější společenské podmínky pro demokratizaci.
+>
+> Významnou roli sehrála také proměna katolické církve po druhém vatikánském koncilu. V některých zemích se církev postupně změnila z podporovatele stávajícího politického uspořádání v odpůrce autoritářských režimů. Tato změna pomáhá vysvětlit, proč přibližně tři čtvrtiny zemí, které se demokratizovaly v letech 1974–1989, byly převážně katolické (Huntington, 1991, s. 13).
+>
+> Čtvrtou příčinou byl vliv mezinárodního prostředí. Evropské společenství vytvářelo pobídky k demokratizaci jižní Evropy, Spojené státy podporovaly demokratické změny v různých částech světa a oslabování sovětského vlivu umožnilo politickou transformaci ve střední a východní Evropě.
+
+**Ověření (Claude, 4. 11.):** ✅ věcně sedí (s. 12–15). ⚠ Chybí odkaz u 2. odstavce (s. 13) a u 4. odstavce (s. 14–15). ⚠ „Tato změna pomáhá vysvětlit…": Huntington souvislost výslovně nevyvozuje, ale mluví o „katolické vlně" a o *„Catholic impetus to democratization"* (s. 13), takže výklad obstojí. ⬜ **Chybí pátá příčina (snowballing) a teze, že do roku 1990 příčiny zeslábly (s. 13, 16–17).**
