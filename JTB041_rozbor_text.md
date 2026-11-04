@@ -1,6 +1,6 @@
 # JTB041: rozbor textu (Huntington 1991), text Barbory
 
-*Přepis rozepsaného textu z Google Docu „JTB041: Příprava na rozbor textu" (pod poznámkami), **stav 4. 11. 2026** (úvod, odd. 2–4). Text píše Barbora; tento soubor je kopie pro evidenci stavu. Rozsah: **11 234 znaků = 6,2 NS** (včetně nadpisu; minimum 9 000 znaků = 5 NS).*
+*Přepis rozepsaného textu z Google Docu „JTB041: Příprava na rozbor textu" (pod poznámkami), **stav 4. 11. 2026 večer** (úvod, odd. 2–5). Text píše Barbora; tento soubor je kopie pro evidenci stavu. Rozsah: **13 584 znaků = 7,5 NS** (včetně nadpisu; minimum 9 000 znaků = 5 NS).*
 
 ---
 
@@ -42,7 +42,9 @@ Pátou příčinou byl takzvaný efekt sněhové koule, tedy demonstrační úč
 
 Huntington ovšem upozorňuje, že efekt sněhové koule nelze chápat jako samostatnou a dostačující příčinu demokratizace. Události ve východní Evropě v roce 1989 působily podle něj především na představitele dalších autoritářských režimů, kteří mohli dospět k závěru, že dosavadní způsob vlády je neudržitelný. Efekt sněhové koule byl podle něj skutečný jen tehdy, pokud je přesvědčil o žádoucnosti či nutnosti demokratizace (Huntington, 1991, s. 16-17). Tento účinek se nemusel bezprostředně projevit u obyvatelstva, které dané režimy ovládaly. Například zairský prezident Mobutu reagoval zděšeně na televízní záběry popravy svého přítele, rumunského vůdce Nicolae Ceaușesca, které představovaly názornou ukázku toho, jak rychle může dojít k pádu dosud zdánlivě stabilního režimu. O několik měsíců později oznámil, že ve volbách umožní kandidovat i dvěma dalším stranám. Samotná inspirace zahraničními událostmi však nemůže nahradit domácí politické a společenské podmínky potřebné pro změnu (Huntington, 1991, s. 13, 16).
 
-Zásadní je, že do roku 1990 původní příčiny třetí vlny podle Huntingtona výrazně zeslábly a některé se prakticky vyčerpaly. Z tohoto důvodu nepovažoval pokračování demokratizace za samozřejmé. Faktory, které přispěly k počátečnímu úspěchu vlny, totiž nemusely být dostatečně silné k tomu, aby zajistily její další rozšiřování nebo dlouhodobou stabilitu již vzniklých demokracií (Huntington, 1991, s. 17).4. Kulturní a ekonomické podmínky demokratizace
+Zásadní je, že do roku 1990 původní příčiny třetí vlny podle Huntingtona výrazně zeslábly a některé se prakticky vyčerpaly. Z tohoto důvodu nepovažoval pokračování demokratizace za samozřejmé. Faktory, které přispěly k počátečnímu úspěchu vlny, totiž nemusely být dostatečně silné k tomu, aby zajistily její další rozšiřování nebo dlouhodobou stabilitu již vzniklých demokracií (Huntington, 1991, s. 17).
+
+4. Kulturní a ekonomické podmínky demokratizace
 
 Další část Huntingtonova článku se věnuje překážkám demokratizace v zemích, které na počátku devadesátých let zatím zůstávaly nedemokratické. Huntington mezi ně řadí zejména marxisticko-leninské režimy, státy subsaharské Afriky, islámské země a část východní Asie. Překážky jejich demokratizace rozděluje na politické, kulturní a ekonomické (Huntington, 1991, s. 20–22).
 
@@ -53,6 +55,18 @@ Tento přístup považuji za důležitý, protože odmítá představu, že by u
 Ještě větší význam Huntington přikládá hospodářskému rozvoji. Poukazuje na silný vztah mezi ekonomickou úrovní země a existencí demokratických institucí. Chudobu označuje za jednu z hlavních, pravděpodobně dokonce největší překážku demokracie. Zároveň ukazuje, že demokratické přechody se nejčastěji odehrávají v určitém pásmu hospodářského rozvoje, které nazývá „political transition zone“ (Huntington, 1991, s. 30–33).
 
 Hospodářský rozvoj však podle Huntingtona demokratizaci automaticky nezaručuje. V závěru článku svůj argument shrnuje myšlenkou, že ekonomický rozvoj vytváří předpoklady demokracie, ale její uskutečnění závisí na politickém vedení (Huntington, 1991, s. 33–34). Jeho přístup tak propojuje strukturální podmínky s rozhodováním konkrétních politických aktérů.
+
+5. Širší kontext a kritické zhodnocení
+
+Huntingtonův výklad je zajímavé srovnat s interpretací konce studené války Johna Lewise Gaddise. Oba autoři se zabývají rozpadem komunistických režimů ve východní Evropě, ale liší se v tom, komu připisují rozhodující roli. Huntington zdůrazňuje význam politického vedení a rozhodování autoritářských elit. Gaddis oproti tomu klade větší důraz na obyčejné lidi a společenský odpor, který přispěl ke zhroucení sovětského bloku (Gaddis, The Cold War, kap. 7).
+
+Osobně více souhlasím s Gaddisovým důrazem na roli společnosti. Huntington podle mě příliš upřednostňuje rozhodování politických elit a nedostatečně zohledňuje dlouhodobý odpor občanské společnosti, disidentských hnutí nebo nezávislých odborů. Například polské hnutí Solidarita ukazuje, že politické změny nemusely být pouze výsledkem rozhodnutí představitelů režimu, ale také dlouhodobého tlaku z lidu, který tyto představitele přiměl k ústupkům.
+
+Další omezení Huntingtonova přístupu vidím v tom, jak pracuje s ekonomickou transformací. Přestože upozorňuje na riziko ztráty legitimity v důsledku hospodářských problémů, nevěnuje větší pozornost sociálním dopadům transformace postkomunistických zemí. Privatizace, růst nerovností nebo nejistota spojená s přechodem k tržní ekonomice přitom mohly významně ovlivnit důvěru obyvatel v nové demokratické instituce. Tato otázka je obzvlášť důležitá při hodnocení vývoje postsovětského prostoru v následujících desetiletích.
+
+Za problematické považuji také Huntingtonovo poměrně optimistické hodnocení dlouhodobých vyhlídek demokracie. Autor sice připouští možnost ekonomicky úspěšné autoritářské Číny a upozorňuje na nové formy diktatur, ale jejich dlouhodobou stabilitu spíše podceňuje. Vývoj Číny ukazuje, že hospodářský růst nemusí nutně vést k demokratizaci a může naopak poskytnout autoritářskému režimu další prostředky k upevnění moci.
+
+Podobně Huntington zmiňuje polodemokratické režimy a systémy dominantní strany, ale méně se zabývá možností, že by se stabilní formou vlády mohl stát režim, který sice pořádá volby, ale zároveň systematicky omezuje politickou soutěž. Současné zkušenosti s takovými režimy ukazují, že hranice mezi demokracií a autoritářstvím nemusí být vždy jednoznačná a že demokratické instituce mohou být oslabovány i bez úplného odstranění voleb.
 
 ---
 
@@ -126,3 +140,23 @@ Pět faktorů (s. 13); „performance legitimacy" (s. 13); 2. vatikánský konci
 **⚠ Ke zvážení:** úvod práce uvádí jako Huntingtonovu tezi, že po rozšiřování demokracie může přijít další vlna návratu k autoritářství. Samotná **třetí protivlna** (s. 17–20: Súdán a Nigérie, možné příčiny, nic z toho nepovažuje za vysoce pravděpodobné) v textu zatím vysvětlená není. Stačily by 2–3 věty, např. na začátek odd. 4; hodí se i pro pozdější kritiku (Čína, s. 19–20).
 
 **Úprava 4. 11. (Claude, na pokyn Barbory „oprav mi to prosím"):** opraveno „Huntingtonova", „marxisticko-leninské", „political transition zone" v uvozovkách, příklad Španělsko + Korea a Tchaj-wan (s. 25–26, 30). **Nadpis „4." ve skutečnosti nalepený není:** v docu ho od předchozího textu dělí dvě zalomení řádku (Shift+Enter), převod do textu je jen nezobrazil; upozornění bylo chybné (viz seznam chyb). Do prohlášení o AI i tyto úpravy. Třetí protivlna (2–3 věty) zůstává na Barboře.
+
+---
+
+## Ověření odd. 5 „Širší kontext a kritické zhodnocení" (Claude, 4. 11.)
+
+**✅ Věcně sedí:** Huntington a vedení × Gaddis a „ordinary people"; ekonomická transformace (riziko ztráty legitimity s. 19, sociální dopady neřeší); Čína a nové formy diktatur (s. 19–20, 33), Huntington je nepovažuje za pravděpodobné; polodemokracie a systémy dominantní strany (s. 20, 26–27). Tvrzení o dnešku jsou formulovaná opatrně („mohly", „nemusí") a jako vlastní názor.
+
+**⚠ Chybějící odkazy na Huntingtona:**
+- odst. 1 „zdůrazňuje význam politického vedení a rozhodování autoritářských elit" → s. 21, 33–34;
+- odst. 3 „riziko ztráty legitimity v důsledku hospodářských problémů" → s. 19;
+- odst. 4 Čína a nové formy diktatur → s. 19–20, 33 (a že je nepovažuje za vysoce pravděpodobné, s. 20);
+- odst. 5 polodemokracie a dominantní strana → s. 20, 26–27.
+
+**⚠ Citace Gaddise:** „(Gaddis, The Cold War, kap. 7)" je jiný formát než „(Huntington, 1991, s. …)". Sjednotit, např. „(Gaddis, 2005, kap. 7)". Na konec práce bude potřeba **seznam literatury** (Huntington 1991; Gaddis 2005).
+
+**⚠ Nuance:** „Oba autoři se zabývají rozpadem komunistických režimů ve východní Evropě": Huntington píše o demokratizaci ve světě, východní Evropa je u něj jen jedna z částí (s. 13–17, 19).
+
+**Tip:** u Číny (odst. 4) se dá opřít o Gaddise: Jižní Korea, Tchaj-wan, Singapur a Čína *„developed successful economies under less than democratic conditions"* (Epilog).
+
+**Struktura podle zadání v Moodlu:** kontext (odst. 1) ✅, kritika (odst. 3–5) ✅, osobní postoj částečně (odst. 2). **Chybí část „co z textu vyplývá / jak mění chápání problému"** (3. strana zadání; podklady: strana 3 poznámek: dynamické chápání kultury, hospodářský práh, zranitelnost nových demokracií) a **závěr s osobním postojem** včetně toho, s čím souhlasíš (strana 5 poznámek: cykličnost, formule rozvoj + vedení). Třetí protivlna (2–3 věty) dosud nedoplněna.
