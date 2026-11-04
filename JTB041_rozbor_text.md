@@ -230,3 +230,5 @@ Závěr (odd. 7) věcně sedí („time is on the side of democracy", s. 33). P�
 4. **Konec odd. 4 × poslední odstavec závěru:** obojí říká, že přechod k demokracii a její udržení jsou dvě různé věci a demokracie musí obstát v krizích.
 
 **Konsolidace 4. 11. (Claude, na pokyn Barbory „nějak to zkonsoliduj prosím"):** jen škrty, bez přepisování: (1) konec odd. 2, věta „Huntington přitom identifikuje pět hlavních příčin…" (odkaz s. 12 ponechán u předchozí věty); (2) úvod, 2. odst., věty „Zároveň však upozorňuje… podporovaly" (odkaz s. 12 k předchozí větě); (3) konec odd. 4, dvě věty o přechodu a udržení demokracie (myšlenka zůstává v závěru). Rozsah po úpravě: 10355 znaků s odkazy (5.8 NS), bez odkazů 9786 (5.4 NS). Do prohlášení o AI i tyto škrty.
+
+**Prohlášení o AI vloženo 4. 11. (Claude, na pokyn Barbory „spíš na konec k těm citacím"):** na konec docu za Seznam literatury, znění podle `Prohlaseni_o_AI_zneni.md`, bez věty o Gemini. ⬜ Doplnit „[DATUM ODEVZDÁNÍ]"; ⬜ rozhodnout o Gemini.
