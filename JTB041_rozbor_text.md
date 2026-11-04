@@ -1,6 +1,6 @@
 # JTB041: rozbor textu (Huntington 1991), text Barbory
 
-*Přepis z Google Docu, **stav 4. 11. 2026 po zkrácení** (Barbora zkrátila odd. 1 a odd. 3 nahradila oddílem „Riziko třetí protivlny"). Rozsah: **9 949 znaků s odkazy = 5,5 NS; bez závorkových odkazů 9 402 = 5,2 NS** (bez nadpisu práce a seznamu literatury; Szobi: aparát se nepočítá). Minimum 9 000 znaků = 5 NS.*
+*Přepis z Google Docu, **stav 4. 11. 2026 po sloučení** (příčiny jen v odd. 3). Rozsah bez nadpisu práce a seznamu literatury: **10034 znaků s odkazy = 5.6 NS; bez závorkových odkazů 9459 = 5.3 NS** (Szobi: aparát se nepočítá). Minimum 9 000 znaků = 5 NS.*
 
 ---
 
@@ -14,17 +14,21 @@ Samuel P. Huntington se ve svém článku z roku 1991 zabývá příčinami demo
 
 2. Demokratizační vlny a jejich historická logika
 
-Pojem demokratizační vlny Huntington v článku výslovně nedefinuje. Protivlnu popisuje jako období, ve kterém většina změn režimů na světě směřuje od demokracie k autoritářství (Huntington, 1991, s. 17). Základním východiskem jeho přístupu je tedy cyklické chápání demokratizace. Demokratický vývoj podle něj neprobíhá rovnoměrně, ale je ovlivňován kombinací vnitropolitických, ekonomických a mezinárodních faktorů (Huntington, 1991, s. 12-13).
+Huntington rozlišuje tři demokratizační vlny a dvě protivlny, během kterých se část zemí vrátila k autoritářskému způsobu vlády. První vlna probíhala od 19. století do roku 1926 a vedla ke vzniku přibližně 29 demokracií. Následovala protivlna spojená mimo jiné se vzestupem fašismu a nacismu, v jejímž důsledku se počet demokracií snížil na 12. Druhá vlna začala po druhé světové válce a dosáhla vrcholu s přibližně 36 demokratickými režimy. Od šedesátých let však opět následovaly vojenské převraty a upevňování autoritářských vlád (Huntington, 1991, s. 12).
 
-První demokratizační vlna začala v první polovině 19. století a pokračovala do roku 1926. V jejím průběhu se demokratické instituce postupně rozšířily. Huntington uvádí, že během ní vzniklo přibližně 29 demokracií. Následovala první protivlna, která probíhala v letech 1922-1942. Její součástí byl vzestup fašismu, nacismu a dalších autoritářských režimů. Počet demokracií se v tomto období snížil a na konci protivlny, v roce 1942, jich zůstalo 12 (Huntington, 1991, s. 12).
+Třetí vlna začala v roce 1974 pádem autoritářského režimu v Portugalsku a postupně zasáhla Evropu, Latinskou Ameriku, Asii i část Afriky. Do roku 1990 přešlo k demokracii nejméně třicet zemí, čímž se počet demokratických režimů téměř zdvojnásobil. Huntington přitom identifikuje pět hlavních příčin tohoto vývoje (Huntington, 1991, s. 12–13).
 
-Druhá demokratizační vlna souvisela především s koncem druhé světové války a vítězstvím Spojenců, po kterém mohlo následovat šíření demokratických institucí. Vrchol druhé vlny připadl na období, kdy existovalo přibližně 36 demokratických režimů. Od šedesátých let však následovala druhá protivlna, která byla spojená zejména s vojenskými převraty a upevňováním autoritářských vlád. Do poloviny sedmdesátých let se počet demokracií opět snížil, a to na 30 (Huntington, 1991, s. 12, 18).
+3. Příčiny třetí vlny demokratizace
 
-Třetí vlna demokratizace začala v roce 1974, kdy došlo k pádu autoritářského režimu v Portugalsku. Následovaly demokratické přechody ve Španělsku, Řecku a dalších zemích Evropy, Latinské Ameriky a Asie, v menší míře i Afriky. V letech 1974-1990 přešlo podle Huntingtona k demokracii nejméně třicet zemí, takže se počet demokratických režimů na světě téměř zdvojnásobil (Huntington, 1991, s. 12). Významným rysem této vlny byla také skutečnost, že velká část zemí, které se v jejím průběhu demokratizovaly, měla převážně katolické obyvatelstvo. Huntington uvádí, že šlo přibližně o tři čtvrtiny zemí, které přešly k demokracii v letech 1974-1989 (Huntington, 1991, s. 13).
+Huntington identifikuje pět hlavních faktorů, které společně přispěly ke třetí vlně demokratizace. Prvním byla krize legitimity autoritářských režimů, které svou vládu ospravedlňovaly především hospodářskými a politickými výsledky. Pokud však nedokázaly naplnit očekávání obyvatelstva, jejich legitimita slábla. Druhým faktorem byl hospodářský růst šedesátých let, který zvýšil životní úroveň a rozšířil městskou střední třídu. Tím podle mého názoru vytvořil příznivější společenské podmínky pro požadavky na politickou účast (Huntington, 1991, s. 13).
 
-Toto historické členění má svůj význam. Huntington ukazuje, že demokratizace není automatickým důsledkem modernizace ani výsledkem jediné univerzální příčiny. Jednotlivé vlny vznikají za určitých podmínek a jejich pokračování závisí na tom, zda původní příčiny trvají. Demokratické instituce proto mohou vzniknout v relativně krátkém období, ale jejich dlouhodobé udržení podle mého názoru vyžaduje odlišné podmínky než samotný přechod k demokracii. 
+Třetí příčinou byla proměna katolické církve po druhém vatikánském koncilu, kdy se v řadě zemí změnila z podporovatele stávajícího uspořádání v odpůrce autoritářských režimů (Huntington, 1991, s. 13). Čtvrtým faktorem byl vliv mezinárodního prostředí. Evropské společenství vytvářelo pobídky pro demokratizaci jižní Evropy, Spojené státy podporovaly demokratické změny a oslabování sovětského vlivu umožnilo politickou transformaci ve střední a východní Evropě (Huntington, 1991, s. 14–17).
 
-3. Riziko třetí protivlny
+Posledním faktorem byl takzvaný efekt sněhové koule, tedy demonstrační účinek úspěšných demokratických přechodů na další země. Huntington však upozorňuje, že tento efekt sám o sobě nestačí. Události ve východní Evropě v roce 1989 podle něj ovlivnily především představitele dalších autoritářských režimů, kterým ukázaly možnost jejich vlastního pádu. K demokratizaci však byly nezbytné také vhodné domácí podmínky (Huntington, 1991, s. 16–17).
+
+Zásadní je, že do roku 1990 řada těchto faktorů podle Huntingtona výrazně zeslábla nebo se vyčerpala. Pokračování demokratizace proto nepovažoval za samozřejmé (Huntington, 1991, s. 17).
+
+4. Riziko třetí protivlny
 
 Huntington na základě předchozího historického vývoje upozorňuje na možnost třetí protivlny, během které by se část nových demokracií opět vrátila k autoritářství. Mezi hlavní rizikové faktory řadí slabé demokratické hodnoty, hospodářské krize, společenskou polarizaci, rozpad veřejného pořádku a zahraniční intervence. Důležitý je také opačný efekt sněhové koule, kdy pád demokracie v jedné zemi může povzbudit autoritářské tendence v dalších státech (Huntington, 1991, s. 17–19).
 
@@ -34,7 +38,7 @@ Vedle vnitřních problémů demokratických států upozorňuje také na možn�
 
 Právě toto upozornění považuji za jednu z nejpřínosnějších částí textu. Huntington ukazuje, že přechod k demokracii a její dlouhodobé udržení jsou dva odlišné problémy. Úspěšné odstranění autoritářského režimu samo o sobě nezaručuje, že nové demokratické instituce dokážou obstát při dalších hospodářských nebo politických krizích.
 
-4. Kulturní a ekonomické podmínky demokratizace
+5. Kulturní a ekonomické podmínky demokratizace
 
 Další část Huntingtonova článku se věnuje překážkám demokratizace v zemích, které na počátku devadesátých let zatím zůstávaly nedemokratické. Huntington mezi ně řadí zejména marxisticko-leninské režimy, státy subsaharské Afriky, islámské země a část východní Asie. Překážky jejich demokratizace rozděluje na politické, kulturní a ekonomické (Huntington, 1991, s. 20–22).
 
@@ -46,7 +50,7 @@ Ještě větší význam Huntington přikládá hospodářskému rozvoji. Poukaz
 
 Hospodářský rozvoj však podle Huntingtona demokratizaci automaticky nezaručuje. V závěru článku svůj argument shrnuje myšlenkou, že ekonomický rozvoj vytváří předpoklady demokracie, ale její uskutečnění závisí na politickém vedení (Huntington, 1991, s. 33–34). Jeho přístup tak propojuje strukturální podmínky s rozhodováním konkrétních politických aktérů.
 
-5. Širší kontext a kritické zhodnocení
+6. Širší kontext a kritické zhodnocení
 
 Huntingtonův výklad je zajímavé srovnat s interpretací konce studené války Johna Lewise Gaddise. Oba autoři se zabývají také rozpadem komunistických režimů ve východní Evropě (u Huntingtona jako součástí širší světové demokratizace), ale liší se v tom, komu připisují rozhodující roli. Huntington zdůrazňuje význam politického vedení a rozhodování autoritářských elit (Huntington, 1991, s. 21, 33–34). Gaddis oproti tomu klade větší důraz na obyčejné lidi a společenský odpor, který přispěl ke zhroucení sovětského bloku (Gaddis, 2005, kap. 7).
 
@@ -204,3 +208,5 @@ Pět faktorů (s. 13); „performance legitimacy" (s. 13); 2. vatikánský konci
 > Čtvrtou příčinou byl vliv mezinárodního prostředí. Evropské společenství vytvářelo pobídky k demokratizaci jižní Evropy, Spojené státy podporovaly demokratické změny v různých částech světa a oslabování sovětského vlivu umožnilo politickou transformaci ve střední a východní Evropě.
 
 **Ověření (Claude, 4. 11.):** ✅ věcně sedí (s. 12–15). ⚠ Chybí odkaz u 2. odstavce (s. 13) a u 4. odstavce (s. 14–15). ⚠ „Tato změna pomáhá vysvětlit…": Huntington souvislost výslovně nevyvozuje, ale mluví o „katolické vlně" a o *„Catholic impetus to democratization"* (s. 13), takže výklad obstojí. ⬜ **Chybí pátá příčina (snowballing) a teze, že do roku 1990 příčiny zeslábly (s. 13, 16–17).**
+
+**Úprava 4. 11. (Claude, na pokyn Barbory „ano"):** příčiny byly v docu dvakrát (konec odd. 2 a odd. 3, obojí od Barbory); z odd. 2 smazány odstavce „První příčinou…" až „…ani stabilitu nových demokracií.", ponechán odd. 3. Odd. 2 končí větou „Huntington přitom identifikuje pět hlavních příčin tohoto vývoje". Do tohoto zásahu Claude omylem tvrdil, že snowballing a zeslábnutí příčin v textu chybí (hodnotil jen úryvek z chatu, doc už je obsahoval).
