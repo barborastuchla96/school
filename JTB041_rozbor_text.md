@@ -58,17 +58,23 @@ Hospodářský rozvoj však podle Huntingtona demokratizaci automaticky nezaruč
 
 5. Širší kontext a kritické zhodnocení
 
-Huntingtonův výklad je zajímavé srovnat s interpretací konce studené války Johna Lewise Gaddise. Oba autoři se zabývají rozpadem komunistických režimů ve východní Evropě, ale liší se v tom, komu připisují rozhodující roli. Huntington zdůrazňuje význam politického vedení a rozhodování autoritářských elit. Gaddis oproti tomu klade větší důraz na obyčejné lidi a společenský odpor, který přispěl ke zhroucení sovětského bloku (Gaddis, The Cold War, kap. 7).
+Huntingtonův výklad je zajímavé srovnat s interpretací konce studené války Johna Lewise Gaddise. Oba autoři se zabývají také rozpadem komunistických režimů ve východní Evropě (u Huntingtona jako součástí širší světové demokratizace), ale liší se v tom, komu připisují rozhodující roli. Huntington zdůrazňuje význam politického vedení a rozhodování autoritářských elit (Huntington, 1991, s. 21, 33–34). Gaddis oproti tomu klade větší důraz na obyčejné lidi a společenský odpor, který přispěl ke zhroucení sovětského bloku (Gaddis, 2005, kap. 7).
 
 Osobně více souhlasím s Gaddisovým důrazem na roli společnosti. Huntington podle mě příliš upřednostňuje rozhodování politických elit a nedostatečně zohledňuje dlouhodobý odpor občanské společnosti, disidentských hnutí nebo nezávislých odborů. Například polské hnutí Solidarita ukazuje, že politické změny nemusely být pouze výsledkem rozhodnutí představitelů režimu, ale také dlouhodobého tlaku z lidu, který tyto představitele přiměl k ústupkům.
 
-Další omezení Huntingtonova přístupu vidím v tom, jak pracuje s ekonomickou transformací. Přestože upozorňuje na riziko ztráty legitimity v důsledku hospodářských problémů, nevěnuje větší pozornost sociálním dopadům transformace postkomunistických zemí. Privatizace, růst nerovností nebo nejistota spojená s přechodem k tržní ekonomice přitom mohly významně ovlivnit důvěru obyvatel v nové demokratické instituce. Tato otázka je obzvlášť důležitá při hodnocení vývoje postsovětského prostoru v následujících desetiletích.
+Další omezení Huntingtonova přístupu vidím v tom, jak pracuje s ekonomickou transformací. Přestože upozorňuje na riziko ztráty legitimity v důsledku hospodářských problémů (Huntington, 1991, s. 19), nevěnuje větší pozornost sociálním dopadům transformace postkomunistických zemí. Privatizace, růst nerovností nebo nejistota spojená s přechodem k tržní ekonomice přitom mohly významně ovlivnit důvěru obyvatel v nové demokratické instituce. Tato otázka je obzvlášť důležitá při hodnocení vývoje postsovětského prostoru v následujících desetiletích.
 
-Za problematické považuji také Huntingtonovo poměrně optimistické hodnocení dlouhodobých vyhlídek demokracie. Autor sice připouští možnost ekonomicky úspěšné autoritářské Číny a upozorňuje na nové formy diktatur, ale jejich dlouhodobou stabilitu spíše podceňuje. Vývoj Číny ukazuje, že hospodářský růst nemusí nutně vést k demokratizaci a může naopak poskytnout autoritářskému režimu další prostředky k upevnění moci.
+Za problematické považuji také Huntingtonovo poměrně optimistické hodnocení dlouhodobých vyhlídek demokracie. Autor sice připouští možnost ekonomicky úspěšné autoritářské Číny a upozorňuje na nové formy diktatur, ale jejich dlouhodobou stabilitu spíše podceňuje (Huntington, 1991, s. 19–20, 33). Vývoj Číny ukazuje, že hospodářský růst nemusí nutně vést k demokratizaci a může naopak poskytnout autoritářskému režimu další prostředky k upevnění moci.
 
-Podobně Huntington zmiňuje polodemokratické režimy a systémy dominantní strany, ale méně se zabývá možností, že by se stabilní formou vlády mohl stát režim, který sice pořádá volby, ale zároveň systematicky omezuje politickou soutěž. Současné zkušenosti s takovými režimy ukazují, že hranice mezi demokracií a autoritářstvím nemusí být vždy jednoznačná a že demokratické instituce mohou být oslabovány i bez úplného odstranění voleb.
+Podobně Huntington zmiňuje polodemokratické režimy a systémy dominantní strany (Huntington, 1991, s. 20, 26–27), ale méně se zabývá možností, že by se stabilní formou vlády mohl stát režim, který sice pořádá volby, ale zároveň systematicky omezuje politickou soutěž. Současné zkušenosti s takovými režimy ukazují, že hranice mezi demokracií a autoritářstvím nemusí být vždy jednoznačná a že demokratické instituce mohou být oslabovány i bez úplného odstranění voleb.
 
 ---
+
+Seznam literatury
+
+GADDIS, John Lewis. The Cold War: A New History. New York: Penguin Press, 2005.
+
+HUNTINGTON, Samuel P. Democracy’s Third Wave. Journal of Democracy, 1991, roč. 2, č. 2, s. 12–34.
 
 ## Ověření proti článku (Claude, 23. 10.)
 
@@ -160,3 +166,5 @@ Pět faktorů (s. 13); „performance legitimacy" (s. 13); 2. vatikánský konci
 **Tip:** u Číny (odst. 4) se dá opřít o Gaddise: Jižní Korea, Tchaj-wan, Singapur a Čína *„developed successful economies under less than democratic conditions"* (Epilog).
 
 **Struktura podle zadání v Moodlu:** kontext (odst. 1) ✅, kritika (odst. 3–5) ✅, osobní postoj částečně (odst. 2). **Chybí část „co z textu vyplývá / jak mění chápání problému"** (3. strana zadání; podklady: strana 3 poznámek: dynamické chápání kultury, hospodářský práh, zranitelnost nových demokracií) a **závěr s osobním postojem** včetně toho, s čím souhlasíš (strana 5 poznámek: cykličnost, formule rozvoj + vedení). Třetí protivlna (2–3 věty) dosud nedoplněna.
+
+**Úprava 4. 11. (Claude, na pokyn Barbory „ano prosím"):** v odd. 5 doplněny odkazy na Huntingtona (s. 21, 33–34; s. 19; s. 19–20, 33; s. 20, 26–27), Gaddis sjednocen na „(Gaddis, 2005, kap. 7)", upřesněna věta o východní Evropě, na konec docu přidán **Seznam literatury** (2 položky, bez formátování kurzívou). ⚠ Gaddis: rok 1. vydání 2005; které vydání je e-kniha v readeru, nelze určit. Kurzívu názvů (časopis, kniha) doplnit při finální úpravě. **Do prohlášení o AI** i tyto úpravy.
