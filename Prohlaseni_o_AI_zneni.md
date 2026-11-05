@@ -133,3 +133,9 @@ Zatím nenapsáno; relevantní bude práce s readerem.
 
 ⬜ **Gemini:** Barbora ho používala na diakritiku v poznámkách (22. 10.). Větu ponechat, jen pokud prošel Gemini i text rozboru; jinak vypustit. Korektor (ÚFAL) není generativní AI; v pochybnostech lze uvést.
 ⬜ Umístění: na začátek práce před úvod, nebo jako příloha. ⬜ Generátor UK (ai.cuni.cz/AI-80.html) ověřit, jestli už běží.
+
+**✅ Finální znění JTB041 (5. 11. 2026, formulace podle Barbory, vloženo do dokumentu k odevzdání):**
+
+> Prohlašuji, že jsem text práce napsala sama. V období 22. 10. – 6. 11. 2026 jsem při přípravě použila nástroj Claude (Anthropic) k ověření, zda mé poznámky, shrnutí a citace odpovídají analyzovanému článku, k plánování struktury práce a ke korektuře textu. Plně přejímám odpovědnost za výslednou podobu práce.
+
+*Obsahuje všechny čtyři položky UK (nástroj, období, k čemu, odpovědnost) i požadavek příručky IMS (fáze a způsob). „Korektura" pokrývá drobné opravy, doplnění odkazů a škrty, které Claude v textu dělal na pokyn Barbory.*
