@@ -116,3 +116,13 @@ Na bloku zaznělo **5 až 10 stran, „max"**, a B. potvrdila, že řekl stran, 
 *Log AI: 2. 10. 2026 — zapsal Claude průběžně podle toho, co B. hlásila z blokové přednášky. **Všechny pokyny v oddílu 1 jsou Kubátovy, v jejím podání.** Porovnání s hotovým textem recenze a upozornění na nevyjasněný rozsah jsou Claudovy úvahy, ne jeho pokyny. **Claude kolizi u odstavce o Luxově díle nejprve popsal jako nepříjemnou a rozepsal ji do tří variant s riziky; B. upozornila, že jde o jedno škrtnutí, a zvolila variantu, kde odstavec zůstává bez odkazů.***
 
 *Log AI: 5. 10. 2026 — **B. zapnula konektor Google Docs a Claude provedl úpravy přímo v jejím dokumentu:** smazal seznam literatury, vyndal odkazy z odstavce o Luxově díle a připojil prohlášení o užití AI. **Nové znění toho odstavce je Claudovo a čeká na schválení B.** Claude zároveň ověřil, že v recenzi nejsou poznámky pod čarou a že hlavička obsahuje všechny údaje, které Kubát vyjmenoval; v obojím bylo vše v pořádku už předtím. Datum odevzdání v prohlášení zůstalo prázdné, protože ho Claude nemá doložené.*
+
+---
+
+## 3. Dokončování (5. 11. 2026)
+
+- **Odstavec „Tato otevřenost dává smysl…" (původně formuloval Claude) Barbora přepsala vlastními slovy.** Nové znění: „Na knize oceňuji také to, že autoři dokážou kriticky hodnotit přístup vlastního oboru… Právě tomuto propojení věnují první kapitolu, na kterou následně navazují konkrétní výzkumy." ⚠ První věta se překrývá s předchozím odstavcem (sebekritika disciplíny, s. 14–16); navrženo ji vypustit nebo odstavce spojit. Rozhodne Barbora.
+- **Druhá výtka:** na pokyn Barbory („ano prosím") Claude vyškrtl větu o korelacích −0,464 / −0,332 a chybějící p-hodnotě (s. 35–37); Barbora uznala, že je to detail a výtka stojí na přechodu od korelace k tvrzení o vlivu na efektivitu trhu (s. 36). ⬜ Navazující věta začíná „Podstatnější je…", bez srovnání už nesedí; přepíše Barbora (případně doplní, proč je přechod důležitý, např. vazbou na první výtku).
+- ⬜ Třetí výtka: Barbora zváží zjednodušení technických výrazů („hypotézy H3–H5", „odhadového okna", „Ekonometrické modely").
+- ⬜ Drobnosti: „Vystavuje koncept…" (1. odst.), „socio-ekonomické" → „socioekonomické".
+- ⬜ Prohlášení o AI: datum, kratší znění jako u JTB041. ⬜ Formát až na konec.
