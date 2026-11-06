@@ -78,3 +78,7 @@
 *Log AI: 15. 10. 2026. Zapsána tři rozhodnutí Barbory k otázkám na Smetanu (aparát se počítá, Gaddis ano, poznámky pod čarou).*
 
 *Log AI: 15. 10. 2026. Na pokyn Barbory („ano prosím, do toho") změřena recenze Iggerse a hledán údaj „Otakara Vochoče" k opravě. Údaj v dokumentu není, opravený tvar už tam je; do dokumentu se nezasahovalo.*
+
+---
+
+**6. 11. 2026, neověřená informace ze skupiny spolužáků (Barbora, screenshot):** podle kolegyně spolužáka je Smetana (a Vykoukal) velmi přísný, prý kvůli nim ve druháku neprošla. Doslech, ne zdroj. Důsledek pro projekt: držet se karty SIS do písmene. Úvaha je v limitu v obou výkladech rozsahu (17 978 zn. včetně aparátu ≤ 18 000; bez aparátu výrazně pod), rezerva jen 22 znaků, proto po složení souboru a po každé úpravě znovu změřit. ⬜ Na bloku 27. 11. případně ověřit u Smetany, jestli se aparát do rozsahu počítá a jaké má požadavky na formu.
