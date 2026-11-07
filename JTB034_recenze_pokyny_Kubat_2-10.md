@@ -126,3 +126,11 @@ Na bloku zaznělo **5 až 10 stran, „max"**, a B. potvrdila, že řekl stran, 
 - ⬜ Třetí výtka: Barbora zváží zjednodušení technických výrazů („hypotézy H3–H5", „odhadového okna", „Ekonometrické modely").
 - ⬜ Drobnosti: „Vystavuje koncept…" (1. odst.), „socio-ekonomické" → „socioekonomické".
 - ⬜ Prohlášení o AI: datum, kratší znění jako u JTB041. ⬜ Formát až na konec.
+
+**7. 11. 2026: Barbora recenzi celou přepsala** (vlastní formulace v celém textu). Kontrola Clauda proti pokynům Kubáta a proti dříve ověřeným údajům:
+- ✅ rozsah ≈ 9 590 znaků bez prohlášení (≈ 5,3 NS; s hlavičkou ≈ 5,4 NS), v pásmu 5–7 NS;
+- ✅ jednolitý text, bez poznámek, bez jiné literatury, stránky v závorkách; pochvala i tři argumentované výtky; odstavec o sebekritice disciplíny sloučen (překryv vyřešen);
+- ✅ všechna čísla a stránky beze změny proti ověřené verzi (s. 108 p = 0,912; s. 152, 162; s. 27–31, 48–50, 72–77, 9; s. 55–57, 61–63, 65; s. 81–82, 84–85, 88–89; s. 7, 15–16; s. 6–7, 13–14, 112–162, 166–167; s. 24, 26, 45; s. 35–37; s. 77, 90–91);
+- korelace −0,464 / −0,332 vráceny Barborou, nyní jako vedlejší poznámka s výslovným „za podstatnější problém ale považuji…" a vysvětlením (její rozhodnutí);
+- ⚠ drobnost: „podle mě" 7×; v anglickém shrnutí vypadla kurzíva/slovo *Summary* (nevadí);
+- ⬜ prohlášení o AI (datum, kratší znění), ⬜ formát na konci.
