@@ -139,3 +139,7 @@ Zatím nenapsáno; relevantní bude práce s readerem.
 > Prohlašuji, že jsem text práce napsala sama. V období 22. 10. – 6. 11. 2026 jsem při přípravě použila nástroj Claude (Anthropic) k ověření, zda mé poznámky, shrnutí a citace odpovídají analyzovanému článku, k plánování struktury práce a ke korektuře textu. Plně přejímám odpovědnost za výslednou podobu práce.
 
 *Obsahuje všechny čtyři položky UK (nástroj, období, k čemu, odpovědnost) i požadavek příručky IMS (fáze a způsob). „Korektura" pokrývá drobné opravy, doplnění odkazů a škrty, které Claude v textu dělal na pokyn Barbory.*
+
+**✅ Finální znění JTB034 recenze (7. 11. 2026, vloženo do Google Docu):**
+
+> Prohlašuji, že jsem text práce napsala sama. V období 11. 9. – [DOPLNIT DATUM ODEVZDÁNÍ] 2026 jsem při přípravě použila nástroj Claude (Anthropic) k ověření bibliografických údajů a toho, zda mé citace a stránkové odkazy odpovídají recenzované knize, a ke korektuře textu. Plně přejímám odpovědnost za výslednou podobu práce.
