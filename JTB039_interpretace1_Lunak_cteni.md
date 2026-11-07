@@ -127,3 +127,21 @@ Churchillův fultonský projev z 5. března 1946 uvádí slovy „**tím bývá 
 *Log AI: 8. 10. 2026 — **B. našla, že poznámky jsou koncové, a dodala sedm snímků bloku II.** Claude sepsal oddíl 2.3. **Nález o Lefflerovi, Narinském a asymetrii pramenů je Claudův.** Claude přitom ze snímku chybně odhadl u Trumanova projevu poznámku 18; **B. opravila na 58.***
 
 *Log AI: 9. 10. 2026 — **B. dodala snímek tiráže a snímky obou klíčových poznámek.** Počet stran určen z poslední číslované strany (460 s.), tiráž ho neuvádí. **Poznámka 58 je Public Papers, poznámka 59 je „cit. dle Jones" — obojí ověřeno ze snímku, ne odhadnuto.** Claude předem odhadl, že 59 bude patřit k Achesonovi, a B. to potvrdila pohledem na horní index na s. 74. **Nález o asymetrii doložení mezi 58 a 59 a jeho vyhodnocení jako hlavní kritické výtky jsou Claudovy; výběr toho, co se dostane do textu, je B.***
+
+---
+
+## 5. Kontrola rozepsaného textu (Claude, 7. 11. 2026)
+
+Google Doc „JTB039 — Interpretace 1: Luňák, Západ, s. 67–74". Rozsah textu (od „U Petra Luňáka" po konec oddílu 3, s nadpisy): **7 634 znaků = 4,2 NS; zadání 5 NS (9 000 zn.) → chybí ~1 400 znaků.** Poznámky pod čarou: žádné (odkazy jen v nadpisech a „pozn. 58/59").
+
+**Literovy tři kroky (blok 16. 10.):** (1) „autor se zabývá … v letech …": výslovně chybí, úvod začíná tezí; (2) stručný výcuc: ✅ oddíl 1; (3) vlastní názor, **čemu by se autor mohl věnovat**: jen nepřímo v kritice → doplnit odstavec (vyřeší i rozsah).
+
+**🛑 Citace a věcné body k ověření/opravě:**
+- s. 72: v textu „tahat **za Brity** kaštany z ohně"; podle snímků Luňák „proč by měla Amerika **za někoho** tahat **horké** kaštany z ohně". Citace upravená → vrátit doslovné znění.
+- s. 72: „a veřejné peníze na vzdálené závazky dát nechtěli" ve výpiscích není → ověřit, jinak vypustit. „Výmluvná filipika", „opustil technický jazyk": výklad, Luňák jen „výstup, který v mnohém připomínal Churchillovu řeč ve Fultonu".
+- s. 67: „konstatuje, že jakékoliv hledání přesného počátku … je zavádějící" je silnější než „Je proto velmi těžké datovat i samotný počátek…"; „cizí historiografická konvence" je výklad slov „tím bývá někdy", ne Luňákovo tvrzení.
+- s. 73: Trumanova citace „téměř každý národ je nucen zvolit cestu, již se bude ubírat" není ve výpiscích → ověřit na snímku (bod „slovosled" z předávacího dokumentu).
+- „prodat" / „prodána" v uvozovkách: ověřit, že je to Luňákovo slovo; jinak bez uvozovek.
+- Jones: formulovat „zprostředkovaný tam, kde je jinde přímý" (Jones byl na ministerstvu zahraničí), ne „interpretace převzatá ze starší literatury".
+- Leffler: chybí, že ho **Luňák sám cituje** (A Preponderance of Power, 1992; Diplomatic History) → vrátit; tvrzení o Lefflerovi potřebuje poznámku.
+- Závěrečný odstavec stojí uvnitř oddílu 3 → samostatný závěr. Pracovní hlavička a oddíl MATERIÁL před odevzdáním pryč.
