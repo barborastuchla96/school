@@ -135,3 +135,4 @@ Na bloku zaznělo **5 až 10 stran, „max"**, a B. potvrdila, že řekl stran, 
 - ⚠ drobnost: „podle mě" 7×; v anglickém shrnutí vypadla kurzíva/slovo *Summary* (nevadí);
 - ⬜ prohlášení o AI (datum, kratší znění), ⬜ formát na konci.
 - ✅ **7. 11.: prohlášení o AI vyměněno** (na pokyn Barbory) za krátké znění: „Prohlašuji, že jsem text práce napsala sama. V období 11. 9. – [DOPLNIT DATUM ODEVZDÁNÍ] 2026 jsem při přípravě použila nástroj Claude (Anthropic) k ověření bibliografických údajů a toho, zda mé citace a stránkové odkazy odpovídají recenzované knize, a ke korektuře textu. Plně přejímám odpovědnost za výslednou podobu práce." ⬜ Datum doplnit při odevzdání. ⬜ „podle mě" 7×, Barbora zváží obměnu.
+- ✅ 7. 11.: „podle mě" Barbora obměnila („přijde mi", „domnívám se", „myslím"). Recenze obsahově hotová. ⬜ Formát (na konec), ⬜ datum v prohlášení, ⬜ odevzdat do 13. 12.
