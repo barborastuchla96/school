@@ -461,3 +461,12 @@ Tím je zodpovězena otázka 3 („co přesně znamená interpretace"). **🛑 I
 ---
 
 *Sestavil Claude 15. 10. 2026 jako předávací dokument z konverzace vedené od září do října 2026. **Všechny texty prací napsala Barbora.** Claude ověřoval citace proti pramenům, vedl soubory, prováděl mechanické úpravy a vznášel námitky. Údaje označené ⚠ nebo ⬜ nejsou ověřené nebo nejsou hotové.*
+
+---
+
+## Složka hotových prací na Drivu (založeno 7. 11. 2026 na přání Barbory)
+
+**„ZS 2026-27 – hotové práce"**: https://drive.google.com/drive/folders/1iFrSDlYjtGhRIv64kyAAbDXWdTDnsII5
+- JTB041 rozbor (Huntington), dokument k odevzdání, `1x9BNh8ofbjRVfwtQmNXXH96y2bOg4pcaYnnsz3SmM-I` (Barbora ho přejmenovala na „JTB041 - Analýza textu ze studijních materiálů - Stuchlá"). ⬜ Datum v prohlášení, odevzdat do 15. 11.
+- JTB034 recenze, přejmenováno na „JTB034 Recenze – Lux, Mikeszová – Stuchlá (k odevzdání)", `16uXL4nxwwlEwYaBDkhbwxQZttGwWcj1fWGo2TrnSkyY`; naformátováno 7. 11. (TNR 12, řádkování 1,5). ⬜ Datum v prohlášení, odevzdat do 13. 12.
+- Soubory nejsou zamčené (je v nich ještě potřeba doplnit datum). Přesun nemění odkazy.
