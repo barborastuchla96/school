@@ -147,3 +147,8 @@ Google Doc „JTB039 — Interpretace 1: Luňák, Západ, s. 67–74". Rozsah te
 - Závěrečný odstavec stojí uvnitř oddílu 3 → samostatný závěr. Pracovní hlavička a oddíl MATERIÁL před odevzdáním pryč.
 
 **Oprava na žádost Barbory (Claude, 7. 11. 2026):** s. 72, „Přítomní zákonodárci odmítali „tahat za Brity kaštany z ohně“ a …“ → „Přítomní zákonodárci se ptali, „proč by měla Amerika za někoho tahat horké kaštany z ohně“, a …“. Zbytek věty („a veřejné peníze na vzdálené závazky dát nechtěli“) zatím beze změny, pořád neověřeno.
+
+**Další opravy na žádost Barbory (Claude, 7. 11. 2026; snímky už nemá, takže neověřitelné se převádí na ověřené):**
+- Truman: neověřená citace z projevu „téměř každý národ je nucen zvolit cestu…" nahrazena ověřenou citací Luňáka ze s. 73: Spojené státy podle Luňáka v Trumanově projevu z 12. března 1947 „verbálně přijímaly absolutní závazek k obraně demokracie vždy a všude" (pozn. 58).
+- „prodat" a „prodána": bez uvozovek; v kritice „Luňák v textu tvrdí" → „Z Luňákova výkladu vyplývá".
+- s. 72: vypuštěno „a veřejné peníze na vzdálené závazky dát nechtěli"; věta končí citací s kaštany.
