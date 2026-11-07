@@ -145,3 +145,5 @@ Google Doc „JTB039 — Interpretace 1: Luňák, Západ, s. 67–74". Rozsah te
 - Jones: formulovat „zprostředkovaný tam, kde je jinde přímý" (Jones byl na ministerstvu zahraničí), ne „interpretace převzatá ze starší literatury".
 - Leffler: chybí, že ho **Luňák sám cituje** (A Preponderance of Power, 1992; Diplomatic History) → vrátit; tvrzení o Lefflerovi potřebuje poznámku.
 - Závěrečný odstavec stojí uvnitř oddílu 3 → samostatný závěr. Pracovní hlavička a oddíl MATERIÁL před odevzdáním pryč.
+
+**Oprava na žádost Barbory (Claude, 7. 11. 2026):** s. 72, „Přítomní zákonodárci odmítali „tahat za Brity kaštany z ohně“ a …“ → „Přítomní zákonodárci se ptali, „proč by měla Amerika za někoho tahat horké kaštany z ohně“, a …“. Zbytek věty („a veřejné peníze na vzdálené závazky dát nechtěli“) zatím beze změny, pořád neověřeno.
