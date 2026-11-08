@@ -157,3 +157,8 @@ Google Doc „JTB039 — Interpretace 1: Luňák, Západ, s. 67–74". Rozsah te
 
 Rozsah od „Petr Luňák se" po konec textu (bez hlavičky a MATERIÁLU): **9 112 znaků = 5,06 NS ✅** (rezerva ~110 zn.). Literovy kroky: 1 ✅ (nový úvod), 2 ✅, 3 ✅ (tři odstavce „Za přínosné bych považovala…", „Další prostor…", „Nejde mi o to…"). Ověřeno proti výpiskům: s. 67 „velmi těžké datovat" ✅, kaštany ✅, s. 73 citace ✅, čtyři Achesonovy podmínky = s. 74 ✅, FRUS a Narinskij ✅, Lefflera Luňák cituje ✅, pochybnost o demokratičnosti vlád s. 74 ✅.
 Zbývá: (1) odstavce kroku 3 stojí až za „4. Závěr" → přeskládat; (2) doklad 2: „opustil technický jazyk", „výmluvná filipika", „ideologicky vyostřený" nejsou Luňákova slova (on jen „výstup… připomínal Churchillovu řeč ve Fultonu"); (3) nadpis dokladu 1 „odmítnutí datace" silnější než text; (4) opakování: Leffler/strategie v odd. 3 i v kroku 3, veřejné mínění v odd. 2 i v kroku 3; (5) před odevzdáním: hlavička, MATERIÁL, poznámky pod čarou (zatím 0), prohlášení o AI.
+
+## 7. Kontrola po druhém přepsání (Claude, 8. 11. 2026)
+
+Rozsah 9 534 zn. = **5,3 NS ✅**. Přeskládáno Barborou: 4. Čemu by se autor mohl věnovat, 5. Závěr ✅. Doklad 2 přepsán, citace „v mnohém připomínal Churchillovu řeč ve Fultonu" ✅; nadpis dokladu 1 opraven ✅; duplicitní Leffler v odd. 3 pryč ✅; nový odstavec za dokladem 3 (vlastní výklad) ✅.
+Drobnosti: v odd. 4 zůstává „Achesonův mnohem vyhrocenější projev" (Luňák jen přirovnání k Fultonu); v dokladu 3 „zákonodárce uklidňoval", „rétorickou obálkou", „daňových poplatníků" připsáno Luňákovi (on: „uvedl celou věc na pravou míru"). „(pozn. 58/59)" v textu = Luňákovy koncové poznámky, vedle vlastních poznámek pod čarou psát „v Luňákově pozn. 58". Zbývá: hlavička, MATERIÁL, aparát, prohlášení o AI, formát.
