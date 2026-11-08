@@ -152,3 +152,8 @@ Google Doc „JTB039 — Interpretace 1: Luňák, Západ, s. 67–74". Rozsah te
 - Truman: neověřená citace z projevu „téměř každý národ je nucen zvolit cestu…" nahrazena ověřenou citací Luňáka ze s. 73: Spojené státy podle Luňáka v Trumanově projevu z 12. března 1947 „verbálně přijímaly absolutní závazek k obraně demokracie vždy a všude" (pozn. 58).
 - „prodat" a „prodána": bez uvozovek; v kritice „Luňák v textu tvrdí" → „Z Luňákova výkladu vyplývá".
 - s. 72: vypuštěno „a veřejné peníze na vzdálené závazky dát nechtěli"; věta končí citací s kaštany.
+
+## 6. Kontrola po přepsání Barborou (Claude, 8. 11. 2026)
+
+Rozsah od „Petr Luňák se" po konec textu (bez hlavičky a MATERIÁLU): **9 112 znaků = 5,06 NS ✅** (rezerva ~110 zn.). Literovy kroky: 1 ✅ (nový úvod), 2 ✅, 3 ✅ (tři odstavce „Za přínosné bych považovala…", „Další prostor…", „Nejde mi o to…"). Ověřeno proti výpiskům: s. 67 „velmi těžké datovat" ✅, kaštany ✅, s. 73 citace ✅, čtyři Achesonovy podmínky = s. 74 ✅, FRUS a Narinskij ✅, Lefflera Luňák cituje ✅, pochybnost o demokratičnosti vlád s. 74 ✅.
+Zbývá: (1) odstavce kroku 3 stojí až za „4. Závěr" → přeskládat; (2) doklad 2: „opustil technický jazyk", „výmluvná filipika", „ideologicky vyostřený" nejsou Luňákova slova (on jen „výstup… připomínal Churchillovu řeč ve Fultonu"); (3) nadpis dokladu 1 „odmítnutí datace" silnější než text; (4) opakování: Leffler/strategie v odd. 3 i v kroku 3, veřejné mínění v odd. 2 i v kroku 3; (5) před odevzdáním: hlavička, MATERIÁL, poznámky pod čarou (zatím 0), prohlášení o AI.
