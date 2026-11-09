@@ -15,7 +15,7 @@
 | **15. 11., 23:59** | **rozbor textu**, min. 5 NS, Moodle 2 | JTB041 | ⬜ nezačatý |
 | **27. 11.** | blok Smetana (datum potvrdila Barbora 15. 10.; karta ho neuvádí) | JTB036 | otázky mají jít mailem dřív, viz `JTB036_stav.md` |
 | **13. 12., 24:00** | **recenze** Lux – Mikeszová, Moodle2 | JTB034 | ✅ téměř hotová |
-| **15. 12.** | **interpretace 1** (Luňák), 5 NS | JTB039 | ✅ rozepsaná, zbývají úpravy |
+| **15. 12.** | **interpretace 1** (Luňák), 5 NS | JTB039 | ✅ hotová 9. 11., k odevzdání ve složce „hotové práce“ (5,3 NS, 13 pozn., prohlášení vyplněno); neodevzdáno |
 | **15. 12.** | **interpretace 2** (Litera), 5 NS | JTB039 | ⬜ nezačatá, kniha nesehnaná |
 | **27. 12., 23:59** | **analýza demokratického přechodu**, min. 7 NS, Moodle 2 | JTB041 | ⬜ nezačatá |
 | **6. 1., 13. 1. nebo 27. 1., 23:59** | **úvaha o tisku** 7–10 NS + **recenze** 3–4 NS, jeden soubor, Moodle | JTB036 | ✅ obě hotové, zbývají dokončovací kroky (`JTB036_stav.md`) |
