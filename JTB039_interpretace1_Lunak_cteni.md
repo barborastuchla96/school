@@ -162,3 +162,14 @@ Zbývá: (1) odstavce kroku 3 stojí až za „4. Závěr" → přeskládat; (2)
 
 Rozsah 9 534 zn. = **5,3 NS ✅**. Přeskládáno Barborou: 4. Čemu by se autor mohl věnovat, 5. Závěr ✅. Doklad 2 přepsán, citace „v mnohém připomínal Churchillovu řeč ve Fultonu" ✅; nadpis dokladu 1 opraven ✅; duplicitní Leffler v odd. 3 pryč ✅; nový odstavec za dokladem 3 (vlastní výklad) ✅.
 Drobnosti: v odd. 4 zůstává „Achesonův mnohem vyhrocenější projev" (Luňák jen přirovnání k Fultonu); v dokladu 3 „zákonodárce uklidňoval", „rétorickou obálkou", „daňových poplatníků" připsáno Luňákovi (on: „uvedl celou věc na pravou míru"). „(pozn. 58/59)" v textu = Luňákovy koncové poznámky, vedle vlastních poznámek pod čarou psát „v Luňákově pozn. 58". Zbývá: hlavička, MATERIÁL, aparát, prohlášení o AI, formát.
+
+## 8. Verze k odevzdání (Claude, 9. 11. 2026, na žádost Barbory)
+
+Nový Google Doc „JTB039 Interpretace 1 – Luňák – Stuchlá (k odevzdání)", https://docs.google.com/document/d/168uGcHOEf-z9fy3ovlme50OtgAerydu3r1FmtKxRZlQ/edit, ve složce „ZS 2026-27 – hotové práce". Pracovní doc s MATERIÁLEM beze změny.
+- Hlavička jako u Huntingtona (jméno, obor, FSV UK/IMS, předmět, PhDr. Bohuslav Litera, Interpretace textu 1, ZS 2026/2027); nadpis práce podle tématu: „Pojetí containmentu v Luňákově Západu (s. 67–74)". Pracovní hlavička a bibliografický řádek pryč (bibliografie je v Seznamu literatury).
+- A4, okraje 2,5 cm, TNR 12, řádkování 1,5, do bloku; poznámky TNR 10.
+- 13 skutečných poznámek pod čarou (norma IMS / Chicago): 1 plná citace Luňáka s. 67, dál Ibid. Stránky v závorkách z běžného textu přesunuty do poznámek; v nadpisech dokladů ponechány.
+- Mechanické úpravy textu: „(pozn. 58/59)" → „(Luňákova pozn. 58/59)", aby se nepletly s vlastními poznámkami; čárka „fultonskou řeč, pomohl"; *The Fifteen Weeks* kurzívou.
+- Poznámka 9 (FRUS, Narinskij) a 10 (Leffler) odkazují na poznámkový aparát ke II. bloku, s. 379–385 (podle výpisků ze snímků 8. 10.).
+- Prohlášení o AI: období 23. 9. – [DOPLNIT DATUM ODEVZDÁNÍ] 2026; výběr tématu, ověření shrnutí a citací, diskuse nad pramennou základnou, korektura a formální úprava.
+- Kontrola exportem do PDF: 6 stran A4, poznámky na správných místech.
