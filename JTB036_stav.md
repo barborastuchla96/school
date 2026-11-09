@@ -82,3 +82,13 @@
 ---
 
 **6. 11. 2026, neověřená informace ze skupiny spolužáků (Barbora, screenshot):** podle kolegyně spolužáka je Smetana (a Vykoukal) velmi přísný, prý kvůli nim ve druháku neprošla. Doslech, ne zdroj. Důsledek pro projekt: držet se karty SIS do písmene. Úvaha je v limitu v obou výkladech rozsahu (17 978 zn. včetně aparátu ≤ 18 000; bez aparátu výrazně pod), rezerva jen 22 znaků, proto po složení souboru a po každé úpravě znovu změřit. ⬜ Na bloku 27. 11. případně ověřit u Smetany, jestli se aparát do rozsahu počítá a jaké má požadavky na formu.
+
+---
+
+**9. 11. 2026: složený soubor existuje** (založila Barbora): „JTB036 Smetana – úvaha o tisku a recenze Iggerse – Stuchlá (k odevzdání)“, ID `1RK-vttcJOOSKALISGZNqzOskbFJQOSAjsfGLdu2jvqI`. Kontrola Claude (strojově, obsah nečten):
+- **Úvaha** od „Úvod“ po konec seznamu pramenů, s poznámkami: **17 774 zn. ≈ 9,9 NS ✅** (limit 18 000, rezerva 226). Text 11 719 + poznámky 1–55 5 234 + seznam 821.
+- **Recenze** (od nadpisu po prohlášení): 5 835 zn. ≈ 3,24 NS, s pozn. 56 3,36 NS ✅ (3–4 NS).
+- 56 poznámek pod čarou (55 úvaha + 1 recenze). Jméno na první straně ✅.
+- Překladatelé sedí: Iggerse přeložil Pavel Kolář (bibliografický řádek recenze), Jiří Kasl je překladatel Browningových *Obyčejných mužů* (pozn. 56). Starší „Kasl“ v poznámkách se tedy týkal Browninga.
+- Formát: Letter místo A4, text nezarovnaný do bloku, nadpisy nejednotné (úvaha Nadpis 3, recenze Nadpis 1, prohlášení Nadpis 2), „Seznam pramenů a literatury“ obyčejný odstavec; prázdný odstavec a měkké zalomení za „Úvod“.
+- Prohlášení o AI (Barbořino znění, Claude + ChatGPT) **nemá období**, které UK vyžaduje.
