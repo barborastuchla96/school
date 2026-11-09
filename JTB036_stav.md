@@ -92,3 +92,11 @@
 - Překladatelé sedí: Iggerse přeložil Pavel Kolář (bibliografický řádek recenze), Jiří Kasl je překladatel Browningových *Obyčejných mužů* (pozn. 56). Starší „Kasl“ v poznámkách se tedy týkal Browninga.
 - Formát: Letter místo A4, text nezarovnaný do bloku, nadpisy nejednotné (úvaha Nadpis 3, recenze Nadpis 1, prohlášení Nadpis 2), „Seznam pramenů a literatury“ obyčejný odstavec; prázdný odstavec a měkké zalomení za „Úvod“.
 - Prohlášení o AI (Barbořino znění, Claude + ChatGPT) **nemá období**, které UK vyžaduje.
+
+**9. 11. 2026: formát a hlavička** (Claude, na pokyn Barbory „ano, udělej formát i hlavičku. období od 10.9. do teď“):
+- Hlavička: Barbora Stuchlá / Teritoriální studia, 1. ročník, distanční forma / FSV UK, Institut mezinárodních studií / JTB036 Metodologie soudobých dějin / Vyučující: doc. PhDr. Vít Smetana, Ph.D. (podle karty SIS) / ZS 2026/2027; pod ní Barbořin název „Úvaha o dobovém tisku a recenze Georga G. Iggerse“ (16 b. tučně). Původní řádky „Teritoriální studia, FSV UK…“ a „JTB036 seminární práce“ nahrazeny.
+- A4, okraje 2,5 cm, TNR 12, řádkování 1,5, text do bloku; nadpisy kapitol, „Seznam pramenů a literatury“ a „Prohlášení“ jednotně 13 b. tučně; „Recenze: Georg G. Iggers“ 16 b. na nové straně; podnadpisy seznamu (Prameny, Literatura tučně; Vydané prameny, Periodika kurzívou); poznámky TNR 10.
+- Smazány prázdné odstavce (za hlavičkou, před recenzí, před prohlášením) a měkké zalomení na začátku úvodu. Text jinak beze změny.
+- Prohlášení o AI: doplněno jen období „v období 10. 9. – 9. 11. 2026“; zbytek Barbořina znění beze změny.
+- Kontrola exportem do PDF: 10 stran A4, úvaha s. 1–6, recenze od s. 7. Rozsah se nezměnil (úvaha 17 774 zn. ≤ 18 000).
+- ⬜ Zbývá: Barbořino čtení čerstvýma očima; po bloku 27. 11. kontrola karty SIS.
