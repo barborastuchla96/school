@@ -143,3 +143,9 @@ Zatím nenapsáno; relevantní bude práce s readerem.
 **✅ Finální znění JTB034 recenze (7. 11. 2026, vloženo do Google Docu):**
 
 > Prohlašuji, že jsem text práce napsala sama. V období 11. 9. – [DOPLNIT DATUM ODEVZDÁNÍ] 2026 jsem při přípravě použila nástroj Claude (Anthropic) k ověření bibliografických údajů a toho, zda mé citace a stránkové odkazy odpovídají recenzované knize, a ke korektuře textu. Plně přejímám odpovědnost za výslednou podobu práce.
+
+## JTB039 — interpretace 1 (Luňák), finální znění vložené 9. 11. 2026
+
+> Prohlašuji, že jsem text práce napsala sama. V období 23. 9. – 9. 11. 2026 jsem při přípravě použila nástroj Claude (Anthropic) k výběru tématu, k ověření, zda mé shrnutí a citace odpovídají interpretovanému textu, k diskusi nad tím, o jaké prameny autor opírá svůj výklad, a ke korektuře a formální úpravě textu. Plně přejímám odpovědnost za výslednou podobu práce.
+
+*Konec období = poslední den práce s Claudem na interpretaci (formátování 9. 11.), ne datum odevzdání; platí, i když Barbora odevzdá později. Pokud se na textu s Claudem ještě něco udělá, datum posunout.*

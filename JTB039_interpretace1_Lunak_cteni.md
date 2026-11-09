@@ -173,3 +173,4 @@ Nový Google Doc „JTB039 Interpretace 1 – Luňák – Stuchlá (k odevzdán�
 - Poznámka 9 (FRUS, Narinskij) a 10 (Leffler) odkazují na poznámkový aparát ke II. bloku, s. 379–385 (podle výpisků ze snímků 8. 10.).
 - Prohlášení o AI: období 23. 9. – [DOPLNIT DATUM ODEVZDÁNÍ] 2026; výběr tématu, ověření shrnutí a citací, diskuse nad pramennou základnou, korektura a formální úprava.
 - Kontrola exportem do PDF: 6 stran A4, poznámky na správných místech.
+- 9. 11.: do prohlášení v docu k odevzdání vloženo období 23. 9. – 9. 11. 2026 (konec práce s Claudem). Barbora: citace v poznámkách už kontrolovat nebude.
