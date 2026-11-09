@@ -174,3 +174,4 @@ Nový Google Doc „JTB039 Interpretace 1 – Luňák – Stuchlá (k odevzdán�
 - Prohlášení o AI: období 23. 9. – [DOPLNIT DATUM ODEVZDÁNÍ] 2026; výběr tématu, ověření shrnutí a citací, diskuse nad pramennou základnou, korektura a formální úprava.
 - Kontrola exportem do PDF: 6 stran A4, poznámky na správných místech.
 - 9. 11.: do prohlášení v docu k odevzdání vloženo období 23. 9. – 9. 11. 2026 (konec práce s Claudem). Barbora: citace v poznámkách už kontrolovat nebude.
+- 9. 11.: na žádost Barbory pozn. 10 (Leffler) přepsána z „Ibid.“ na: „Luňák v poznámkovém aparátu ke II. bloku cituje Lefflerovu monografii *A Preponderance of Power* (1992) i jeho studii v časopise *Diplomatic History*; viz Luňák, *Západ*, 379–385.“ Přesné číslo Luňákovy poznámky neznámé (snímky nejsou), Barbora dohledávat nebude. Barbora sama smazala řádek „Interpretace textu 1“ v hlavičce.
