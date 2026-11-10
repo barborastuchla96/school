@@ -337,3 +337,8 @@ Rieber, Alfred J. „Popular Democracy: An Illusion?" V *Stalinism Revisited: Th
 ---
 
 *Log AI: 5. 10. 2026 – **všech devět kapitol napsala B.** Claude na její pokyn opravil Rieberův rozsah stran, doplnil Borhiho nález do kapitoly 5, přečísloval a strojově zkontroloval poznámky, vložil prohlášení o AI a vyrobil docx. **Formulace doplněné věty v kapitole 5 je Claudova a čeká na schválení B.** Údaj o rozsahu 16,5 NS, který Claude zapsal do verze 1, byl chybný; skutečný rozsah je 18,5 NS vlastního textu a 22,3 NS celkem. **Byla to Claudova chyba v měření, ne změna textu.***
+
+### 10. 11. 2026: nový docx k odevzdání (Claude, na žádost Barbory)
+
+Původní docx Barbora nenašla (na Drivu není). Z tohoto souboru vygenerován nový `JTB039_seminarka_Stuchla.docx` (pandoc + python-docx): hlavička jako u ostatních prací (jméno, obor, FSV UK/IMS, JTB039, PhDr. Bohuslav Litera, Seminární práce, ZS 2026/2027), A4, okraje 2,5 cm, TNR 12, řádkování 1,5, do bloku, 78 skutečných poznámek pod čarou TNR 10, seznam literatury, prohlášení o AI na konci. Text beze změny; jen zavírací uvozovky sjednoceny na české (42×). 17 stran.
+Žlutě zvýrazněno k vyřízení Barborou: (1) Claudova věta v kap. 5 („Shoda v hodnocení motivů…“); (2) období v prohlášení o AI. Návrh znění prohlášení: rešerše a ověření bibliografických údajů, ověření citací a odkazů, plánování struktury, korektura (Barbora potvrdí).
