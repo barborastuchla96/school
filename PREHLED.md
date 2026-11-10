@@ -18,7 +18,7 @@
 | **15. 12.** | **interpretace 1** (Luňák), 5 NS | JTB039 | ✅ hotová 9. 11., k odevzdání ve složce „hotové práce“ (5,3 NS, 13 pozn., prohlášení vyplněno); neodevzdáno |
 | **15. 12.** | **interpretace 2** (Litera), 5 NS | JTB039 | ⬜ nezačatá, kniha nesehnaná |
 | **27. 12., 23:59** | **analýza demokratického přechodu**, min. 7 NS, Moodle 2 | JTB041 | ⬜ nezačatá |
-| **6. 1., 13. 1. nebo 27. 1., 23:59** | **úvaha o tisku** 7–10 NS + **recenze** 3–4 NS, jeden soubor, Moodle | JTB036 | ✅ obě hotové, zbývají dokončovací kroky (`JTB036_stav.md`) |
+| **6. 1., 13. 1. nebo 27. 1., 23:59** | **úvaha o tisku** 7–10 NS + **recenze** 3–4 NS, jeden soubor, Moodle | JTB036 | ✅ hotovo 10. 11.: složený soubor zformátovaný, prohlášení vyplněné, rozsah v limitu; po bloku 27. 11. zkontrolovat kartu SIS (`JTB036_stav.md`) |
 | **10. 1., 24:00** | **komparativní studie**, 10–15 NS včetně aparátu, Moodle2 | JTB035 | ✅ napsaná; ⚠ nejspíš přes limit |
 | **10. 1., 24:00** | **malá seminární práce**, Moodle2 | JTB034 | ⬜ nezačatá |
 | **10. 1.** | **seminární práce**, 15 NS s poznámkovým aparátem | JTB039 | ✅ hotová; ⚠ 18,5 NS vlastního textu |

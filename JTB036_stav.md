@@ -100,3 +100,4 @@
 - Prohlášení o AI: doplněno jen období „v období 10. 9. – 9. 11. 2026“; zbytek Barbořina znění beze změny.
 - Kontrola exportem do PDF: 10 stran A4, úvaha s. 1–6, recenze od s. 7. Rozsah se nezměnil (úvaha 17 774 zn. ≤ 18 000).
 - ⬜ Zbývá: Barbořino čtení čerstvýma očima; po bloku 27. 11. kontrola karty SIS.
+- 10. 11.: Barbora považuje soubor za hotový („ted uz je to asi ready“). Otevřené jen: blok 27. 11. a karta SIS po něm.
