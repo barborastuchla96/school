@@ -61,3 +61,8 @@ Vypuštěno: věta o eurokrizi (pozn. 35), výčet čtyř dimenzí ve 2.1 (pozn.
 Dorovnáno: nadpis „2.1 Rámec: čtyři dimenze“ → „2.1 Rámec“ (výčet dimenzí vypadl); ve 4.1 „Její předseda Timo Soini“ → „Předseda strany Timo Soini“ (po škrtu by „Její“ odkazovalo na „politiku“).
 **Rozsah: ~14,9 NS včetně nadpisů (text 15 151 + poznámky 6 058 + seznam 4 619 + tabulka 678 + nadpisy 353 znaků). ✅ Pod 15 NS.**
 - 11. 11.: dorovnáno po D5 „neprošel tisk“ → „neprošel vládní návrh (tisk 231)“; po D1 „jejich závazek“ → „závazek PS“.
+
+## Google Doc k odevzdání (11. 11. 2026)
+„JTB035 Komparativní studie – PS a SPD – Stuchlá-Ruokonen (k odevzdání)“, https://docs.google.com/document/d/1Cn8862yIhoBsUL6M95NO42yInlSlHyjr8gWXWXTRZjc/edit (Můj disk). Hlavička (nové jméno, prof. PhDr. Michal Kubát, Ph.D., Komparativní studie, ZS 2026/2027), A4, TNR 12, 1,5, do bloku, 38 skutečných poznámek pod čarou (TNR 10), tab. 1, seznam pramenů a literatury (prázdná podkategorie „články v periodikách“ vypuštěna), prohlášení o AI s [DOPLNIT] (žlutě). Strojově ověřeno: text i 38 poznámek se shodují se zdrojem. PDF export: 12 stran; celý dokument včetně hlavičky a prohlášení 28 093 zn. (15,6 NS), bez hlavičky a prohlášení ~27 450 zn. (15,25 NS); výpočet z md (text+pozn.+seznam+tab.+nadpisy) 14,9 NS.
+Finské citace: v textu zůstala jediná („jokaisen puolueen kädenjäljen tulee näkyä“) a má překlad ✅.
+⬜ Zbývá: období v prohlášení o AI; doložka „ve znění účinném k 14. září 2026“ u zák. 2/1969 Sb. (neověřeno); Barbořino čtení.
