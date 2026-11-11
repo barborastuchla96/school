@@ -27,3 +27,4 @@
 
 **11. 11. 2026: provedeno vše (M1–M9, M11, K1–K5) na pokyn Barbory („tak asi všechno no“).** Kap. 3+4 sloučeny, nyní ~6 000 zn. Odstraněny pozn. 21, 24, 27, 28, 30, 31, 32 (jejich věty vypadly); pozn. 25 „Tamtéž.“ přepsána na „Hopkin, „The Comparative Method", 293.“, protože by jinak ukazovala na Akkermanovou. První plné citace Hopkina, Morlina i Akkermanové („Into the mainstream?“) zůstaly v nevypuštěných poznámkách. Záloha před krácením je v historii gitu.
 ⬜ Dvě místa bez nadpisů teď visí ve vzduchu a potřebují půl věty od Barbory: „Dvě věci, a odděleně, protože nejsou totéž.“ a „Stanoveno předem, aby se zrcadlová negace…“.
+- 11. 11.: obě přemosťovací věty vloženy v Claudově znění, schváleno Barborou („dej to tam takhle“).

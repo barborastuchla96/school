@@ -197,13 +197,13 @@ Dílčí asymetrie zůstává a je nutné ji přiznat: u českého případu jso
 
 Sleduje se klub, ne jednotlivec. U SPD se mezi opozičním a vládním obdobím mění mluvčí, a to z institucionálního důvodu: Okamura se stal předsedou Sněmovny a v plénu za stranu mluví Fiala. Kdyby analýza visela na osobě, zaměnila by změnu řečníka za změnu rámce.
 
-Dvě věci, a odděleně, protože nejsou totéž.
+U každého vystoupení sleduji dvě věci, a to odděleně, protože nejsou totéž.
 
 **Terč**, tedy kdo je protivníkem. Předem vymezené možnosti zahrnovaly současnou vládu a koaliční partnery, předchozí vládní garnituru, ostatní parlamentní opozici, unijní instituce, veřejnoprávní média a nestátní aktéry. **Kategorie veřejnoprávních médií se ve sledovaném okně nenaplnila, což je samo o sobě nález.**
 
 **Rejstřík**, tedy jakým jazykem se mluví: protestní (antiestablishmentový nebo nativistický, obvinění ze zrady) proti technokratickému (věcná a číselná obhajoba vládní politiky). Vystoupení může nést oba.
 
-Stanoveno předem, aby se zrcadlová negace finského případu nepotvrdila sama sebou.
+Předem jsem stanovila, co by tezi vyvrátilo, aby se zrcadlová negace finského případu nepotvrdila sama sebou:
 
 1. **Vnitrokoaliční opozice.** Teze padá, hlasoval-li klub proti vládnímu návrhu zákona nebo podpořil-li opoziční nedůvěru či program mimořádné schůze proti koaličnímu partnerovi. Testují to jen hlasování, kde se zájem strany a stanovisko vlády mohly rozejít; hlasování o vlastním návrhu strany nikoli.
 2. **Externalizace.** Teze padá, nahradila-li technokratická obhajoba vládní politiky protestní rejstřík. Stojí-li oba vedle sebe, obstojí.
