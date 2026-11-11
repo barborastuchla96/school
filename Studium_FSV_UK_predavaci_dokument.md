@@ -477,3 +477,5 @@ Tím je zodpovězena otázka 3 („co přesně znamená interpretace"). **🛑 I
 
 **Barbora Stuchlá-Ruokonen** (spojovník bez mezer). Škola jméno v systému aktualizovala 10. 11. 2026. Ve všech pracích k odevzdání a v názvech souborů se používá nové jméno.
 - 10. 11.: opraveno v hlavičkách (Claude, na žádost Barbory): JTB041 rozbor, JTB039 interpretace 1, JTB039 seminární práce, JTB036 úvaha + recenze; přejmenovány všechny dokumenty „k odevzdání“ včetně JTB034 recenze. Recenze JTB034 jméno v textu nemá (žádná hlavička). Záložní docx seminárky v repu opraven taky.
+
+- **Chyba Clauda 11. 11. 2026 (JTB035):** tvrdil, že odstavec o asymetrii pramenů v metodologii říká, že finské protokoly z pléna nejsou dostupné. Současné znění (B., 21. 9.) to netvrdí; jen popisuje, že u Finska se pracuje s programovými a vládními dokumenty. Claude vycházel ze zastaralé poznámky v pracovním souboru místo z textu.
