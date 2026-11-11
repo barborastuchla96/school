@@ -47,3 +47,10 @@ Provedeno vše K1–K10 na pokyn Barbory. Odstraněny pozn. 43, 54, 58, 65, 66, 
 4. Metodologie: vypuštěno „Sleduje se klub…“, terč a rejstřík a seznam vyvracečů.
 5. 2.1: vypuštěny „dvě části modelu“ a odstavec Strøm / Helboe Pedersenová (pozn. 9, 10); nadpis zkrácen na „2.1 Rámec: čtyři dimenze“; Strøm vyřazen ze seznamu literatury.
 ⚠ V 5.2 zůstává „kategorie vyhrazená veřejnoprávním médiím zůstává ve sledovaném okně prázdná“, ale výčet kategorií terčů (metodologie) vypadl.
+
+## Poslední balík (11. 11. 2026, na pokyn Barbory „ano“; B6 = cyklus 2023 výslovně ponechán)
+Provedeno: B7, B8, C1, C2, C3, D1, D2, D5–D10, B9.
+- D9: „ze tří důvodů“ → „ze dvou důvodů“. B7: „Právě tato aktivní složka rozhoduje“ → „Právě aktivní krytí ze strany partnerů rozhoduje“ (výčet, na který odkazovala, vypadl).
+- Poznámky: odstraněny 3, 14, 23, 36, 38, 50, 51. Plné citace přeneseny: Jungar → pozn. 12, *Ratkaisujen Suomi* → pozn. 40. B9: v pozn. 41 Jungar zkrácen na krátký tvar, v pozn. 73 koaliční smlouva na „Koaliční smlouva“.
+- Seznam literatury: vyřazeny „Sipilän hallitus nimitettiin“ a stenoprotokol 129. schůze (už necitované).
+- Přečíslování: kap. 5 → 4 (4.1–4.3), kap. 6 → 5; odkazy „oddíl 5.1“ a „oddílech 5.1 až 5.3“ upraveny, „(srov. kap. 5.4)“ vypuštěno.

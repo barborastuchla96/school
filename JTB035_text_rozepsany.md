@@ -77,7 +77,7 @@ Původní schéma předpokládalo úplný soubor všech vystoupení klubu v okn�
 
 Vstup populistické radikální pravice do vládní koalice vyžaduje programové ústupky a sdílení moci, což přímo ohrožuje její protestní profil. Jakým způsobem si strana této rodiny kompenzuje cenu vládního umírnění, kterou na ni klade exekutivní role? Tato studie srovnává finské Pravé Finy (Perussuomalaiset, PS) v jejich prvním roce ve vládním kabinetu (2015–2016) a českou SPD v jejím prvním vládním angažmá (2025–2026). Výzkumná podotázka zní: jakou kompenzační strategii v prvním roce zvolily PS, jakou SPD a čím se rozdíl v jejich volbě vysvětlí?
 
-V dosavadním výzkumu zůstává tento mechanismus neobjasněný ze tří důvodů. Zaprvé, debata o dopadech vládnutí na radikální pravici nabízí protichůdná očekávání, aniž by v empirii dosáhla konsenzu.[^1] Zadruhé, srovnání volebních programů po roce 2010 ukazuje, že antiestablishmentová dimenze radikální pravice s časem neslábne a strany zůstávají výrazně populističtější než centristické formace;[^2] tato data však měří pouze volební manifesty, nikoli chování ve vládní praxi. Zatřetí, Ann-Cathrine Jungarová položila otázku po konkrétním způsobu vládní adaptace Pravých Finů, avšak v době psaní na ni s otevřeným vládním cyklem nemohla odpovědět; uzavřenost tohoto horizontu dnes umožňuje tento proces zhodnotit.[^3]
+V dosavadním výzkumu zůstává tento mechanismus neobjasněný ze dvou důvodů. Zaprvé, debata o dopadech vládnutí na radikální pravici nabízí protichůdná očekávání, aniž by v empirii dosáhla konsenzu.[^1] Zadruhé, srovnání volebních programů po roce 2010 ukazuje, že antiestablishmentová dimenze radikální pravice s časem neslábne a strany zůstávají výrazně populističtější než centristické formace;[^2] tato data však měří pouze volební manifesty, nikoli chování ve vládní praxi.
 
 Tato práce obhajuje tezi, že volba kompenzační strategie závisí na vyjednávací pozici strany vůči partnerům a na přítomnosti reputačního štítu. Zatímco Praví Finové kompenzovali vládní ústupky věcným programovým ziskem v imigrační politice, pro SPD není věcná kompenzace nedostupná, nýbrž strukturálně odstupňovaná podle míry institucionálního přístupu: tam, kde má vlastní parlamentní nástroj, dosahuje rychlého symbolického výstupu, kde závisí na cizí vládní gesci, zůstává výstup nedokončený, a v tématech bez rezortního přístupu se kompenzace přesouvá k rétorické externalizaci nepřítele mimo dosah koaliční smlouvy.
 
@@ -97,14 +97,9 @@ Vyjednávací pozice je v práci pojata jako jedna složená proměnná s dvěma
 
 ### 2.3 Reputační štít
 
-Druhou nezávislou proměnnou je reputační štít (*reputational shield*). Elisabeth Ivarsflatenová jím původně vysvětlovala, proč většina západoevropských protiimigračních stran politicky selhala, zatímco úspěšné menšině se podařilo vytěsnění na okraj a stigmatizaci extremismem překonat.[^12] Ann-Cathrine Jungarová koncept posouvá do vládní arény: sleduje, do jaké míry etablovaní koaliční partneři poskytují radikální formaci legitimizační krytí vůči útokům opozice a médií.[^13] Od adaptace mainstreamu,[^14] která spočívá v přejímání témat PRR etablovanými stranami, je třeba štít striktně odlišovat: štít nepopisuje programový posun partnerů, nýbrž jejich ochotu aktivně hájit legitimitu vládní spolupráce s radikální formací.
+Druhou nezávislou proměnnou je reputační štít (*reputational shield*). Elisabeth Ivarsflatenová jím původně vysvětlovala, proč většina západoevropských protiimigračních stran politicky selhala, zatímco úspěšné menšině se podařilo vytěsnění na okraj a stigmatizaci extremismem překonat.[^12] Ann-Cathrine Jungarová koncept posouvá do vládní arény: sleduje, do jaké míry etablovaní koaliční partneři poskytují radikální formaci legitimizační krytí vůči útokům opozice a médií.[^13]
 
-V koaliční praxi je přitom nutné rozlišit dvě roviny přijetí:
-
-1. **Pasivní institucionální kooptaci:** běžné přenechání vysokých ústavních postů (zástupce premiéra, předseda parlamentu) na základě koaličního vyjednávání. Samo o sobě však reputační štít netvoří; představuje pouze naplnění volební aritmetiky.
-2. **Aktivní diskurzivní krytí (štít v užším smyslu):** situaci, kdy se koaliční partneři za radikální stranu veřejně postaví, aktivně legitimizují její vládní způsobilost a bagatelizují její excesy jako individuální pochybení, ze kterých odmítají vyvozovat koaliční krizi.
-
-Právě tato aktivní složka rozhoduje o tom, **jak radikální rejstřík si strana může dovolit uvnitř vládního tábora**. Kde partneři aktivní krytí poskytnou, může formace držet radikální rétoriku i uvnitř vlády. Kde naopak štít chybí a spolupráce zůstává omezena na pasivní kooptaci, prostor pro radikální rejstřík uvnitř vládního tábora se zužuje a strana volí cesty, které obhajobu od partnerů nevyžadují: od symbolických parlamentních výstupů až po rétorický přesun nepřítele do vnější arény.
+Právě aktivní krytí ze strany partnerů rozhoduje o tom, **jak radikální rejstřík si strana může dovolit uvnitř vládního tábora**. Kde partneři aktivní krytí poskytnou, může formace držet radikální rétoriku i uvnitř vlády. Kde naopak štít chybí a spolupráce zůstává omezena na pasivní kooptaci, prostor pro radikální rejstřík uvnitř vládního tábora se zužuje a strana volí cesty, které obhajobu od partnerů nevyžadují: od symbolických parlamentních výstupů až po rétorický přesun nepřítele do vnější arény.
 
 ### 2.4 Typologie kompenzačních strategií
 
@@ -112,15 +107,13 @@ Právě tato aktivní složka rozhoduje o tom, **jak radikální rejstřík si s
 
 Strana akceptuje programové ústupky výměnou za legislativně ukotvené výstupy ve svých prioritních tématech. Tento kompromis se realizuje buď přímým věcným výkonem moci ve svěřených rezortech, nebo prosazením klíčových programových priorit do vládního prohlášení napříč rezorty drženými koaličními partnery. Protestní mobilizaci v dané oblasti nahrazuje vládní výkon.
 
-Druhá varianta se dělí na dva kroky, které je nutné rozlišovat: zapsání priority do vládního programu a její legislativní provedení. Český případ ukazuje, že první může proběhnout bez druhého; finský případ ukazuje obojí.
-
 **1b. Symbolický nelegislativní výstup** (poddruh prvního typu)
 
 Strana dosáhne institucionálního výstupu, který nemá legislativní povahu, typicky usnesení komory, v tématu, k němuž nemá rezortní přístup. Od plné věcné kompenzace se liší tím, že nezakládá právní povinnost; od pouhé rétoriky tím, že jde o akt komory přijatý hlasováním.
 
 **2. Vnitrokoaliční opozice** (veřejný dissensus)
 
-Poslanecký klub nebo frakce strany veřejně odmítá koaliční disciplínu, a to ve dvou podobách. Buď **napadá vládní předlohy zevnitř parlamentu** a hlasuje proti nim, nebo **odmítá distanc, který se od vládní formace v dané situaci očekává**, tedy nepřistoupí na odstup od vlastního radikálního prostředí ani tehdy, když to vládní role velí. Obojí je odmítnutím vládní solidarity při zachování vládní účasti a v obou případech nesou náklady všichni koaliční partneři. Riziková strategie na hraně pádu vlády.
+Poslanecký klub nebo frakce strany veřejně odmítá koaliční disciplínu, a to ve dvou podobách. Buď **napadá vládní předlohy zevnitř parlamentu** a hlasuje proti nim, nebo **odmítá distanc, který se od vládní formace v dané situaci očekává**, tedy nepřistoupí na odstup od vlastního radikálního prostředí ani tehdy, když to vládní role velí.
 
 > *Rozšíření druhé podoby provedeno 18. 9. 2026.* Původní vymezení znalo jen napadání vládních předloh, což neodpovídalo užití v kapitole 5: kauza Immonen není útokem na vládní předlohu. Širší vymezení je bližší Albertazziho a McDonnellově formulaci, která mluví o udržení antiestablishmentových **pozic i chování** ve vládě; nedistancování je chování.
 
@@ -142,13 +135,11 @@ Práce je postavena na designu největší podobnosti (MSSD), který vychází z
 
 Výběr případů drží celou řadu systémových proměnných konstantní, takže jimi rozdíl ve strategii vysvětlit nejde.[^19] Obě strany patří k PRR a do vlády šly jako slabší partner podstatně silnějšího hráče. V obou zemích funguje parlamentní režim s poměrným systémem, tradicí koalic a přímo voleným prezidentem s omezenými pravomocemi. Obě jsou v EU, kterou mají jako hlavní vnější terč, a obě vznikly na půdorysu dřívějších politických projektů.[^20] Stejná je i povaha vládní účasti: obě strany sedí ve většinové vládě a mají ministry.
 
-Praví Finové jsou v rámci své rodiny výjimka: v roce 2011 nabídku do vlády odmítli kvůli záchranným balíčkům pro eurozónu, takže když do ní v roce 2015 konečně vstoupili, tlak na ústupky byl obrovský.[^22] Práce ale musí přiznat i jednu asymetrii: PS vyrostli z venkovského populismu a k nativismu přešli až postupně, podobně jako italská Liga severu,[^23] zatímco SPD vznikla rovnou jako čistě protiimigrační strana.
+Praví Finové jsou v rámci své rodiny výjimka: v roce 2011 nabídku do vlády odmítli kvůli záchranným balíčkům pro eurozónu, takže když do ní v roce 2015 konečně vstoupili, tlak na ústupky byl obrovský.[^22]
 
 Při srovnání pouhých dvou případů se nedají vyřadit všechny myslitelné rozdíly a vysvětlení zůstává nutně předurčené (overdetermined).[^25] Moje teze proto unese jen dvě hlavní proměnné: reputační štít a vyjednávací pozici (složenou z polohy na socioekonomické ose a z absence soupeře v tématu). Rozdělit vyjednávací pozici na dvě samostatné proměnné by design při dvou případech prostě neunesl.[^26] U mých případů navíc obě složky míří stejným směrem, takže práce mezi nimi nerozhodne.
 
 Zkoumaným jevem je volba kompenzační strategie v prvním roce vládnutí, ne to, jestli strana přežije. K hlavnímu programovému posunu totiž dochází ještě před volbami a během vyjednávání.[^29] První rok je pak ten moment, kdy strana musí ústupky nějak prodat svým voličům.
-
-Výzkumný design nesleduje frekvenční distribuci výroků v úplném souboru sněmovních vystoupení, nýbrž mechanismus institucionální volby: zkoumá, které kompenzační cesty byly straně v dané mocenské konstelaci otevřeny a jakým způsobem s nimi naložila. Analýza proto pracuje se záměrným výběrem klíčových parlamentních situací, v nichž se klub musel vymezit vůči vládě či obhájit její politiku, a jednání k jádrovým profilovým tématům, doplněných o rozpočtovou protiváhu. Platnost teze není testována statistickými podíly, nýbrž trojicí kvalitativních vyvracečů formulovaných předem, jež vymezují přesné empirické podmínky, za nichž by předpoklad o absenci vnitrokoaliční opozice, dominanci externalizace či odstupňované dostupnosti věcné kompenzace musel být odmítnut.
 
 Kompenzační strategií se v kontextu této práce rozumí pozorovaný vzorec chování navenek, nikoli duševní stav aktéra. Parlamentní projev představuje vystoupení v institucionálně svázané situaci před několika publiky současně; vypovídá tedy o tom, co klub veřejně deklaruje, nikoli o vnitřních motivech vedení. Předmětem analýzy je proto výhradně parlamentní sebeprezentace klubu, nikoli mimosněmovní komunikace hnutí jako celku.
 
@@ -166,21 +157,21 @@ Dílčí asymetrie zůstává a je nutné ji přiznat: u českého případu jso
 
 ---
 
-## 5. Komparace
+## 4. Komparace
 
-### 5.1 Finský případ: podmíněný souhlas a cena vládní účasti
+### 4.1 Finský případ: podmíněný souhlas a cena vládní účasti
 
 *Napsala B. 18. 9. 2026 z primárních pramenů, které téhož dne sama vytěžila. Zkráceno 18. 9. 2026 ve dvou krocích, škrty v aparátu a v dílčích údajích; věty jsou B. Plné znění nálezů v `JTB035_finske_prameny.md`. 21. 9. opraveny dvě citace podle ověřených pramenů (viz log). **21. 9. 2026 nahrazeno verzí 3 z `JTB035_5-1_verze_s_poznamkami_B.md`:** druhé znění B. s poznámkovým aparátem, finskými citacemi v originále a jejími rozhodnutími (viz log). Jako jediný oddíl je už v poznámkách pod čarou; ostatní kapitoly se převedou v Docs.*
 
 Vládní angažmá Pravých Finů (Perussuomalaiset, PS) v Sipiläově kabinetu (2015–2016) představuje modelový případ věcné policy kompenzace (typ 1) doplněný epizodickým výskytem vnitrokoaliční opozice (typ 2). Pozorovaný vzorec chování neprobíhal jako bilaterální směna konkrétních politik, nýbrž jako podmíněný souhlas v rámci celkového vládního balíku (hallitusohjelmakokonaisuus). Strana tento princip zformulovala již 30. dubna 2015 v odpovědích na otázky pověřeného sestavovatele vlády Juhy Sipiläho: na přímý dotaz po nepřekročitelných podmínkách žádné formální kynnyskysymykset neuvedla a vládní program vymezila jako celek, v němž „jokaisen puolueen kädenjäljen tulee näkyä" [musí být vidět rukopis každé strany].[^34]
 
-Strukturální povaha kompromisu se projevila v unijní a rozpočtové politice. Zatímco v roce 2011 strana odmítla vládní účast kvůli záchranným balíčkům pro eurozónu, v dubnu 2015 přistoupila na text vyjednavače s podmínkou: „Osana hallitusohjelmakokonaisuutta olemme valmiit hyväksymään pääpiirteissään liitteessä esitetyn kirjauksen eurokriisin hoidosta" [Jako součást celkového vládního programu jsme připraveni v hlavních rysech přijmout text uvedený v příloze o řešení eurokrize].[^35] V kabinetu strana obsadila čtyři křesla[^36] a její předseda Timo Soini převzal rezort zahraničních věcí a byl podle § 66 odst. 3 ústavy určen zástupcem předsedy vlády.[^37] Tím se prostor pro rétorickou externalizaci (typ 3) vůči Bruselu zúžil: unijní linii vlády garantoval z pozice šéfa diplomacie předseda strany.
+Strukturální povaha kompromisu se projevila v unijní a rozpočtové politice. Zatímco v roce 2011 strana odmítla vládní účast kvůli záchranným balíčkům pro eurozónu, v dubnu 2015 přistoupila na text vyjednavače s podmínkou: „Osana hallitusohjelmakokonaisuutta olemme valmiit hyväksymään pääpiirteissään liitteessä esitetyn kirjauksen eurokriisin hoidosta" [Jako součást celkového vládního programu jsme připraveni v hlavních rysech přijmout text uvedený v příloze o řešení eurokrize].[^35] Její předseda Timo Soini převzal rezort zahraničních věcí a byl podle § 66 odst. 3 ústavy určen zástupcem předsedy vlády.[^37] Tím se prostor pro rétorickou externalizaci (typ 3) vůči Bruselu zúžil: unijní linii vlády garantoval z pozice šéfa diplomacie předseda strany.
 
-Cena za tento kompromis byla značná. V socioekonomické rovině sice PS uhájily zákaz zvyšování DPH na potraviny a léky,[^38] ale jejich závazek neškrtat ve vzdělávání[^39] padl a program zařadil školství mezi položky konsolidace se škrtem 681 milionů eur ročně.[^40] Nejtěžší náklad dopadl na plošné sociální transfery: škrty ve výši 920 milionů eur ročně doprovodilo zmrazení valorizace; tuto nepopulární agendu navíc administrovala a obhajovala ministryně sociálních věcí a zdravotnictví za PS Hanna Mäntylä.[^41]
+Cena za tento kompromis byla značná. V socioekonomické rovině jejich závazek neškrtat ve vzdělávání[^39] padl a program zařadil školství mezi položky konsolidace se škrtem 681 milionů eur ročně.[^40] Nejtěžší náklad dopadl na plošné sociální transfery: škrty ve výši 920 milionů eur ročně doprovodilo zmrazení valorizace; tuto nepopulární agendu navíc administrovala a obhajovala ministryně sociálních věcí a zdravotnictví za PS Hanna Mäntylä.[^41]
 
 Ztrátu čisté protestní identity na socioekonomické a unijní ose však strana kompenzovala v klíčovém jádrovém tématu. Do kapitoly 12 vládního programu se promítly legislativní požadavky PS, a to bez držení rezortu vnitra: zpřísnění podmínek pro sloučení rodin a zrychlení azylových procedur s deportací neúspěšných žadatelů.[^42] Vnitrokoaliční opozice (typ 2) se současně projevila v červenci 2015 v kauze poslance Olliho Immonena, jenž publikoval výzvu k boji proti multikulturalismu.[^44] Předseda klubu Sampo Terho i Timo Soini reagovali prohlášením, že jde o Immonenovu soukromou záležitost: strana ani v pozici vládní formace necítila potřebu distancovat se od radikálního prostředí.[^45]
 
-Vstup PS do Orpova kabinetu v červnu 2023 ukazuje tentýž mechanismus s ostřejší vyjednávací taktikou a odmítnutím transferových nástrojů EU[^46] (srov. kap. 5.4): Riikka Purra formulovala tři explicitní kynnyskysymykset[^47] a vládní program *Vahva ja välittävä Suomi* je převzal, když stanovil uprchlickou kvótu na 500 osob ročně, zpřísnil azylová pravidla na unijní minimum[^48] a zavázal se ke konsolidaci o 6 miliard eur pod vedením strany na ministerstvu financí.[^49]
+Vstup PS do Orpova kabinetu v červnu 2023 ukazuje tentýž mechanismus s ostřejší vyjednávací taktikou a odmítnutím transferových nástrojů EU[^46]: Riikka Purra formulovala tři explicitní kynnyskysymykset[^47] a vládní program *Vahva ja välittävä Suomi* je převzal, když stanovil uprchlickou kvótu na 500 osob ročně, zpřísnil azylová pravidla na unijní minimum[^48] a zavázal se ke konsolidaci o 6 miliard eur pod vedením strany na ministerstvu financí.[^49]
 
 
 
@@ -200,31 +191,27 @@ Vstup PS do Orpova kabinetu v červnu 2023 ukazuje tentýž mechanismus s ostře
 
 ---
 
-### 5.2 Český případ: institucionální proměna terčů
+### 4.2 Český případ: institucionální proměna terčů
 
 *Přepsala a zkrátila B. 19. 9. 2026. 21. 9. opraveny tři citace podle ověřených pramenů (viz log).*
 
-V opozičním období se kritika médií přímo prolínala s útokem na tehdejší vládní většinu. Při třetím čtení novely zákona o rozhlasových a televizních poplatcích vystoupil Tomio Okamura s požadavkem na zrušení poplatků a sloučení České televize a Českého rozhlasu.[^50] Předlohu označil za zákon „z pera Fialovy vlády", který představuje „sprostý úplatek před volbami" a důkaz snahy manipulovat volby skrze média.[^51] Domácí vládní elita a média v této fázi tvořily provázaný celek.
-
 Vstupem do koalice ztrácí SPD možnost napadat domácí exekutivu plošně. Koaliční smlouva ze 3. listopadu 2025 ji svazuje ve dvou rovinách: zakazuje vyvolat hlasování o nedůvěře (čl. 2 odst. 3), ukládá povinnost respektovat stanovisko vlády při hlasování pod sankcí závažného porušení smlouvy (čl. 5 odst. 4) a zapovídá veřejná prohlášení oslabující důvěru či stabilitu kabinetu (čl. 7 odst. 3). Tyto povinnosti stvrdili všichni poslanci podpisem Dodatku č. 1.[^52] Předsednictví Sněmovny navíc připadlo Tomiu Okamurovi,[^53] který tím přešel k procedurálnímu řízení schůzí.
 
-Tento institucionální posun dokládá vývoj mediálního terče. Vládní kritika médií ztratila adresnost: Radim Fiala mluví obecně o „značné části médií" podporující opozici[^55] a o „mainstreamových novinářích".[^56] Veřejnoprávní instituce se v projevech jmenovitě nevyskytují a kategorie vyhrazená veřejnoprávním médiím zůstává ve sledovaném okně prázdná.
+Tento institucionální posun dokládá vývoj mediálního terče. Vládní kritika médií ztratila adresnost: Radim Fiala mluví obecně o „značné části médií" podporující opozici[^55] a o „mainstreamových novinářích".[^56] Veřejnoprávní instituce se v projevech jmenovitě nevyskytují.
 
 Požadavek se přitom neztratil, nýbrž přešel z pléna do vládní legislativní dráhy. Programové prohlášení vlády z 5. ledna 2026 výslovně slibuje kontrolu hospodaření ČT a ČRo skrze NKÚ i zrušení koncesionářských poplatků.[^57] Konkrétní opoziční požadavek se tak přesunul z parlamentního rejstříku do procedury vládního návrhu v gesci ministra kultury.[^59]
 
 ---
 
-### 5.3 Český případ: dostupnost kompenzačních cest
+### 4.3 Český případ: dostupnost kompenzačních cest
 
 *Přepsala a zkrátila B. 19. 9. 2026; téhož dne vrácen nález o procedurálně volných prostorech a doplněno vyhodnocení tří vyvracečů. 21. 9. na rozhodnutí B. doplněn rozpis hlasování č. 4 a 5, čl. 2 odst. 4 koaliční smlouvy a zpřesněno hlasování o rozpočtu; paragrafy jednacího řádu přesunuty do poznámek pod čarou (viz log).*
 
-Ztráta možnosti napadat domácí exekutivu vede k retroaktivní externalizaci: předchozí vládní garnitura je rámována nikoli jako běžný parlamentní rival, nýbrž jako přetrvávající součást starého establishmentu a původce stávajících krizí. Útok na ty, kdo již nedisponují exekutivní mocí, stabilitu kabinetu neohrožuje. Na rozdíl od Finska (oddíl 5.1) se však dostupnost zbývajících kompenzačních cest u SPD projevila jako strukturálně odstupňovaná:
+Ztráta možnosti napadat domácí exekutivu vede k retroaktivní externalizaci: předchozí vládní garnitura je rámována nikoli jako běžný parlamentní rival, nýbrž jako přetrvávající součást starého establishmentu a původce stávajících krizí. Útok na ty, kdo již nedisponují exekutivní mocí, stabilitu kabinetu neohrožuje. Na rozdíl od Finska (oddíl 4.1) se však dostupnost zbývajících kompenzačních cest u SPD projevila jako strukturálně odstupňovaná:
 
 1. **Nulový přístup (migrace).** Podle kompetenčního zákona spadá migrace výhradně pod Ministerstvo vnitra, které drží ANO.[^60] Bez vlastního rezortu, křížových náměstků či vládního zmocněnce nemá strana k věcnému výkonu žádnou cestu. Téma se proto vrací jako rétorická externalizace vůči unijní úrovni. V rozpravě o nedůvěře 3. února 2026 Fiala deklaruje odmítnutí migračního paktu a systému EU ETS 2 na unijní půdě;[^61] 16. dubna 2026 pak spojuje stíhání Okamury s bojem proti paktu jako postojem, který převzala celá vláda.[^62]
-2. **Zprostředkovaný přístup bez páky (veřejnoprávní média).** Strana dosáhla zápisu priorit do vládního programu, rezort kultury však drží Motoristé. Vládní novelu (tisk 231) předkládá ministr kultury, zpravodajkou je poslankyně Motoristů a v šestnáctičlenném garančním výboru má SPD jediný hlas. Do konce sledovaného okna neprošel tisk ani prvním čtením.[^63] Zápis do programu tak proběhl, věcná legislativní kompenzace však zůstala nedokončená.
+2. **Zprostředkovaný přístup bez páky (veřejnoprávní média).** Strana dosáhla zápisu priorit do vládního programu, rezort kultury však drží Motoristé. Do konce sledovaného okna neprošel tisk ani prvním čtením.[^63] Zápis do programu tak proběhl, věcná legislativní kompenzace však zůstala nedokončená.
 3. **Vlastní parlamentní nástroj (identitární téma).** Tam, kde postačuje nelegislativní akt komory bez gesce ministerstva, dosáhla strana výstupu za devět dní. Dne 5. května 2026 navrhl Tomio Okamura zařazení nového bodu ke sjezdu Sudetoněmeckého landsmanšaftu v Brně a jménem koalice přednesl návrh usnesení.[^64]
-
-Případ landsmanšaftu dokládá, že absence rezortu blokuje legislativní dráhu, nikoli usnesení Sněmovny. Dvojí tempo (devět dní u usnesení oproti měsícům u cizího tisku 231) potvrzuje, že hranice věcné kompenzace neleží v politické vůli, nýbrž v typu použitého institucionálního nástroje.
 
 Vnitrokoaliční opozice zůstala u SPD zcela uzavřená. Závazek z Dodatku č. 1 a čl. 5 odst. 4 koaliční smlouvy, jejíž čl. 2 odst. 4 jmenuje rozpočet výslovně, klub striktně dodržel:[^73] při závěrečném schvalování státního rozpočtu 11. března 2026 hlasovalo pro vládní návrh všech čtrnáct přítomných poslanců SPD; patnáctá poslankyně klubu nebyla přihlášena a nikdo nehlasoval proti ani se nezdržel.[^74]
 
@@ -238,11 +225,11 @@ Souhrn obou profilů podává tab. 1.
 | **Dostupnost typu 3** | zúžená (Soini šéfem diplomacie a zástupcem premiéra) | plně průchodná (Okamura v čele Sněmovny, bez vládního postu) |
 | **Cena a kdo ji nese** | socioekonomická, administrovaná vlastním rezortem (920 mil. eur ročně v sociálních dávkách pod STM) | ve sledovaném okně nevyčíslená; strana nedrží rezort s velkým výdajovým objemem |
 
-**Tab. 1: Kompenzační profily Perussuomalaiset (2015–2016) a SPD (2025–2026).** Vlastní zpracování podle pramenů a literatury uvedených v oddílech 5.1 až 5.3.
+**Tab. 1: Kompenzační profily Perussuomalaiset (2015–2016) a SPD (2025–2026).** Vlastní zpracování podle pramenů a literatury uvedených v oddílech 4.1 až 4.3.
 
 ---
 
-## 6. Závěr
+## 5. Závěr
 
 *Napsala B. 18. 9. 2026 ve dvou verzích; ve druhé zapracovala čtyři Claudovy námitky. 19. 9. 2026 sjednoceny transfery na přímé sociální transfery a odstraněny pomlčky.*
 
@@ -267,17 +254,13 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^2]: Tjitske Akkerman, Sarah L. de Lange a Matthijs Rooduijn, „Into the mainstream? A comparative analysis of the programmatic profiles of radical right-wing populist parties in Western Europe over time", in *Radical Right-Wing Populist Parties in Western Europe: Into the Mainstream?*, eds. titíž (Abingdon – New York: Routledge, 2016), 46–47, obr. 2.3.
 
-[^3]: Ann-Cathrine Jungar, „From the Mainstream to the Margin? The Radicalisation of the True Finns", in *Radical Right-Wing Populist Parties in Western Europe: Into the Mainstream?*, eds. Tjitske Akkerman, Sarah L. de Lange a Matthijs Rooduijn (Abingdon – New York: Routledge, 2016), 139.
-
 [^5]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 6–12.
 
 [^6]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 10, tab. 1.3.
 
-[^12]: Ivarsflaten 2006, citováno podle Jungar, „From the Mainstream to the Margin?", 135.
+[^12]: Ivarsflaten 2006, citováno podle Ann-Cathrine Jungar, „From the Mainstream to the Margin? The Radicalisation of the True Finns", in *Radical Right-Wing Populist Parties in Western Europe: Into the Mainstream?*, eds. Tjitske Akkerman, Sarah L. de Lange a Matthijs Rooduijn (Abingdon – New York: Routledge, 2016), 135.
 
 [^13]: Jungar, „From the Mainstream to the Margin?", 135–137.
-
-[^14]: Ellinas 2010, citováno podle Jungar, „From the Mainstream to the Margin?", 137.
 
 [^15]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 16.
 
@@ -288,8 +271,6 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 [^20]: Srov. Jungar, „From the Mainstream to the Margin?", 116.
 
 [^22]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 12.
-
-[^23]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 6.
 
 [^25]: Hopkin, „The Comparative Method", 293.
 
@@ -303,17 +284,13 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^35]: Tamtéž, ot. 7.
 
-[^36]: Valtioneuvoston kanslia, „Sipilän hallitus nimitettiin" [Sipiläova vláda byla jmenována], tiedote [tisková zpráva] č. 279/2015, 29. května 2015, https://vnk.fi/-/sipilan-hallitus-nimitettiin.
-
 [^37]: Suomen perustuslaki [Finská ústava] 731/1999, § 66 odst. 3, https://www.finlex.fi/fi/lainsaadanto/1999/731; Valtioneuvosto, „Valtioneuvoston yleisistunto 29.5.2015" [Plenární zasedání vlády 29. 5. 2015], 29. května 2015, https://valtioneuvosto.fi/-/valtioneuvoston-yleisistunto-29-5-2015.
-
-[^38]: Perussuomalaiset, „Perussuomalaisten vastaukset hallitustunnustelija Juha Sipilän kysymyksiin", ot. 3; Valtioneuvoston kanslia, *Ratkaisujen Suomi: Pääministeri Juha Sipilän hallituksen strateginen ohjelma 29.5.2015* [Finsko řešení: Strategický program vlády premiéra Juhy Sipiläho ze dne 29. 5. 2015], Hallituksen julkaisusarja 10/2015 (Helsinki: Valtioneuvoston kanslia, 2015), 11, kap. 3, https://julkaisut.valtioneuvosto.fi/handle/11111/9899.
 
 [^39]: Perussuomalaiset, „Perussuomalaisten vastaukset hallitustunnustelija Juha Sipilän kysymyksiin", ot. 9.
 
-[^40]: Valtioneuvoston kanslia, *Ratkaisujen Suomi*, Liite 6, 15–16.
+[^40]: Valtioneuvoston kanslia, *Ratkaisujen Suomi: Pääministeri Juha Sipilän hallituksen strateginen ohjelma 29.5.2015* [Finsko řešení: Strategický program vlády premiéra Juhy Sipiläho ze dne 29. 5. 2015], Hallituksen julkaisusarja 10/2015 (Helsinki: Valtioneuvoston kanslia, 2015), Liite 6, 15–16, https://julkaisut.valtioneuvosto.fi/handle/11111/9899.
 
-[^41]: Tamtéž, Liite 6, 15, 23 a 34; Ann-Cathrine Jungar, „From the Mainstream to the Margin? The Radicalisation of the True Finns", in *Radical Right-Wing Populist Parties in Western Europe: Into the Mainstream?*, eds. Tjitske Akkerman, Sarah L. de Lange a Matthijs Rooduijn (Abingdon: Routledge, 2016), 133.
+[^41]: Tamtéž, Liite 6, 15, 23 a 34; Jungar, „From the Mainstream to the Margin?", 133.
 
 [^42]: Valtioneuvoston kanslia, *Ratkaisujen Suomi*, 36–38, kap. 12.
 
@@ -328,10 +305,6 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 [^48]: Valtioneuvosto, *Vahva ja välittävä Suomi*, 198, kap. 10.3.
 
 [^49]: Tamtéž, 11, 61 a 72.
-
-[^50]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 129. schůze (volební období 2021–2025), část 61, 5. března 2025, https://www.psp.cz/eknih/2021ps/stenprot/129schuz/s129061.htm (staženo 21. září 2026).
-
-[^51]: Tamtéž.
 
 [^52]: Koaliční smlouva mezi hnutím ANO 2011, hnutím Svoboda a přímá demokracie a stranou Motoristé sobě, 3. listopadu 2025, čl. 2 odst. 3, čl. 5 odst. 4, čl. 7 odst. 3 a Dodatek č. 1, https://ct24.ceskatelevize.cz/clanek/domaci/podivejte-se-koalicni-smlouva-mezi-ano-spd-a-motoristy-366761 (staženo 21. září 2026).
 
@@ -355,7 +328,7 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^64]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 16. schůze, rozprava k návrhu pořadu schůze, 5. května 2026, https://www.psp.cz/eknih/2025ps/stenprot/016schuz/bqbs/b00100000.htm (staženo 21. září 2026).
 
-[^73]: Koaliční smlouva mezi hnutím ANO 2011, hnutím Svoboda a přímá demokracie a stranou Motoristé sobě, čl. 2 odst. 4 a čl. 5 odst. 4; Dodatek č. 1, čl. 1 odst. 2.
+[^73]: Koaliční smlouva, čl. 2 odst. 4 a čl. 5 odst. 4; Dodatek č. 1, čl. 1 odst. 2.
 
 [^74]: Poslanecká sněmovna Parlamentu ČR, hlasování č. 235 na 10. schůzi, 11. března 2026, https://www.psp.cz/sqw/hlasy.sqw?G=86957 (staženo 21. září 2026).
 
@@ -393,15 +366,11 @@ Valtioneuvosto. *Vahva ja välittävä Suomi: Pääministeri Petteri Orpon halli
 
 Valtioneuvoston kanslia. *Ratkaisujen Suomi: Pääministeri Juha Sipilän hallituksen strateginen ohjelma 29.5.2015* [Finsko řešení: Strategický program vlády premiéra Juhy Sipiläho ze dne 29. 5. 2015]. Hallituksen julkaisusarja 10/2015. Helsinki: Valtioneuvoston kanslia, 2015. https://julkaisut.valtioneuvosto.fi/handle/11111/9899 (staženo 21. září 2026).
 
-Valtioneuvoston kanslia. „Sipilän hallitus nimitettiin" [Sipiläova vláda byla jmenována]. Tiedote 279/2015, 29. května 2015. https://vnk.fi/-/sipilan-hallitus-nimitettiin (staženo 21. září 2026).
-
 ### Prameny: české parlamentní
 
 Poslanecká sněmovna Parlamentu ČR. Hlasování č. 235 na 10. schůzi, 11. března 2026. https://www.psp.cz/sqw/hlasy.sqw?G=86957 (staženo 21. září 2026).
 
 Poslanecká sněmovna Parlamentu ČR. Sněmovní tisk 231, stav projednávání. https://www.psp.cz/sqw/tisky.sqw?O=10&T=231 (staženo 21. září 2026).
-
-Poslanecká sněmovna Parlamentu ČR. Stenografický protokol 129. schůze (volební období 2021–2025), část 61, 5. března 2025. https://www.psp.cz/eknih/2021ps/stenprot/129schuz/s129061.htm (staženo 21. září 2026).
 
 Poslanecká sněmovna Parlamentu ČR. Stenografické protokoly 5., 8., 15., 16. a 18. schůze (volební období 2025–), 13. ledna až 14. května 2026. https://www.psp.cz/eknih/2025ps/stenprot/ (staženo 21. září 2026).
 
