@@ -454,7 +454,7 @@ Poslanecká sněmovna Parlamentu ČR. Sněmovní tisk 231, stav projednávání.
 
 Poslanecká sněmovna Parlamentu ČR. Stenografický protokol 129. schůze (volební období 2021–2025), část 61, 5. března 2025. https://www.psp.cz/eknih/2021ps/stenprot/129schuz/s129061.htm (staženo 21. září 2026).
 
-Poslanecká sněmovna Parlamentu ČR. Stenografické protokoly 5., 8., 15., 16. a 18. schůze (volební období 2025–), 13. ledna až 23. června 2026. https://www.psp.cz/eknih/2025ps/stenprot/ (staženo 21. září 2026).
+Poslanecká sněmovna Parlamentu ČR. Stenografické protokoly 5., 8., 15., 16. a 18. schůze (volební období 2025–), 13. ledna až 14. května 2026. https://www.psp.cz/eknih/2025ps/stenprot/ (staženo 21. září 2026).
 
 Poslanecká sněmovna Parlamentu ČR. Usnesení č. 6 z 1. schůze, 5. listopadu 2025. https://www.psp.cz/sqw/text/text2.sqw?idd=272779 (staženo 21. září 2026).
 
