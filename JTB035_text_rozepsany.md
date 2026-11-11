@@ -137,7 +137,7 @@ Strana zachovává radikální antiestablishmentový rám a roli obránce nepriv
 
 #### Citační poznámka k typologii
 
-Dva ze tří typů mají v literatuře jméno; tato práce je přebírá tak, jak je atribuují editoři svazku,[^15] a **typologii z nich staví sama**. Autoři je uvádějí jako dva příklady strategií mezi jinými, nikoli jako typologii.
+Dva ze tří typů mají v literatuře jméno (*logrolling* a *one foot in, one foot out*); tato práce je přebírá tak, jak je atribuují editoři svazku,[^15] a **typologii z nich staví sama**. Autoři je uvádějí jako dva příklady strategií mezi jinými, nikoli jako typologii.
 
 ---
 
