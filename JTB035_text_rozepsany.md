@@ -87,16 +87,9 @@ Tato práce obhajuje tezi, že volba kompenzační strategie závisí na vyjedn�
 
 *Napsala B. 18. 9. 2026.*
 
-### 2.1 Rámec: čtyři dimenze a dvě patra modelu
+### 2.1 Rámec: čtyři dimenze
 
 Základem je analytický rámec ze svazku *Radical Right-Wing Populist Parties in Western Europe*.[^5] Práce přejímá klasifikační schéma v plné verzi[^6] a sleduje: míru radikalismu (radical vs. moderate), profil nabídky (niche vs. broad), vztah k systému (anti-establishment vs. mainstream) a legitimitu (reputation of illegitimacy vs. legitimacy).
-
-Model má dvě analytické části, které je nutné striktně oddělit:
-
-1. **První část (výsledek):** čtyři dimenze měří to, kde strana po vládním angažmá skončila, tedy zda si udržela radikální profil, nebo splynula s vládním mainstreamem.
-2. **Druhá část (proces):** měří to, jak strana s vládním kompromisem nakládá. Tvoří ji kompenzační strategie, tedy způsoby, jimiž se strana snaží vyvážit ztrátu čistého protestního profilu.
-
-Potřeba kompenzace plyne přímo z povahy PRR. Běžná Strømova trojice cílů, tedy úřady, hlasy a politika, u radikální pravice naráží na své limity.[^9] Strany této rodiny fungují v pojetí Helboe Pedersenové primárně jako *policy purifiers*: ideologičtí očistitelé, kteří politiku chápou morálně a kompromis z podstaty odmítají.[^10] Pokud taková formace ve vládě ustoupí, nemůže to voličům prodat jako pragmatický úspěch. Jakýkoli ústupek musí okamžitě vyvážit viditelným ziskem v jiné rovině.
 
 ### 2.2 Vyjednávací pozice
 
@@ -171,20 +164,6 @@ Dílčí asymetrie zůstává a je nutné ji přiznat: u českého případu jso
 
 **Všechny citace z finských pramenů uvádím v originále a doplňuji vlastním překladem.**
 
-Sleduje se klub, ne jednotlivec. U SPD se mezi opozičním a vládním obdobím mění mluvčí, a to z institucionálního důvodu: Okamura se stal předsedou Sněmovny a v plénu za stranu mluví Fiala. Kdyby analýza visela na osobě, zaměnila by změnu řečníka za změnu rámce.
-
-U každého vystoupení sleduji dvě věci, a to odděleně, protože nejsou totéž.
-
-**Terč**, tedy kdo je protivníkem. Předem vymezené možnosti zahrnovaly současnou vládu a koaliční partnery, předchozí vládní garnituru, ostatní parlamentní opozici, unijní instituce, veřejnoprávní média a nestátní aktéry. **Kategorie veřejnoprávních médií se ve sledovaném okně nenaplnila, což je samo o sobě nález.**
-
-**Rejstřík**, tedy jakým jazykem se mluví: protestní (antiestablishmentový nebo nativistický, obvinění ze zrady) proti technokratickému (věcná a číselná obhajoba vládní politiky). Vystoupení může nést oba.
-
-Předem jsem stanovila, co by tezi vyvrátilo, aby se zrcadlová negace finského případu nepotvrdila sama sebou:
-
-1. **Vnitrokoaliční opozice.** Teze padá, hlasoval-li klub proti vládnímu návrhu zákona nebo podpořil-li opoziční nedůvěru či program mimořádné schůze proti koaličnímu partnerovi. Testují to jen hlasování, kde se zájem strany a stanovisko vlády mohly rozejít; hlasování o vlastním návrhu strany nikoli.
-2. **Externalizace.** Teze padá, nahradila-li technokratická obhajoba vládní politiky protestní rejstřík. Stojí-li oba vedle sebe, obstojí.
-3. **Věcná kompenzace.** Teze padá, prosadila-li SPD ve sledovaném okně klíčový systémový zákon ze svého opozičního programu. Testují se přijaté zákony přičitatelné straně; podání návrhu, jeho projednávání ani zápis priority do vládního programu nikoli. Usnesení komory rovněž ne, vede se samostatně jako typ 1b.
-
 ---
 
 ## 5. Komparace
@@ -243,27 +222,13 @@ Ztráta možnosti napadat domácí exekutivu vede k retroaktivní externalizaci:
 
 1. **Nulový přístup (migrace).** Podle kompetenčního zákona spadá migrace výhradně pod Ministerstvo vnitra, které drží ANO.[^60] Bez vlastního rezortu, křížových náměstků či vládního zmocněnce nemá strana k věcnému výkonu žádnou cestu. Téma se proto vrací jako rétorická externalizace vůči unijní úrovni. V rozpravě o nedůvěře 3. února 2026 Fiala deklaruje odmítnutí migračního paktu a systému EU ETS 2 na unijní půdě;[^61] 16. dubna 2026 pak spojuje stíhání Okamury s bojem proti paktu jako postojem, který převzala celá vláda.[^62]
 2. **Zprostředkovaný přístup bez páky (veřejnoprávní média).** Strana dosáhla zápisu priorit do vládního programu, rezort kultury však drží Motoristé. Vládní novelu (tisk 231) předkládá ministr kultury, zpravodajkou je poslankyně Motoristů a v šestnáctičlenném garančním výboru má SPD jediný hlas. Do konce sledovaného okna neprošel tisk ani prvním čtením.[^63] Zápis do programu tak proběhl, věcná legislativní kompenzace však zůstala nedokončená.
-3. **Vlastní parlamentní nástroj (identitární téma).** Tam, kde postačuje nelegislativní akt komory bez gesce ministerstva, dosáhla strana výstupu za devět dní. Dne 5. května 2026 navrhl Tomio Okamura zařazení nového bodu ke sjezdu Sudetoněmeckého landsmanšaftu v Brně a jménem koalice přednesl návrh usnesení.[^64] Výstup nesl kultivovaný právní jazyk odsuzující revizionismus, zatímco Fiala týž bod na plénu doprovodil expresivními výpady proti opozici.[^67] Nízké náklady pro partnery potvrdila i Taťána Malá (ANO), která krok označila za zbytný, ale podpořila jej.[^68]
+3. **Vlastní parlamentní nástroj (identitární téma).** Tam, kde postačuje nelegislativní akt komory bez gesce ministerstva, dosáhla strana výstupu za devět dní. Dne 5. května 2026 navrhl Tomio Okamura zařazení nového bodu ke sjezdu Sudetoněmeckého landsmanšaftu v Brně a jménem koalice přednesl návrh usnesení.[^64]
 
 Případ landsmanšaftu dokládá, že absence rezortu blokuje legislativní dráhu, nikoli usnesení Sněmovny. Dvojí tempo (devět dní u usnesení oproti měsícům u cizího tisku 231) potvrzuje, že hranice věcné kompenzace neleží v politické vůli, nýbrž v typu použitého institucionálního nástroje.
 
 Vnitrokoaliční opozice zůstala u SPD zcela uzavřená. Závazek z Dodatku č. 1 a čl. 5 odst. 4 koaliční smlouvy, jejíž čl. 2 odst. 4 jmenuje rozpočet výslovně, klub striktně dodržel:[^73] při závěrečném schvalování státního rozpočtu 11. března 2026 hlasovalo pro vládní návrh všech čtrnáct přítomných poslanců SPD; patnáctá poslankyně klubu nebyla přihlášena a nikdo nehlasoval proti ani se nezdržel.[^74]
 
-Empirická data tak potvrzují, že se žádná ze tří předem stanovených podmínek, které by platnost teze vyvrátily, ve sledovaném okně nenaplnila. Vyvraceč k vnitrokoaliční opozici se nespustil, neboť klub SPD v žádném hlasování neporušil koaliční disciplínu a nepodpořil opoziční návrhy proti partnerům. Vyvraceč k rétorické externalizaci se nespustil, jelikož technokratický jazyk nenahradil protestní rejstřík a strana si antiestablishmentový rámec plně udržela v obecných politických rozpravách i při kritice předchozí vlády. Konečně vyvraceč k věcné policy kompenzaci se rovněž nespustil: SPD ve sledovaném období neprosadila žádný systémový zákon ze svého opozičního programu.
-
-
-
----
-
-### 5.4 Zařazení obou případů do typologie
-
-*Napsala B. 18. 9. 2026.*
-
-Srovnání finského a českého materiálu ukazuje, že ačkoli obě formace čelily totožnému výchozímu omezení, tedy ztrátě domácí exekutivy jako legitimního terče kritiky, jejich výsledné kompenzační profily se zásadně rozešly. Rozdíl nespočívá v odlišné ideologii, nýbrž v institucionální dostupnosti jednotlivých cest a v povaze svěřených rezortů.
-
-U Pravých Finů (2015–2016) dominuje věcná policy kompenzace (typ 1) kombinovaná s vnitrokoaliční opozicí (typ 2), zatímco rétorická externalizace (typ 3) byla zúžena na minimum. Zisk ministerstva zahraničních věcí a postu zástupce předsedy vlády pro Tima Soiniho prostor pro přesouvání viny na Brusel zúžil: unijní politiku strana z vládní pozice sama spoluvytvářela. Kompenzaci proto hledala ve věcných výstupech. Radikální identitu si přitom strana udržela i tam, kde se od vládní formace očekával distanc (kauza Immonen), aniž by koalici reálně rozbila.
-
-U české SPD (2025–2026) je výsledný profil zrcadlově obrácený: dominuje rétorická externalizace (typ 3) s retroaktivní externalizací na domácí půdě, doplněná symbolickým nelegislativním výstupem (typ 1b), zatímco vnitrokoaliční opozice (typ 2) byla smluvně zcela uzamčena Dodatkem č. 1. Souhrn obou profilů podává tab. 1.
+Souhrn obou profilů podává tab. 1.
 
 | dimenze | Perussuomalaiset (2015–2016) | SPD (2025–2026) |
 |---|---|---|
@@ -275,8 +240,6 @@ U české SPD (2025–2026) je výsledný profil zrcadlově obrácený: dominuje
 
 **Tab. 1: Kompenzační profily Perussuomalaiset (2015–2016) a SPD (2025–2026).** Vlastní zpracování podle pramenů a literatury uvedených v oddílech 5.1 až 5.3.
 
-*Rozhodnuto 18. 9.: řádek o funkci externalizace se do tabulky nezařazuje, míchal by oba finské cykly ve sloupci vymezeném roky 2015–2016. Rozdíl mezi oběma příčinami je vysloven v odstavci nad tabulkou, kde ho lze datovat.*
-
 ---
 
 ## 6. Závěr
@@ -285,11 +248,7 @@ U české SPD (2025–2026) je výsledný profil zrcadlově obrácený: dominuje
 
 Předložená studie zkoumala způsob, jímž dvě formace populistické radikální pravice řešily nutnost kompenzovat náklady vládního kompromisu v prvním roce své exekutivní účasti. Zatímco Praví Finové (2015–2016) kompenzovali vládní angažmá věcnými legislativními výstupy v imigrační politice (typ 1) doplněnými epizodickou vnitrokoaliční opozicí (typ 2), česká SPD (2025–2026) zvolila dominantně rétorickou externalizaci nepřítele (typ 3) s retroaktivním terčem na domácí půdě, doplněnou symbolickým nelegislativním usnesením (typ 1b). Tento diametrální rozdíl vysvětluje odlišná vyjednávací pozice stran a přítomnost či absence reputačního štítu ze strany koaličních partnerů.
 
-Zkoumané nezávislé proměnné přitom v empirii potvrdily teoretická očekávání pouze zčásti a přinesly dvě podstatná upřesnění. Vyjednávací pozice se ukázala jako klíčový faktor pro otevření věcné kompenzační cesty, její vliv je však asymetrický: určuje výhradně to, co strana dokáže prosadit ve svém jádrovém tématu, nikoli to, jakou cenu zaplatí na vedlejší ose. Silná pozice otevřela Pravým Finům v obou cyklech přístup k radikální imigrační restrikci, ale neochránila je před tvrdými socioekonomickými škrty dopadajícími na jejich voliče.
-
 Nejvýznamnější teoretický nález představuje zjištění, že totožná kompenzační strategie může mít v různých institucionálních kontextech dvě protichůdné příčiny. Rétorická externalizace migrace na unijní úroveň slouží české SPD jako funkční náhrada za domácí exekutivní bezmoc: strana nemá k agendě vnitra přístup, a proto téma přesouvá do Bruselu, aby si udržela radikální profil a neporušila koaliční smlouvu. Naopak u Pravých Finů v kontrolním cyklu 2023 představuje externalizace na EU strop domácích zisků: strana doma prosadila maximum možného a naráží až na limity unijního práva.
-
-Samotný analytický aparát zároveň prokázal dva limity původní teze. Zaprvé, obě nezávislé proměnné nenesou stejnou váhu: zatímco ve Finsku reputační štít reálně fungoval a umožnil toleranci radikálního křídla uvnitř koalice, v českém případě absenci štítu plně nahradila koaliční smlouva. Vnitrokoaliční opozice nebyla u SPD zablokována tím, že by straně chybělo krytí partnerů, nýbrž smluvním zákazem hlasovat proti vládním návrhům podle článku 5 odst. 4 koaliční smlouvy, k němuž se poslanci osobně zavázali podpisem Dodatku číslo 1. Smluvní uzamčení se tak ukázalo jako funkční ekvivalent reputačního mechanismu. Zadruhé se potvrdila dvojí role rezortního přístupu: portfolio představuje nástroj k prosazení věcných cílů, ale současně vystavuje straně politický účet. Praví Finové díky zisku ministerstva sociálních věcí a zdravotnictví disponovali pákou na přímé sociální transfery, ale právě proto museli administrovat škrty dopadající na jejich vlastní voličskou základnu. U SPD naproti tomu žádný ze svěřených rezortů nespravuje přímé sociální transfery s dopadem na její voliče, a strana tak v tomto typu politik exekutivnímu účtu nečelila.
 
 Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje volbu kompenzační strategie v počáteční fázi vládnutí, nikoli její dlouhodobou úspěšnost či volební přežití formace. V souladu s designem MSSD zůstávají formulované závěry lokální teorií: platí pro zkoumané případy a pro případy jim relevantně podobné, tedy pro strany populistické radikální pravice vstupující jako slabší partner do většinových koalic v parlamentních režimech s poměrným volebním systémem a tradicí koaličního vládnutí.
 
@@ -313,10 +272,6 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 [^5]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 6–12.
 
 [^6]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 10, tab. 1.3.
-
-[^9]: Kaare Strøm, „A Behavioral Theory of Competitive Political Parties", *American Journal of Political Science* 34, č. 2 (1990): 565–598, https://doi.org/10.2307/2111461.
-
-[^10]: Helboe Pedersen 2012, citováno podle Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 13.
 
 [^12]: Ivarsflaten 2006, citováno podle Jungar, „From the Mainstream to the Margin?", 135.
 
@@ -400,10 +355,6 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^64]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 16. schůze, rozprava k návrhu pořadu schůze, 5. května 2026, https://www.psp.cz/eknih/2025ps/stenprot/016schuz/bqbs/b00100000.htm (staženo 21. září 2026).
 
-[^67]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 16. schůze, část 68, 6. května 2026, https://www.psp.cz/eknih/2025ps/stenprot/016schuz/s016068.htm (staženo 21. září 2026).
-
-[^68]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 18. schůze, část 3, 14. května 2026, https://www.psp.cz/eknih/2025ps/stenprot/018schuz/s018003.htm (staženo 21. září 2026). Malá vystoupila s přednostním právem jako předsedkyně poslaneckého klubu ANO: „kdyby nebylo zbytečné horlivosti některých jednotlivců, tak bychom tuto debatu nemuseli dnes vést, nemuseli bychom ve Sněmovně toto téma diskutovat, nemuseli bychom dělat tiskové konference a přijímat takové usnesení. Já si moc dobře uvědomuji, že tato situace je vlastně do určité míry zbytečná, ale prostě je potřeba se k ní nějak postavit."
-
 [^73]: Koaliční smlouva mezi hnutím ANO 2011, hnutím Svoboda a přímá demokracie a stranou Motoristé sobě, čl. 2 odst. 4 a čl. 5 odst. 4; Dodatek č. 1, čl. 1 odst. 2.
 
 [^74]: Poslanecká sněmovna Parlamentu ČR, hlasování č. 235 na 10. schůzi, 11. března 2026, https://www.psp.cz/sqw/hlasy.sqw?G=86957 (staženo 21. září 2026).
@@ -427,8 +378,6 @@ Jungar, Ann-Cathrine. „From the Mainstream to the Margin? The Radicalisation o
 Morlino, Leonardo. *Comparison: A Methodological Introduction for the Social Sciences*. Opladen – Berlin – Toronto: Barbara Budrich Publishers, 2018.
 
 ### Literatura: články v odborných periodikách
-
-Strøm, Kaare. „A Behavioral Theory of Competitive Political Parties". *American Journal of Political Science* 34, č. 2 (1990): 565–598. https://doi.org/10.2307/2111461.
 
 ### Prameny: finské
 

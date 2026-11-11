@@ -39,3 +39,11 @@ Provedeno na pokyn Barbory („všechno, W1 nech bez ⚠“): C1–C9, W2 vypuš
 ## Kap. 5 (11. 11. 2026)
 Provedeno vše K1–K10 na pokyn Barbory. Odstraněny pozn. 43, 54, 58, 65, 66, 69, 70, 71, 72, 75, 76. Pozn. 62 (15. schůze, část 12) dostala plnou citaci z vypuštěné pozn. 54; pozn. 73 „Tamtéž“ přepsána na zkrácený odkaz na koaliční smlouvu (předchozí poznámky vypadly). Nález o dvou příčinách téže strategie zůstal jen v závěru, v 5.4 už není.
 - 11. 11.: ze seznamu vyřazeny už necitované položky (hlasování č. 4 a 5, usnesení č. 174, zákon č. 90/1995 Sb.) a z výčtu stenoprotokolů 7. a 24. schůze.
+
+## Balík A (11. 11. 2026, na pokyn Barbory „ano“)
+1. 5.4 zrušen jako oddíl; tab. 1 s popiskem přesunuta na konec 5.3 s větou „Souhrn obou profilů podává tab. 1.“ (věta z původního 5.4).
+2. Závěr: vypuštěn odstavec o asymetrii vyjednávací pozice a odstavec o dvou limitech teze (včetně Z3); zůstává shrnutí, nejvýznamnější nález a omezení.
+3. 5.3: vypuštěny věty o Fialových výpadech a Taťáně Malé (pozn. 67, 68) a závěrečné vyhodnocení vyvracečů.
+4. Metodologie: vypuštěno „Sleduje se klub…“, terč a rejstřík a seznam vyvracečů.
+5. 2.1: vypuštěny „dvě části modelu“ a odstavec Strøm / Helboe Pedersenová (pozn. 9, 10); nadpis zkrácen na „2.1 Rámec: čtyři dimenze“; Strøm vyřazen ze seznamu literatury.
+⚠ V 5.2 zůstává „kategorie vyhrazená veřejnoprávním médiím zůstává ve sledovaném okně prázdná“, ale výčet kategorií terčů (metodologie) vypadl.
