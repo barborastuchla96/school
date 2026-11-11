@@ -87,9 +87,9 @@ Tato práce obhajuje tezi, že volba kompenzační strategie závisí na vyjedn�
 
 *Napsala B. 18. 9. 2026.*
 
-### 2.1 Rámec: čtyři dimenze
+### 2.1 Rámec
 
-Základem je analytický rámec ze svazku *Radical Right-Wing Populist Parties in Western Europe*.[^5] Práce přejímá klasifikační schéma v plné verzi[^6] a sleduje: míru radikalismu (radical vs. moderate), profil nabídky (niche vs. broad), vztah k systému (anti-establishment vs. mainstream) a legitimitu (reputation of illegitimacy vs. legitimacy).
+Základem je analytický rámec ze svazku *Radical Right-Wing Populist Parties in Western Europe*.[^5]
 
 ### 2.2 Vyjednávací pozice
 
@@ -97,7 +97,7 @@ Vyjednávací pozice je v práci pojata jako jedna složená proměnná s dvěma
 
 ### 2.3 Reputační štít
 
-Druhou nezávislou proměnnou je reputační štít (*reputational shield*). Elisabeth Ivarsflatenová jím původně vysvětlovala, proč většina západoevropských protiimigračních stran politicky selhala, zatímco úspěšné menšině se podařilo vytěsnění na okraj a stigmatizaci extremismem překonat.[^12] Ann-Cathrine Jungarová koncept posouvá do vládní arény: sleduje, do jaké míry etablovaní koaliční partneři poskytují radikální formaci legitimizační krytí vůči útokům opozice a médií.[^13]
+Druhou nezávislou proměnnou je reputační štít (*reputational shield*). Ann-Cathrine Jungarová koncept posouvá do vládní arény: sleduje, do jaké míry etablovaní koaliční partneři poskytují radikální formaci legitimizační krytí vůči útokům opozice a médií.[^13]
 
 Právě aktivní krytí ze strany partnerů rozhoduje o tom, **jak radikální rejstřík si strana může dovolit uvnitř vládního tábora**. Kde partneři aktivní krytí poskytnou, může formace držet radikální rétoriku i uvnitř vlády. Kde naopak štít chybí a spolupráce zůstává omezena na pasivní kooptaci, prostor pro radikální rejstřík uvnitř vládního tábora se zužuje a strana volí cesty, které obhajobu od partnerů nevyžadují: od symbolických parlamentních výstupů až po rétorický přesun nepřítele do vnější arény.
 
@@ -121,8 +121,6 @@ Poslanecký klub nebo frakce strany veřejně odmítá koaliční disciplínu, a
 
 Strana zachovává radikální antiestablishmentový rám a roli obránce neprivilegovaných, ale terč útoků přesouvá z domácí exekutivy na mocenská centra ležící mimo dosah koaliční smlouvy. Neohrožuje koaliční většinu ani nepožaduje věcné vládní ústupky; kompenzace je čistě diskurzivní.
 
-#### Citační poznámka k typologii
-
 Dva ze tří typů mají v literatuře jméno (*logrolling* a *one foot in, one foot out*); tato práce je přebírá tak, jak je atribuují editoři svazku,[^15] a **typologii z nich staví sama**. Autoři je uvádějí jako dva příklady strategií mezi jinými, nikoli jako typologii.
 
 ---
@@ -140,8 +138,6 @@ Praví Finové jsou v rámci své rodiny výjimka: v roce 2011 nabídku do vlád
 Při srovnání pouhých dvou případů se nedají vyřadit všechny myslitelné rozdíly a vysvětlení zůstává nutně předurčené (overdetermined).[^25] Moje teze proto unese jen dvě hlavní proměnné: reputační štít a vyjednávací pozici (složenou z polohy na socioekonomické ose a z absence soupeře v tématu). Rozdělit vyjednávací pozici na dvě samostatné proměnné by design při dvou případech prostě neunesl.[^26] U mých případů navíc obě složky míří stejným směrem, takže práce mezi nimi nerozhodne.
 
 Zkoumaným jevem je volba kompenzační strategie v prvním roce vládnutí, ne to, jestli strana přežije. K hlavnímu programovému posunu totiž dochází ještě před volbami a během vyjednávání.[^29] První rok je pak ten moment, kdy strana musí ústupky nějak prodat svým voličům.
-
-Kompenzační strategií se v kontextu této práce rozumí pozorovaný vzorec chování navenek, nikoli duševní stav aktéra. Parlamentní projev představuje vystoupení v institucionálně svázané situaci před několika publiky současně; vypovídá tedy o tom, co klub veřejně deklaruje, nikoli o vnitřních motivech vedení. Předmětem analýzy je proto výhradně parlamentní sebeprezentace klubu, nikoli mimosněmovní komunikace hnutí jako celku.
 
 Sledované okno začíná formálním jmenováním kabinetu prezidentem republiky dne 15. prosince 2025[^33] a uzavírá se po devíti měsících k 15. září 2026, tedy po prvních třech čtvrtinách prvního vládního roku.
 
@@ -165,7 +161,7 @@ Dílčí asymetrie zůstává a je nutné ji přiznat: u českého případu jso
 
 Vládní angažmá Pravých Finů (Perussuomalaiset, PS) v Sipiläově kabinetu (2015–2016) představuje modelový případ věcné policy kompenzace (typ 1) doplněný epizodickým výskytem vnitrokoaliční opozice (typ 2). Pozorovaný vzorec chování neprobíhal jako bilaterální směna konkrétních politik, nýbrž jako podmíněný souhlas v rámci celkového vládního balíku (hallitusohjelmakokonaisuus). Strana tento princip zformulovala již 30. dubna 2015 v odpovědích na otázky pověřeného sestavovatele vlády Juhy Sipiläho: na přímý dotaz po nepřekročitelných podmínkách žádné formální kynnyskysymykset neuvedla a vládní program vymezila jako celek, v němž „jokaisen puolueen kädenjäljen tulee näkyä" [musí být vidět rukopis každé strany].[^34]
 
-Strukturální povaha kompromisu se projevila v unijní a rozpočtové politice. Zatímco v roce 2011 strana odmítla vládní účast kvůli záchranným balíčkům pro eurozónu, v dubnu 2015 přistoupila na text vyjednavače s podmínkou: „Osana hallitusohjelmakokonaisuutta olemme valmiit hyväksymään pääpiirteissään liitteessä esitetyn kirjauksen eurokriisin hoidosta" [Jako součást celkového vládního programu jsme připraveni v hlavních rysech přijmout text uvedený v příloze o řešení eurokrize].[^35] Její předseda Timo Soini převzal rezort zahraničních věcí a byl podle § 66 odst. 3 ústavy určen zástupcem předsedy vlády.[^37] Tím se prostor pro rétorickou externalizaci (typ 3) vůči Bruselu zúžil: unijní linii vlády garantoval z pozice šéfa diplomacie předseda strany.
+Strukturální povaha kompromisu se projevila v unijní a rozpočtové politice. Předseda strany Timo Soini převzal rezort zahraničních věcí a byl podle § 66 odst. 3 ústavy určen zástupcem předsedy vlády.[^37] Tím se prostor pro rétorickou externalizaci (typ 3) vůči Bruselu zúžil: unijní linii vlády garantoval z pozice šéfa diplomacie předseda strany.
 
 Cena za tento kompromis byla značná. V socioekonomické rovině jejich závazek neškrtat ve vzdělávání[^39] padl a program zařadil školství mezi položky konsolidace se škrtem 681 milionů eur ročně.[^40] Nejtěžší náklad dopadl na plošné sociální transfery: škrty ve výši 920 milionů eur ročně doprovodilo zmrazení valorizace; tuto nepopulární agendu navíc administrovala a obhajovala ministryně sociálních věcí a zdravotnictví za PS Hanna Mäntylä.[^41]
 
@@ -256,11 +252,7 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^5]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 6–12.
 
-[^6]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 10, tab. 1.3.
-
-[^12]: Ivarsflaten 2006, citováno podle Ann-Cathrine Jungar, „From the Mainstream to the Margin? The Radicalisation of the True Finns", in *Radical Right-Wing Populist Parties in Western Europe: Into the Mainstream?*, eds. Tjitske Akkerman, Sarah L. de Lange a Matthijs Rooduijn (Abingdon – New York: Routledge, 2016), 135.
-
-[^13]: Jungar, „From the Mainstream to the Margin?", 135–137.
+[^13]: Ann-Cathrine Jungar, „From the Mainstream to the Margin? The Radicalisation of the True Finns", in *Radical Right-Wing Populist Parties in Western Europe: Into the Mainstream?*, eds. Tjitske Akkerman, Sarah L. de Lange a Matthijs Rooduijn (Abingdon – New York: Routledge, 2016), 135–137.
 
 [^15]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 16.
 
@@ -281,8 +273,6 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 [^33]: Kancelář prezidenta republiky, „Prezident republiky jmenoval vládu České republiky", tisková zpráva, 15. prosince 2025, https://www.hrad.cz/cs/pro-media/tiskove-zpravy/aktualni-tiskove-zpravy/prezident-petr-pavel-jmenuje-vladu-ceske-republiky-18974 (staženo 21. září 2026).
 
 [^34]: Perussuomalaiset, „Perussuomalaisten vastaukset hallitustunnustelija Juha Sipilän kysymyksiin" [Odpovědi Pravých Finů na otázky sestavovatele vlády Juhy Sipiläho], 30. dubna 2015, ot. 15, https://www.perussuomalaiset.fi/ajankohtaista/perussuomalaisten-vastaukset-hallitustunnustelija-juha-sipilan-kysymyksiin/.
-
-[^35]: Tamtéž, ot. 7.
 
 [^37]: Suomen perustuslaki [Finská ústava] 731/1999, § 66 odst. 3, https://www.finlex.fi/fi/lainsaadanto/1999/731; Valtioneuvosto, „Valtioneuvoston yleisistunto 29.5.2015" [Plenární zasedání vlády 29. 5. 2015], 29. května 2015, https://valtioneuvosto.fi/-/valtioneuvoston-yleisistunto-29-5-2015.
 

@@ -55,3 +55,8 @@ Provedeno: B7, B8, C1, C2, C3, D1, D2, D5–D10, B9.
 - Seznam literatury: vyřazeny „Sipilän hallitus nimitettiin“ a stenoprotokol 129. schůze (už necitované).
 - Přečíslování: kap. 5 → 4 (4.1–4.3), kap. 6 → 5; odkazy „oddíl 5.1“ a „oddílech 5.1 až 5.3“ upraveny, „(srov. kap. 5.4)“ vypuštěno.
 - 11. 11.: odstavec o asymetrii pramenů ponechán beze změny (rozhodnutí Barbory); úkol „odstavec o asymetrii“ uzavřen.
+
+## E1–E5 (11. 11. 2026, na pokyn Barbory „ano“)
+Vypuštěno: věta o eurokrizi (pozn. 35), výčet čtyř dimenzí ve 2.1 (pozn. 6), nadpis „Citační poznámka k typologii“ (odstavec zůstává na konci 2.4), odstavec „Kompenzační strategií se rozumí…“, věta o Ivarsflatenové (pozn. 12; plná citace Jungarové přenesena do pozn. 13).
+Dorovnáno: nadpis „2.1 Rámec: čtyři dimenze“ → „2.1 Rámec“ (výčet dimenzí vypadl); ve 4.1 „Její předseda Timo Soini“ → „Předseda strany Timo Soini“ (po škrtu by „Její“ odkazovalo na „politiku“).
+**Rozsah: ~14,9 NS včetně nadpisů (text 15 151 + poznámky 6 058 + seznam 4 619 + tabulka 678 + nadpisy 353 znaků). ✅ Pod 15 NS.**
