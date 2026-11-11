@@ -38,3 +38,4 @@ Provedeno na pokyn Barbory („všechno, W1 nech bez ⚠“): C1–C9, W2 vypuš
 
 ## Kap. 5 (11. 11. 2026)
 Provedeno vše K1–K10 na pokyn Barbory. Odstraněny pozn. 43, 54, 58, 65, 66, 69, 70, 71, 72, 75, 76. Pozn. 62 (15. schůze, část 12) dostala plnou citaci z vypuštěné pozn. 54; pozn. 73 „Tamtéž“ přepsána na zkrácený odkaz na koaliční smlouvu (předchozí poznámky vypadly). Nález o dvou příčinách téže strategie zůstal jen v závěru, v 5.4 už není.
+- 11. 11.: ze seznamu vyřazeny už necitované položky (hlasování č. 4 a 5, usnesení č. 174, zákon č. 90/1995 Sb.) a z výčtu stenoprotokolů 7. a 24. schůze.

@@ -448,19 +448,15 @@ Valtioneuvoston kanslia. „Sipilän hallitus nimitettiin" [Sipiläova vláda by
 
 ### Prameny: české parlamentní
 
-Poslanecká sněmovna Parlamentu ČR. Hlasování č. 4 a 5 na 16. schůzi, 5. května 2026. https://www.psp.cz/sqw/hlasy.sqw?G=87302 a https://www.psp.cz/sqw/hlasy.sqw?G=87303 (staženo 21. září 2026).
-
 Poslanecká sněmovna Parlamentu ČR. Hlasování č. 235 na 10. schůzi, 11. března 2026. https://www.psp.cz/sqw/hlasy.sqw?G=86957 (staženo 21. září 2026).
 
 Poslanecká sněmovna Parlamentu ČR. Sněmovní tisk 231, stav projednávání. https://www.psp.cz/sqw/tisky.sqw?O=10&T=231 (staženo 21. září 2026).
 
 Poslanecká sněmovna Parlamentu ČR. Stenografický protokol 129. schůze (volební období 2021–2025), část 61, 5. března 2025. https://www.psp.cz/eknih/2021ps/stenprot/129schuz/s129061.htm (staženo 21. září 2026).
 
-Poslanecká sněmovna Parlamentu ČR. Stenografické protokoly 5., 7., 8., 15., 16., 18. a 24. schůze (volební období 2025–), 13. ledna až 23. června 2026. https://www.psp.cz/eknih/2025ps/stenprot/ (staženo 21. září 2026).
+Poslanecká sněmovna Parlamentu ČR. Stenografické protokoly 5., 8., 15., 16. a 18. schůze (volební období 2025–), 13. ledna až 23. června 2026. https://www.psp.cz/eknih/2025ps/stenprot/ (staženo 21. září 2026).
 
 Poslanecká sněmovna Parlamentu ČR. Usnesení č. 6 z 1. schůze, 5. listopadu 2025. https://www.psp.cz/sqw/text/text2.sqw?idd=272779 (staženo 21. září 2026).
-
-Poslanecká sněmovna Parlamentu ČR. Usnesení č. 174 ze 14. května 2026. https://www.psp.cz/sqw/text/text2.sqw?idd=276608 (staženo 21. září 2026).
 
 Poslanecká sněmovna Parlamentu ČR. Výbor pro média a kulturu, složení výboru. https://www.psp.cz/sqw/hp.sqw?k=4101 (staženo 21. září 2026).
 
@@ -475,8 +471,6 @@ Vláda České republiky. *Programové prohlášení vlády*. 5. ledna 2026. htt
 ### Prameny: zákony
 
 Zákon č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění účinném k 14. září 2026.
-
-Zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění účinném k 14. září 2026.
 
 ## Prameny a jejich stav
 
