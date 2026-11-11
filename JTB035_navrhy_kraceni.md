@@ -54,3 +54,4 @@ Provedeno: B7, B8, C1, C2, C3, D1, D2, D5–D10, B9.
 - Poznámky: odstraněny 3, 14, 23, 36, 38, 50, 51. Plné citace přeneseny: Jungar → pozn. 12, *Ratkaisujen Suomi* → pozn. 40. B9: v pozn. 41 Jungar zkrácen na krátký tvar, v pozn. 73 koaliční smlouva na „Koaliční smlouva“.
 - Seznam literatury: vyřazeny „Sipilän hallitus nimitettiin“ a stenoprotokol 129. schůze (už necitované).
 - Přečíslování: kap. 5 → 4 (4.1–4.3), kap. 6 → 5; odkazy „oddíl 5.1“ a „oddílech 5.1 až 5.3“ upraveny, „(srov. kap. 5.4)“ vypuštěno.
+- 11. 11.: odstavec o asymetrii pramenů ponechán beze změny (rozhodnutí Barbory); úkol „odstavec o asymetrii“ uzavřen.

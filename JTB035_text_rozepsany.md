@@ -145,7 +145,7 @@ Kompenzační strategií se v kontextu této práce rozumí pozorovaný vzorec c
 
 Sledované okno začíná formálním jmenováním kabinetu prezidentem republiky dne 15. prosince 2025[^33] a uzavírá se po devíti měsících k 15. září 2026, tedy po prvních třech čtvrtinách prvního vládního roku.
 
-### ⚠ Odstavec o pramenné základně: první dva odstavce hotové (B., 21. 9., s korekturou); odstavec o asymetrii je ještě původní a čeká na rozhodnutí B.
+### ✅ Odstavec o pramenné základně (B., 21. 9.); odstavec o asymetrii ponechán v současném znění, rozhodla B. 11. 11. 2026
 
 *Znění B. z 21. 9. s jazykovou korekturou a dvěma úpravami, které B. rozhodla (viz log).*
 
