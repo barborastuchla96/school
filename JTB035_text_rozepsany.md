@@ -87,13 +87,9 @@ Tato práce obhajuje tezi, že volba kompenzační strategie závisí na vyjedn�
 
 *Napsala B. 18. 9. 2026.*
 
-Tato kapitola popisuje pojmový aparát pro analýzu vládního chování populistické radikální pravice (PRR). Nejprve vymezuje dvě části analytického modelu a dvě proměnné, vyjednávací pozici a reputační štít, na nichž v závěru formuluje vlastní typologii kompenzačních strategií.
-
 ### 2.1 Rámec: čtyři dimenze a dvě patra modelu
 
 Základem je analytický rámec ze svazku *Radical Right-Wing Populist Parties in Western Europe*.[^5] Práce přejímá klasifikační schéma v plné verzi[^6] a sleduje: míru radikalismu (radical vs. moderate), profil nabídky (niche vs. broad), vztah k systému (anti-establishment vs. mainstream) a legitimitu (reputation of illegitimacy vs. legitimacy).
-
-Autoři svazku prostor pro účely srovnávací analýzy zúžili na tři dimenze, a to ze dvou metodických důvodů: reputaci vypustili kvůli obtížné kvantifikovatelnosti[^7] a z antiestablishmentu vyřadili behaviorální složku kvůli komplikovanému mezistátnímu srovnání.[^8] V kvalitativním designu dvou případů však tyto překážky odpadají a materiál unese všechny čtyři dimenze v plném rozsahu.
 
 Model má dvě analytické části, které je nutné striktně oddělit:
 
@@ -104,11 +100,7 @@ Potřeba kompenzace plyne přímo z povahy PRR. Běžná Strømova trojice cíl�
 
 ### 2.2 Vyjednávací pozice
 
-Vyjednávací pozice je v práci pojata jako jedna složená proměnná s dvěma prvky: relativní polohou na socioekonomické ose vůči partnerům a absencí přímého soupeře v jádrovém tématu (migrace, národní identita). Rozdělit ji na dvě samostatné proměnné by dvoupřípadový MSSD design z hlediska předurčenosti neunesl;[^11] obě složky navíc v mém materiálu táhnou za jeden provaz.
-
-Zde je nutné odmítnout záměnu s profilem nabídky (nicheness): nicheness říká jen to, čemu strana věnuje pozornost ve svém programu, zatímco vyjednávací pozice vyjadřuje reálnou páku (*bargaining leverage*) vůči koaličním partnerům.
-
-Finská data z obou cyklů (2015 i 2023) navíc přinášejí podstatné teoretické upřesnění: vyjednávací pozice určuje výhradně to, co strana dokáže získat na své jádrové prioritě, nikoli to, co zaplatí v socioekonomické rovině. Silná pozice otevírá cestu k imigračním restrikcím, ale neposkytuje žádnou ochranu před vládními škrty dopadajícími na vlastní voliče, pokud si je strana předem nevymínila jako tvrdou podmínku.
+Vyjednávací pozice je v práci pojata jako jedna složená proměnná s dvěma prvky: relativní polohou na socioekonomické ose vůči partnerům a absencí přímého soupeře v jádrovém tématu (migrace, národní identita).
 
 ### 2.3 Reputační štít
 
@@ -121,19 +113,17 @@ V koaliční praxi je přitom nutné rozlišit dvě roviny přijetí:
 
 Právě tato aktivní složka rozhoduje o tom, **jak radikální rejstřík si strana může dovolit uvnitř vládního tábora**. Kde partneři aktivní krytí poskytnou, může formace držet radikální rétoriku i uvnitř vlády. Kde naopak štít chybí a spolupráce zůstává omezena na pasivní kooptaci, prostor pro radikální rejstřík uvnitř vládního tábora se zužuje a strana volí cesty, které obhajobu od partnerů nevyžadují: od symbolických parlamentních výstupů až po rétorický přesun nepřítele do vnější arény.
 
-O dostupnosti věcných kompenzačních cest naproti tomu rozhoduje rezortní přístup, a v českém případě je vnitrokoaliční opozice uzavřena smluvně, nikoli reputačně. Obě proměnné tedy nenesou v obou případech stejnou váhu; k tomu se vrací závěr.
-
 ### 2.4 Typologie kompenzačních strategií
 
 **1. Věcná policy kompenzace** (pracovně: logrolling / programový kompromis)
 
 Strana akceptuje programové ústupky výměnou za legislativně ukotvené výstupy ve svých prioritních tématech. Tento kompromis se realizuje buď přímým věcným výkonem moci ve svěřených rezortech, nebo prosazením klíčových programových priorit do vládního prohlášení napříč rezorty drženými koaličními partnery. Protestní mobilizaci v dané oblasti nahrazuje vládní výkon.
 
-⚠ **Druhá varianta se dělí na dva kroky, které je nutné rozlišovat:** zapsání priority do vládního programu a její legislativní provedení. Český případ ukazuje, že první může proběhnout bez druhého; finský případ ukazuje obojí.
+Druhá varianta se dělí na dva kroky, které je nutné rozlišovat: zapsání priority do vládního programu a její legislativní provedení. Český případ ukazuje, že první může proběhnout bez druhého; finský případ ukazuje obojí.
 
 **1b. Symbolický nelegislativní výstup** (poddruh prvního typu)
 
-Strana dosáhne institucionálního výstupu, který nemá legislativní povahu, typicky usnesení komory, v tématu, k němuž nemá rezortní přístup. Od plné věcné kompenzace se liší tím, že nezakládá právní povinnost; od pouhé rétoriky tím, že jde o akt komory přijatý hlasováním. Tato cesta je dostupná právě proto, že nevyžaduje gesci ministerstva, a pro koaliční partnery je málo nákladná.
+Strana dosáhne institucionálního výstupu, který nemá legislativní povahu, typicky usnesení komory, v tématu, k němuž nemá rezortní přístup. Od plné věcné kompenzace se liší tím, že nezakládá právní povinnost; od pouhé rétoriky tím, že jde o akt komory přijatý hlasováním.
 
 **2. Vnitrokoaliční opozice** (veřejný dissensus)
 
@@ -145,19 +135,9 @@ Poslanecký klub nebo frakce strany veřejně odmítá koaliční disciplínu, a
 
 Strana zachovává radikální antiestablishmentový rám a roli obránce neprivilegovaných, ale terč útoků přesouvá z domácí exekutivy na mocenská centra ležící mimo dosah koaliční smlouvy. Neohrožuje koaliční většinu ani nepožaduje věcné vládní ústupky; kompenzace je čistě diskurzivní.
 
-**Znormálnění (mainstreaming): výsledek, nikoli strategie**
-
-Opuštění antiestablishmentového profilu bez věcné i rétorické kompenzace; stav, kdy strana splyne s běžnými vládními formacemi.
-
 #### Citační poznámka k typologii
 
 Dva ze tří typů mají v literatuře jméno; tato práce je přebírá tak, jak je atribuují editoři svazku,[^15] a **typologii z nich staví sama**. Autoři je uvádějí jako dva příklady strategií mezi jinými, nikoli jako typologii.
-
-> **Logrolling** (Akkerman a de Lange):[^16] *„the parties may minimise policy costs by pursuing a strategy of logrolling. Rather than compromising on core issues like immigration and integration in negotiations with coalition partners, they will try to shift the main policy costs to socioeconomic issues."*
->
-> **‚One foot in and one foot out'** (Albertazzi a McDonnell):[^17] strana si udrží antiestablishmentové pozice i chování, zatímco je ve vládě.
-
-⚠ **Pozor na rozsah pojmu.** Logrolling v tomto významu je o tom, **kam dopadne cena**. První typ této práce je širší: je o tom, **co strana dostane**. Mediální případ v českém materiálu logrollingem v uvedeném smyslu **není**, nic se za něj neobětovalo. V textu proto uvést, že se logrolling přebírá jako pojmenování jedné varianty prvního typu, nikoli jako jeho definice.
 
 ---
 
@@ -344,15 +324,9 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^6]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 10, tab. 1.3.
 
-[^7]: Akkerman, de Lange a Rooduijn, „Into the mainstream?", 31.
-
-[^8]: Tamtéž, 37.
-
 [^9]: Kaare Strøm, „A Behavioral Theory of Competitive Political Parties", *American Journal of Political Science* 34, č. 2 (1990): 565–598, https://doi.org/10.2307/2111461.
 
 [^10]: Helboe Pedersen 2012, citováno podle Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 13.
-
-[^11]: Jonathan Hopkin, „The Comparative Method", in *Theory and Methods in Political Science*, eds. David Marsh a Gerry Stoker, 3. vyd. (Basingstoke: Palgrave Macmillan, 2010), 293.
 
 [^12]: Ivarsflaten 2006, citováno podle Jungar, „From the Mainstream to the Margin?", 135.
 
@@ -362,11 +336,7 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^15]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 16.
 
-[^16]: Tjitske Akkerman a Sarah L. de Lange, „Radical Right Parties in Office: Incumbency Records and the Electoral Cost of Governing", *Government and Opposition* 47, č. 4 (2012): 574–596, https://doi.org/10.1111/j.1477-7053.2012.01375.x.
-
-[^17]: Daniele Albertazzi a Duncan McDonnell, „The Lega Nord in the Second Berlusconi Government: In a League of Its Own", *West European Politics* 28, č. 5 (2005): 952–972, https://doi.org/10.1080/01402380500310600.
-
-[^18]: Hopkin, „The Comparative Method", 291–293; Leonardo Morlino, *Comparison: A Methodological Introduction for the Social Sciences* (Opladen – Berlin – Toronto: Barbara Budrich Publishers, 2018), 82–85.
+[^18]: Jonathan Hopkin, „The Comparative Method", in *Theory and Methods in Political Science*, eds. David Marsh a Gerry Stoker, 3. vyd. (Basingstoke: Palgrave Macmillan, 2010), 291–293; Leonardo Morlino, *Comparison: A Methodological Introduction for the Social Sciences* (Opladen – Berlin – Toronto: Barbara Budrich Publishers, 2018), 82–85.
 
 [^19]: Hopkin, „The Comparative Method", 286.
 
@@ -489,10 +459,6 @@ Jungar, Ann-Cathrine. „From the Mainstream to the Margin? The Radicalisation o
 Morlino, Leonardo. *Comparison: A Methodological Introduction for the Social Sciences*. Opladen – Berlin – Toronto: Barbara Budrich Publishers, 2018.
 
 ### Literatura: články v odborných periodikách
-
-Akkerman, Tjitske a Sarah L. de Lange. „Radical Right Parties in Office: Incumbency Records and the Electoral Cost of Governing". *Government and Opposition* 47, č. 4 (2012): 574–596. https://doi.org/10.1111/j.1477-7053.2012.01375.x.
-
-Albertazzi, Daniele a Duncan McDonnell. „The Lega Nord in the Second Berlusconi Government: In a League of Its Own". *West European Politics* 28, č. 5 (2005): 952–972. https://doi.org/10.1080/01402380500310600.
 
 Strøm, Kaare. „A Behavioral Theory of Competitive Political Parties". *American Journal of Political Science* 34, č. 2 (1990): 565–598. https://doi.org/10.2307/2111461.
 

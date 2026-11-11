@@ -31,3 +31,6 @@
 
 ## Úvod a závěr (11. 11. 2026)
 Provedeno na pokyn Barbory („škrtáme vše kromě Z3 zatím“): U1 (přehled kapitol), U2 (odstavec MSSD + Sartori, pozn. 4), U3 (vsuvka inclusion–moderation; čárka před „aniž“ zachována), Z2, Z5, Z4a, Z4b. Z3 (dvojí role rezortního přístupu) ponecháno. Sartori tím z textu zmizel úplně, vyřazen i ze seznamu literatury (je ale v povinné literatuře předmětu).
+
+## Kap. 2 (11. 11. 2026)
+Provedeno na pokyn Barbory („všechno, W1 nech bez ⚠“): C1–C9, W2 vypuštěny; W1 ponechána jako text bez ⚠ a bez tučného. Odstraněny pozn. 7, 8, 11, 16, 17; plná citace Hopkina přenesena z pozn. 11 do pozn. 18 (s. 291–293). Akkerman – de Lange 2012 a Albertazzi – McDonnell 2005 už nejsou citovány nikde, vyřazeny i ze seznamu literatury. ⚠ Věta „Dva ze tří typů mají v literatuře jméno…“ teď nejmenuje, o která jména jde (logrolling, „one foot in“).
