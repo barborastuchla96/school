@@ -169,23 +169,21 @@ Dva ze tří typů mají v literatuře jméno; tato práce je přebírá tak, ja
 
 *Napsala B. 16. 9. 2026; 19. 9. 2026 doplněn odstavec o zúženém designu a sloučeno zdvojené místo o strategii jako vzorci chování a o třetí pojistce hodnotové neutrality.*
 
-Práce je postavena na designu největší podobnosti (MSSD), který vychází z Millovy metody rozdílu.[^18] Nejde o pouhé převyprávění dvou vládních angažmá. Cílem je zjistit, proč dvě velmi podobné strany populistické radikální pravice (PRR) řeší vládní ústupky každá s úplně jiným přístupem. V práci jsou srovnáváni Praví Finové (Perussuomalaiset, PS) v jejich prvním roce ve finské vládě (2015–2016, s kontrolním pohledem na roky 2023–2024) a česká SPD v jejím prvním vládním roce.
+Práce je postavena na designu největší podobnosti (MSSD), který vychází z Millovy metody rozdílu.[^18] Cílem je zjistit, proč dvě velmi podobné strany populistické radikální pravice (PRR) řeší vládní ústupky každá s úplně jiným přístupem. V práci jsou srovnáváni Praví Finové (Perussuomalaiset, PS) v jejich prvním roce ve finské vládě (2015–2016, s kontrolním pohledem na roky 2023–2024) a česká SPD v jejím prvním vládním roce.
 
-Výběr případů drží celou řadu systémových proměnných konstantní, takže jimi rozdíl ve strategii vysvětlit nejde.[^19] Obě strany patří k PRR a do vlády šly jako slabší partner podstatně silnějšího hráče. V obou zemích funguje parlamentní režim s poměrným systémem, tradicí koalic a přímo voleným prezidentem s omezenými pravomocemi. Obě jsou v EU, kterou mají jako hlavní vnější terč, a obě vznikly na půdorysu dřívějších politických projektů (PS po finančním krachu a rozpadu SMP v roce 1995 a SPD po rozpadu hnutí Úsvit).[^20] Stejná je i povaha vládní účasti: obě strany sedí ve většinové vládě a mají ministry. Nejde tedy o tichou podporu menšinového kabinetu jako v Dánsku nebo Nizozemsku, kde se opoziční rétorika drží mnohem snáz.[^21] Tady obě nesou přímou vládní odpovědnost.
+Výběr případů drží celou řadu systémových proměnných konstantní, takže jimi rozdíl ve strategii vysvětlit nejde.[^19] Obě strany patří k PRR a do vlády šly jako slabší partner podstatně silnějšího hráče. V obou zemích funguje parlamentní režim s poměrným systémem, tradicí koalic a přímo voleným prezidentem s omezenými pravomocemi. Obě jsou v EU, kterou mají jako hlavní vnější terč, a obě vznikly na půdorysu dřívějších politických projektů.[^20] Stejná je i povaha vládní účasti: obě strany sedí ve většinové vládě a mají ministry.
 
-Praví Finové jsou v rámci své rodiny výjimka: v roce 2011 nabídku do vlády odmítli kvůli záchranným balíčkům pro eurozónu, takže když do ní v roce 2015 konečně vstoupili, tlak na ústupky byl obrovský.[^22] Práce ale musí přiznat i jednu asymetrii: PS vyrostli z venkovského populismu a k nativismu přešli až postupně, podobně jako italská Liga severu,[^23] zatímco SPD vznikla rovnou jako čistě protiimigrační strana. Finský případ má ale výhodu v tom, že nabízí dva cykly (2015–2017 a 2023–dosud). Jde o stejnou stranu a stejná pravidla, ale s jiným lídrem i koncem, což je metodologicky únosnější než přidávat třetí stranu v jiné zemi.[^24]
+Praví Finové jsou v rámci své rodiny výjimka: v roce 2011 nabídku do vlády odmítli kvůli záchranným balíčkům pro eurozónu, takže když do ní v roce 2015 konečně vstoupili, tlak na ústupky byl obrovský.[^22] Práce ale musí přiznat i jednu asymetrii: PS vyrostli z venkovského populismu a k nativismu přešli až postupně, podobně jako italská Liga severu,[^23] zatímco SPD vznikla rovnou jako čistě protiimigrační strana.
 
-Při srovnání pouhých dvou případů se nedají vyřadit všechny myslitelné rozdíly a vysvětlení zůstává nutně předurčené (overdetermined).[^25] Moje teze proto unese jen dvě hlavní proměnné: reputační štít a vyjednávací pozici (složenou z polohy na socioekonomické ose a z absence soupeře v tématu). Rozdělit vyjednávací pozici na dvě samostatné proměnné by design při dvou případech prostě neunesl.[^26] U mých případů navíc obě složky míří stejným směrem, takže práce mezi nimi nerozhodne. Cílem je otestovat fungování mechanismu v mezích lokální teorie.[^27] Ostatně k tomu, aby se kvantitativní data doplnila případovými studiemi a kvalitativním srovnáním, výslovně vyzývají i sami autoři výchozího rámce.[^28]
+Při srovnání pouhých dvou případů se nedají vyřadit všechny myslitelné rozdíly a vysvětlení zůstává nutně předurčené (overdetermined).[^25] Moje teze proto unese jen dvě hlavní proměnné: reputační štít a vyjednávací pozici (složenou z polohy na socioekonomické ose a z absence soupeře v tématu). Rozdělit vyjednávací pozici na dvě samostatné proměnné by design při dvou případech prostě neunesl.[^26] U mých případů navíc obě složky míří stejným směrem, takže práce mezi nimi nerozhodne.
 
 Zkoumaným jevem je volba kompenzační strategie v prvním roce vládnutí, ne to, jestli strana přežije. K hlavnímu programovému posunu totiž dochází ještě před volbami a během vyjednávání.[^29] První rok je pak ten moment, kdy strana musí ústupky nějak prodat svým voličům.
 
 Výzkumný design nesleduje frekvenční distribuci výroků v úplném souboru sněmovních vystoupení, nýbrž mechanismus institucionální volby: zkoumá, které kompenzační cesty byly straně v dané mocenské konstelaci otevřeny a jakým způsobem s nimi naložila. Analýza proto pracuje se záměrným výběrem klíčových parlamentních situací, v nichž se klub musel vymezit vůči vládě či obhájit její politiku, a jednání k jádrovým profilovým tématům, doplněných o rozpočtovou protiváhu. Platnost teze není testována statistickými podíly, nýbrž trojicí kvalitativních vyvracečů formulovaných předem, jež vymezují přesné empirické podmínky, za nichž by předpoklad o absenci vnitrokoaliční opozice, dominanci externalizace či odstupňované dostupnosti věcné kompenzace musel být odmítnut.
 
-Kompenzační strategií se v kontextu této práce rozumí pozorovaný vzorec chování navenek, nikoli duševní stav aktéra. Parlamentní projev představuje vystoupení v institucionálně svázané situaci před několika publiky současně; vypovídá tedy o tom, co klub veřejně deklaruje, nikoli o vnitřních motivech vedení. Předmětem analýzy je proto výhradně parlamentní sebeprezentace klubu, nikoli mimosněmovní komunikace hnutí jako celku. Tento přístup zároveň naplňuje třetí ze tří pojistek hodnotové neutrality:[^30] posuzovat reálné výstupy a zaznamenané jednání strany, nikoli deklarovaný či domnělý úmysl aktérů.[^31] Zbývající dvě pojistky tvoří předem stanovená kritéria výběru a posuzování shodná pro oba případy a explicitně formulované podmínky, které by předloženou tezi vyvrátily.
+Kompenzační strategií se v kontextu této práce rozumí pozorovaný vzorec chování navenek, nikoli duševní stav aktéra. Parlamentní projev představuje vystoupení v institucionálně svázané situaci před několika publiky současně; vypovídá tedy o tom, co klub veřejně deklaruje, nikoli o vnitřních motivech vedení. Předmětem analýzy je proto výhradně parlamentní sebeprezentace klubu, nikoli mimosněmovní komunikace hnutí jako celku.
 
-Protože obě strany do radikální pravice nesporně patří, samotný populismus zde neklade analytický odpor. Konceptuální práce proto leží v typologii kompenzací a ve vymezení vyjednávací pozice.[^32]
-
-Sledované okno začíná formálním jmenováním kabinetu prezidentem republiky dne 15. prosince 2025[^33] a uzavírá se po devíti měsících k 15. září 2026, tedy po prvních třech čtvrtinách prvního vládního roku. Devítiměsíční vymezení zajišťuje, že je pozorované období v době psaní uzavřené; volba kompenzační strategie se v tomto rozsahu projeví stejně spolehlivě jako v roce celém, protože k ní podle výše uvedeného dochází na samém počátku vládního angažmá.
+Sledované okno začíná formálním jmenováním kabinetu prezidentem republiky dne 15. prosince 2025[^33] a uzavírá se po devíti měsících k 15. září 2026, tedy po prvních třech čtvrtinách prvního vládního roku.
 
 ### ⚠ Odstavec o pramenné základně: první dva odstavce hotové (B., 21. 9., s korekturou); odstavec o asymetrii je ještě původní a čeká na rozhodnutí B.
 
@@ -193,51 +191,17 @@ Sledované okno začíná formálním jmenováním kabinetu prezidentem republik
 
 Komparativní design studie se v obou porovnávaných případech zaměřuje na primární dokumenty srovnatelného typu, tedy u českého případu na koaliční smlouvu a její přílohy, programové prohlášení vlády, stenografické protokoly ze schůzí Poslanecké sněmovny, sněmovní tisky, usnesení a záznamy hlasování. U finského případu na odpovědi strany pověřenému sestavovateli vlády (hallitustunnustelija) z let 2015 a 2023, tedy na její vstupní vyjednávací pozice, dále na vládní programy *Ratkaisujen Suomi* (2015) a *Vahva ja välittävä Suomi* (2023) a na oficiální akty finské vlády.
 
-Případová studie Ann-Cathrine Jungarové (2016) zůstává hlavním, nikoli však jediným zdrojem pro výklad finského případu a pro období, které primární dokumenty nepokrývají.
-
 Dílčí asymetrie zůstává a je nutné ji přiznat: u českého případu jsou k dispozici stenografické protokoly, tedy souvislý záznam parlamentní komunikace, zatímco u finského případu se pracuje s programovými a vládními dokumenty. Tato asymetrie se týká typu pramenné evidence, nikoli analytického postavení případů.
 
-**Všechny citace z finských pramenů uvádím v originále a doplňuji vlastním překladem.** Finské volební a vládní programy ani odpovědi hallitustunnustelijovi nejsou dostupné v českém ani anglickém překladu, pracuji tedy s originálními zněními.
-
----
-
-## 4. Indikátory a práce s prameny
-
-*Zeštíhleno 18. 9. 2026 z původních tří normostran. Vypuštěno bylo sedmibodové schéma terčů, procedurální kontext jako samostatná proměnná, výklad jednacího řádu a slovník kódování. Design od 17. 9. nepočítá podíly, takže kodex ztratil funkci. 21. 9. na rozhodnutí B. vypuštěna věta o citování vystoupení mimo výběr, která po přepisu 5.2 a 5.3 nic nepopisovala.*
-
-### Výběr vystoupení
-
-Studie nepracuje s úplným souborem vystoupení klubu ve sledovaném okně, nýbrž s vybranými klíčovými momenty. Tvrdí totiž něco o tom, které kompenzační cesty byly straně dostupné a kterou zvolila, nikoli o četnostech.
-
-Vybrána jsou jednání, kde platí alespoň jedno ze dvou: buď se klub musí vymezit vůči vlastní vládě nebo ji obhájit (rozprava o důvěře, o nedůvěře, mimořádná schůze svolaná opozicí), nebo jde o jádrové téma strany (identita, migrace, veřejnoprávní média). Doplňkově je zařazeno projednávání státního rozpočtu jako protiváha, tedy prostor, kde se technokratická obhajoba vlády dá čekat nejspíš; bez ní by výběr protestní rejstřík nadhodnocoval.
-
-### Co se považuje za stanovisko klubu
+**Všechny citace z finských pramenů uvádím v originále a doplňuji vlastním překladem.**
 
 Sleduje se klub, ne jednotlivec. U SPD se mezi opozičním a vládním obdobím mění mluvčí, a to z institucionálního důvodu: Okamura se stal předsedou Sněmovny a v plénu za stranu mluví Fiala. Kdyby analýza visela na osobě, zaměnila by změnu řečníka za změnu rámce.
-
-Za stanovisko klubu se proto počítají jen vystoupení těch, kdo mají mandát stranu navenek zastupovat: předsedy poslaneckého klubu, předsedy hnutí, pokud mluví jako řečník nebo navrhovatel a nikoli z pozice řídícího schůzi, a zpravodaje k bodu. Vystoupení řadových poslanců sem nepatří.
-
-Nepatří sem ani faktické poznámky, a to ani když je přednáší předseda klubu: faktická poznámka je reakce, ne připravené stanovisko. V protokolu se pozná podle uvození předsedajícím a dvouminutového limitu.
-
-Nepatří sem konečně ani výroky pronesené mimo Sněmovnu, ani když je v plénu cituje někdo jiný. Předmětem je parlamentní sebeprezentace klubu a citace z druhé ruky navíc neručí za doslovné znění.
-
-### Čtení stenoprotokolů
-
-Souvislý projev rozdělený protokolem do více částí je jedno vystoupení. Protokol dělí dlouhé projevy po desetiminutových blocích a každý další uvozuje poznámkou „(pokračuje …)". Jmenný rejstřík řečníků přitom uvádí jen první část: u vystoupení ze 16. dubna 2026 vede část 12, projev však pokračuje částmi 13 až 15. Kdo se spolehne na rejstřík, přečte čtvrtinu.
-
-### Co se u vystoupení sleduje
 
 Dvě věci, a odděleně, protože nejsou totéž.
 
 **Terč**, tedy kdo je protivníkem. Předem vymezené možnosti zahrnovaly současnou vládu a koaliční partnery, předchozí vládní garnituru, ostatní parlamentní opozici, unijní instituce, veřejnoprávní média a nestátní aktéry. **Kategorie veřejnoprávních médií se ve sledovaném okně nenaplnila, což je samo o sobě nález.**
 
-**Rejstřík**, tedy jakým jazykem se mluví: protestní (antiestablishmentový nebo nativistický, obvinění ze zrady) proti technokratickému (věcná a číselná obhajoba vládní politiky). Vystoupení může nést oba. Oddělit obojí je nutné: vystoupení k landsmanšaftu ze 6. května 2026 míří na parlamentní opozici, a přesto je plně nativistické; kdyby se rejstřík odvozoval z terče, spadlo by do kolonky běžné mezistranické soutěže.
-
-Přítomnost čísel sama technokratický rejstřík nezakládá; rozhoduje, čemu slouží. Rozpočtové vystoupení z 12. února 2026 stojí celé na fiskálních údajích, a přesto je protestní, protože všechny obviňují předchozí vládu.
-
-**Reputační štít** se sleduje jako aktivní krytí, ne jako přijetí do koalice: výroky partnerů hájící vládní způsobilost strany a jejich reakce na radikální exces jejího člena. Svěření vysokého ústavního postu se za krytí nepočítá, protože by oba případy zařadilo stejně (Soini zástupcem premiéra, Okamura předsedou Sněmovny). Viz 2.3.
-
-### Co by tezi vyvrátilo
+**Rejstřík**, tedy jakým jazykem se mluví: protestní (antiestablishmentový nebo nativistický, obvinění ze zrady) proti technokratickému (věcná a číselná obhajoba vládní politiky). Vystoupení může nést oba.
 
 Stanoveno předem, aby se zrcadlová negace finského případu nepotvrdila sama sebou.
 
@@ -414,29 +378,15 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^20]: Srov. Jungar, „From the Mainstream to the Margin?", 116.
 
-[^21]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 15.
-
 [^22]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 12.
 
 [^23]: Akkerman, de Lange a Rooduijn, „Inclusion and mainstreaming?", 6.
 
-[^24]: Hopkin, „The Comparative Method", 293.
-
-[^25]: Tamtéž.
+[^25]: Hopkin, „The Comparative Method", 293.
 
 [^26]: Tamtéž.
 
-[^27]: Morlino, *Comparison*, 22–24.
-
-[^28]: Akkerman, de Lange a Rooduijn, „Into the mainstream?", 48.
-
 [^29]: Akkerman, de Lange a Rooduijn, „Into the mainstream?", 45; Jungar, „From the Mainstream to the Margin?", 134 (u PS v roce 2013).
-
-[^30]: Bobbio, citováno podle Morlino, *Comparison*, 35.
-
-[^31]: Jungar, „From the Mainstream to the Margin?", 135.
-
-[^32]: Morlino, *Comparison*, 13, 113.
 
 [^33]: Kancelář prezidenta republiky, „Prezident republiky jmenoval vládu České republiky", tisková zpráva, 15. prosince 2025, https://www.hrad.cz/cs/pro-media/tiskove-zpravy/aktualni-tiskove-zpravy/prezident-petr-pavel-jmenuje-vladu-ceske-republiky-18974 (staženo 21. září 2026).
 
