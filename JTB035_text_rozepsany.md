@@ -199,7 +199,7 @@ Strukturální povaha kompromisu se projevila v unijní a rozpočtové politice.
 
 Cena za tento kompromis byla značná. V socioekonomické rovině sice PS uhájily zákaz zvyšování DPH na potraviny a léky,[^38] ale jejich závazek neškrtat ve vzdělávání[^39] padl a program zařadil školství mezi položky konsolidace se škrtem 681 milionů eur ročně.[^40] Nejtěžší náklad dopadl na plošné sociální transfery: škrty ve výši 920 milionů eur ročně doprovodilo zmrazení valorizace; tuto nepopulární agendu navíc administrovala a obhajovala ministryně sociálních věcí a zdravotnictví za PS Hanna Mäntylä.[^41]
 
-Ztrátu čisté protestní identity na socioekonomické a unijní ose však strana kompenzovala v klíčovém jádrovém tématu. Do kapitoly 12 vládního programu se promítly legislativní požadavky PS, a to bez držení rezortu vnitra: zpřísnění podmínek pro sloučení rodin a zrychlení azylových procedur s deportací neúspěšných žadatelů.[^42] Koaliční kompromis je patrný u posuzování potřeby zahraniční pracovní síly (*työvoiman tarveharkinta*): program deklaruje pokračování stávající praxe, současně však zavádí možnost jejího zmírnění u nedostatkových profesí a expertů, což odpovídalo zájmům koaličních partnerů.[^43] Vnitrokoaliční opozice (typ 2) se současně projevila v červenci 2015 v kauze poslance Olliho Immonena, jenž publikoval výzvu k boji proti multikulturalismu.[^44] Předseda klubu Sampo Terho i Timo Soini reagovali prohlášením, že jde o Immonenovu soukromou záležitost: strana ani v pozici vládní formace necítila potřebu distancovat se od radikálního prostředí.[^45]
+Ztrátu čisté protestní identity na socioekonomické a unijní ose však strana kompenzovala v klíčovém jádrovém tématu. Do kapitoly 12 vládního programu se promítly legislativní požadavky PS, a to bez držení rezortu vnitra: zpřísnění podmínek pro sloučení rodin a zrychlení azylových procedur s deportací neúspěšných žadatelů.[^42] Vnitrokoaliční opozice (typ 2) se současně projevila v červenci 2015 v kauze poslance Olliho Immonena, jenž publikoval výzvu k boji proti multikulturalismu.[^44] Předseda klubu Sampo Terho i Timo Soini reagovali prohlášením, že jde o Immonenovu soukromou záležitost: strana ani v pozici vládní formace necítila potřebu distancovat se od radikálního prostředí.[^45]
 
 Vstup PS do Orpova kabinetu v červnu 2023 ukazuje tentýž mechanismus s ostřejší vyjednávací taktikou a odmítnutím transferových nástrojů EU[^46] (srov. kap. 5.4): Riikka Purra formulovala tři explicitní kynnyskysymykset[^47] a vládní program *Vahva ja välittävä Suomi* je převzal, když stanovil uprchlickou kvótu na 500 osob ročně, zpřísnil azylová pravidla na unijní minimum[^48] a zavázal se ke konsolidaci o 6 miliard eur pod vedením strany na ministerstvu financí.[^49]
 
@@ -227,11 +227,11 @@ Vstup PS do Orpova kabinetu v červnu 2023 ukazuje tentýž mechanismus s ostře
 
 V opozičním období se kritika médií přímo prolínala s útokem na tehdejší vládní většinu. Při třetím čtení novely zákona o rozhlasových a televizních poplatcích vystoupil Tomio Okamura s požadavkem na zrušení poplatků a sloučení České televize a Českého rozhlasu.[^50] Předlohu označil za zákon „z pera Fialovy vlády", který představuje „sprostý úplatek před volbami" a důkaz snahy manipulovat volby skrze média.[^51] Domácí vládní elita a média v této fázi tvořily provázaný celek.
 
-Vstupem do koalice ztrácí SPD možnost napadat domácí exekutivu plošně. Koaliční smlouva ze 3. listopadu 2025 ji svazuje ve dvou rovinách: zakazuje vyvolat hlasování o nedůvěře (čl. 2 odst. 3), ukládá povinnost respektovat stanovisko vlády při hlasování pod sankcí závažného porušení smlouvy (čl. 5 odst. 4) a zapovídá veřejná prohlášení oslabující důvěru či stabilitu kabinetu (čl. 7 odst. 3). Tyto povinnosti stvrdili všichni poslanci podpisem Dodatku č. 1.[^52] Předsednictví Sněmovny navíc připadlo Tomiu Okamurovi,[^53] který tím přešel k procedurálnímu řízení schůzí. Vystoupení na plénu proto přednáší převážně předseda poslaneckého klubu Radim Fiala, což sám na plénu potvrzuje, když uvádí, že zastupuje Okamuru vytíženého zahraniční delegací.[^54]
+Vstupem do koalice ztrácí SPD možnost napadat domácí exekutivu plošně. Koaliční smlouva ze 3. listopadu 2025 ji svazuje ve dvou rovinách: zakazuje vyvolat hlasování o nedůvěře (čl. 2 odst. 3), ukládá povinnost respektovat stanovisko vlády při hlasování pod sankcí závažného porušení smlouvy (čl. 5 odst. 4) a zapovídá veřejná prohlášení oslabující důvěru či stabilitu kabinetu (čl. 7 odst. 3). Tyto povinnosti stvrdili všichni poslanci podpisem Dodatku č. 1.[^52] Předsednictví Sněmovny navíc připadlo Tomiu Okamurovi,[^53] který tím přešel k procedurálnímu řízení schůzí.
 
 Tento institucionální posun dokládá vývoj mediálního terče. Vládní kritika médií ztratila adresnost: Radim Fiala mluví obecně o „značné části médií" podporující opozici[^55] a o „mainstreamových novinářích".[^56] Veřejnoprávní instituce se v projevech jmenovitě nevyskytují a kategorie vyhrazená veřejnoprávním médiím zůstává ve sledovaném okně prázdná.
 
-Požadavek se přitom neztratil, nýbrž přešel z pléna do vládní legislativní dráhy. Programové prohlášení vlády z 5. ledna 2026 výslovně slibuje kontrolu hospodaření ČT a ČRo skrze NKÚ i zrušení koncesionářských poplatků.[^57] Na mimořádné 15. schůzi 16. dubna 2026, kterou předseda Sněmovny svolal na žádost devadesáti opozičních poslanců k ohrožení nezávislosti veřejnoprávních médií, vystoupil Fiala se čtyřicetiminutovým projevem, v němž tomuto bodu nevěnoval jedinou větu a mluvil o energiích, stavbách a migračním paktu.[^58] Konkrétní opoziční požadavek se tak přesunul z parlamentního rejstříku do procedury vládního návrhu v gesci ministra kultury.[^59]
+Požadavek se přitom neztratil, nýbrž přešel z pléna do vládní legislativní dráhy. Programové prohlášení vlády z 5. ledna 2026 výslovně slibuje kontrolu hospodaření ČT a ČRo skrze NKÚ i zrušení koncesionářských poplatků.[^57] Konkrétní opoziční požadavek se tak přesunul z parlamentního rejstříku do procedury vládního návrhu v gesci ministra kultury.[^59]
 
 ---
 
@@ -243,17 +243,13 @@ Ztráta možnosti napadat domácí exekutivu vede k retroaktivní externalizaci:
 
 1. **Nulový přístup (migrace).** Podle kompetenčního zákona spadá migrace výhradně pod Ministerstvo vnitra, které drží ANO.[^60] Bez vlastního rezortu, křížových náměstků či vládního zmocněnce nemá strana k věcnému výkonu žádnou cestu. Téma se proto vrací jako rétorická externalizace vůči unijní úrovni. V rozpravě o nedůvěře 3. února 2026 Fiala deklaruje odmítnutí migračního paktu a systému EU ETS 2 na unijní půdě;[^61] 16. dubna 2026 pak spojuje stíhání Okamury s bojem proti paktu jako postojem, který převzala celá vláda.[^62]
 2. **Zprostředkovaný přístup bez páky (veřejnoprávní média).** Strana dosáhla zápisu priorit do vládního programu, rezort kultury však drží Motoristé. Vládní novelu (tisk 231) předkládá ministr kultury, zpravodajkou je poslankyně Motoristů a v šestnáctičlenném garančním výboru má SPD jediný hlas. Do konce sledovaného okna neprošel tisk ani prvním čtením.[^63] Zápis do programu tak proběhl, věcná legislativní kompenzace však zůstala nedokončená.
-3. **Vlastní parlamentní nástroj (identitární téma).** Tam, kde postačuje nelegislativní akt komory bez gesce ministerstva, dosáhla strana výstupu za devět dní. Dne 5. května 2026 navrhl Tomio Okamura zařazení nového bodu ke sjezdu Sudetoněmeckého landsmanšaftu v Brně a jménem koalice přednesl návrh usnesení.[^64] Střet o politický rámec vyvolal protinávrh poslance Lipavského, aby komora jednala sama za sebe, vládní většina však potvrdila Okamurův název „Stanovisko vládní koalice" poměrem 87 ku 67 hlasům; proti Lipavského protinávrhu přitom hlasovala jako blok jen SPD, zatímco ANO se z většiny zdrželo, pro koaliční znění však hlasovalo všemi přítomnými hlasy.[^65] Po obstrukcích byla svolána mimořádná 18. schůze, kde bylo usnesení č. 174 přijato 73 hlasy po opozičním bojkotu.[^66] Výstup nesl kultivovaný právní jazyk odsuzující revizionismus, zatímco Fiala týž bod na plénu doprovodil expresivními výpady proti opozici.[^67] Nízké náklady pro partnery potvrdila i Taťána Malá (ANO), která krok označila za zbytný, ale podpořila jej.[^68]
+3. **Vlastní parlamentní nástroj (identitární téma).** Tam, kde postačuje nelegislativní akt komory bez gesce ministerstva, dosáhla strana výstupu za devět dní. Dne 5. května 2026 navrhl Tomio Okamura zařazení nového bodu ke sjezdu Sudetoněmeckého landsmanšaftu v Brně a jménem koalice přednesl návrh usnesení.[^64] Výstup nesl kultivovaný právní jazyk odsuzující revizionismus, zatímco Fiala týž bod na plénu doprovodil expresivními výpady proti opozici.[^67] Nízké náklady pro partnery potvrdila i Taťána Malá (ANO), která krok označila za zbytný, ale podpořila jej.[^68]
 
 Případ landsmanšaftu dokládá, že absence rezortu blokuje legislativní dráhu, nikoli usnesení Sněmovny. Dvojí tempo (devět dní u usnesení oproti měsícům u cizího tisku 231) potvrzuje, že hranice věcné kompenzace neleží v politické vůli, nýbrž v typu použitého institucionálního nástroje.
 
-Volba procedurálního rámce přitom vyvrátila původní předpoklad sběru, že se radikální rétorika koncentruje do procedurálně volných prostorů jako specifický nástroj vládní PRR. Projednávání návrhu pořadu schůze i svolání mimořádné schůze[^69] využívala opozice 16. dubna a 23. června 2026 stejně jako koalice 14. května 2026.[^70] Nejde tedy o výlučnou platformu radikální pravice, nýbrž o institucionální pole otevřené všem řečníkům s přednostním právem[^71]. Pro vládní PRR mají tyto formáty specifický význam v tom, že umožňují protestní mobilizaci na plénu, aniž by došlo ke kolizi se závazkem vládní disciplíny při hlasování o konkrétních tiscích podle čl. 5 odst. 4 koaliční smlouvy.[^72]
-
 Vnitrokoaliční opozice zůstala u SPD zcela uzavřená. Závazek z Dodatku č. 1 a čl. 5 odst. 4 koaliční smlouvy, jejíž čl. 2 odst. 4 jmenuje rozpočet výslovně, klub striktně dodržel:[^73] při závěrečném schvalování státního rozpočtu 11. března 2026 hlasovalo pro vládní návrh všech čtrnáct přítomných poslanců SPD; patnáctá poslankyně klubu nebyla přihlášena a nikdo nehlasoval proti ani se nezdržel.[^74]
 
-Rozpočtový bod fungoval ve výběru jako protiváha, která měla prověřit nástup technokratického rejstříku. Předseda klubu Fiala však vystoupil v prvním čtení pouze s kritikou růstu zadlužení za minulé vlády.[^75] Fiskální argumenty tak posloužily výhradně protestnímu obvinění předchůdců, nikoli obhajobě vládní předlohy, kterou vedli ministři. Technokratický jazyk koexistuje s protestním v obecných politických rozpravách 3. února i 16. dubna 2026,[^76] v běžné legislativní agendě jej však klub neuplatňuje. Protestní rámec tedy technokratickou obhajobou nahrazen nebyl.
-
-Empirická data tak potvrzují, že se žádná ze tří předem stanovených podmínek, které by platnost teze vyvrátily, ve sledovaném okně nenaplnila. Vyvraceč k vnitrokoaliční opozici se nespustil, neboť klub SPD v žádném hlasování neporušil koaliční disciplínu a nepodpořil opoziční návrhy proti partnerům. Vyvraceč k rétorické externalizaci se nespustil, jelikož technokratický jazyk nenahradil protestní rejstřík a strana si antiestablishmentový rámec plně udržela v obecných politických rozpravách i při kritice předchozí vlády. Konečně vyvraceč k věcné policy kompenzaci se rovněž nespustil: SPD ve sledovaném období neprosadila žádný systémový zákon ze svého opozičního programu. Vládní návrh k veřejnoprávním médiím (tisk 231) v gesci partnera zůstal k uzávěrce okna před prvním čtením, což nedokládá absolutní nedostupnost věcné cesty, nýbrž její procedurální nedokončení v čase.
+Empirická data tak potvrzují, že se žádná ze tří předem stanovených podmínek, které by platnost teze vyvrátily, ve sledovaném okně nenaplnila. Vyvraceč k vnitrokoaliční opozici se nespustil, neboť klub SPD v žádném hlasování neporušil koaliční disciplínu a nepodpořil opoziční návrhy proti partnerům. Vyvraceč k rétorické externalizaci se nespustil, jelikož technokratický jazyk nenahradil protestní rejstřík a strana si antiestablishmentový rámec plně udržela v obecných politických rozpravách i při kritice předchozí vlády. Konečně vyvraceč k věcné policy kompenzaci se rovněž nespustil: SPD ve sledovaném období neprosadila žádný systémový zákon ze svého opozičního programu.
 
 
 
@@ -265,15 +261,9 @@ Empirická data tak potvrzují, že se žádná ze tří předem stanovených po
 
 Srovnání finského a českého materiálu ukazuje, že ačkoli obě formace čelily totožnému výchozímu omezení, tedy ztrátě domácí exekutivy jako legitimního terče kritiky, jejich výsledné kompenzační profily se zásadně rozešly. Rozdíl nespočívá v odlišné ideologii, nýbrž v institucionální dostupnosti jednotlivých cest a v povaze svěřených rezortů.
 
-U Pravých Finů (2015–2016) dominuje věcná policy kompenzace (typ 1) kombinovaná s vnitrokoaliční opozicí (typ 2), zatímco rétorická externalizace (typ 3) byla zúžena na minimum. Zisk ministerstva zahraničních věcí a postu zástupce předsedy vlády pro Tima Soiniho prostor pro přesouvání viny na Brusel zúžil: unijní politiku strana z vládní pozice sama spoluvytvářela. Kompenzaci proto hledala ve věcných výstupech. Zde se však projevil specifický charakter rezortního přístupu: portfolio nepředstavuje pouze nástroj k prosazení zisku, nýbrž i institucionální účet. Tím, že strana obsadila ministerstvo sociálních věcí a zdravotnictví, získala přímou páku na sociální transfery, ale současně na sebe vzala odpovědnost za rozsáhlé škrty dopadající na vlastní voliče. Ve sledovaném období tedy strana **současně** nesla exekutivní náklady v socioekonomické oblasti a měla věcný zisk na jádrovém tématu; vztah mezi obojím prameny neurčují. Radikální identitu si přitom strana udržela i tam, kde se od vládní formace očekával distanc (kauza Immonen), aniž by koalici reálně rozbila.
+U Pravých Finů (2015–2016) dominuje věcná policy kompenzace (typ 1) kombinovaná s vnitrokoaliční opozicí (typ 2), zatímco rétorická externalizace (typ 3) byla zúžena na minimum. Zisk ministerstva zahraničních věcí a postu zástupce předsedy vlády pro Tima Soiniho prostor pro přesouvání viny na Brusel zúžil: unijní politiku strana z vládní pozice sama spoluvytvářela. Kompenzaci proto hledala ve věcných výstupech. Radikální identitu si přitom strana udržela i tam, kde se od vládní formace očekával distanc (kauza Immonen), aniž by koalici reálně rozbila.
 
-U české SPD (2025–2026) je výsledný profil zrcadlově obrácený: dominuje rétorická externalizace (typ 3) s retroaktivní externalizací na domácí půdě, doplněná symbolickým nelegislativním výstupem (typ 1b), zatímco vnitrokoaliční opozice (typ 2) byla smluvně zcela uzamčena Dodatkem č. 1. Věcná kompenzace (typ 1) zde není nedostupná, nýbrž strukturálně odstupňovaná podle míry institucionální kontroly:
-
-1. **Plná a dokončená kompenzace (typ 1b)** proběhla pouze v identitárním tématu (usnesení k landsmanšaftu), kde postačoval parlamentní nástroj a nebylo třeba disponovat rezortem.
-2. **Zprostředkovaná a nedokončená kompenzace** nastala u veřejnoprávních médií: priorita byla vepsána do vládního programu, avšak legislativní návrh (tisk 231) v gesci koaličního partnera zůstal bez reálné páky SPD v procedurálním vakuu.
-3. **Nulová věcná kompenzace** charakterizuje migraci, kde strana nemá žádný rezortní ani zmocněnecký přístup.
-
-Právě nulový institucionální přístup k migrační agendě vysvětluje dominantní roli rétorické externalizace (typ 3) u SPD. V tomto bodě vyniká klíčový teoretický kontrast obou případů: **shodná strategie nese dvě protichůdné příčiny.** Zatímco u Pravých Finů v kontrolním cyklu 2023 představuje externalizace na unijní úroveň důsledek toho, že na domácí půdě strana v imigrační restrikci dosáhla maxima možného a stropem se stalo unijní právo, u SPD je externalizace migrace na Brusel funkční náhradou za nedostupnost domácí exekutivy. Pro SPD je rétorický útok na vnější mocenská centra (EU, ETS 2, migrační pakt) a na minulou vládu jedinou cestou, jak udržet radikální protestní profil a neohrozit přitom koaliční smlouvu s hnutím ANO. Souhrn obou profilů podává tab. 1.
+U české SPD (2025–2026) je výsledný profil zrcadlově obrácený: dominuje rétorická externalizace (typ 3) s retroaktivní externalizací na domácí půdě, doplněná symbolickým nelegislativním výstupem (typ 1b), zatímco vnitrokoaliční opozice (typ 2) byla smluvně zcela uzamčena Dodatkem č. 1. Souhrn obou profilů podává tab. 1.
 
 | dimenze | Perussuomalaiset (2015–2016) | SPD (2025–2026) |
 |---|---|---|
@@ -372,8 +362,6 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^42]: Valtioneuvoston kanslia, *Ratkaisujen Suomi*, 36–38, kap. 12.
 
-[^43]: Tamtéž, 38.
-
 [^44]: Jungar, „From the Mainstream to the Margin?", 127.
 
 [^45]: Tamtéž.
@@ -394,15 +382,11 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^53]: Poslanecká sněmovna Parlamentu ČR, usnesení č. 6 z 1. schůze, 5. listopadu 2025, https://www.psp.cz/sqw/text/text2.sqw?idd=272779 (staženo 21. září 2026).
 
-[^54]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 15. schůze, část 12, 16. dubna 2026, https://www.psp.cz/eknih/2025ps/stenprot/015schuz/s015012.htm (staženo 21. září 2026).
-
 [^55]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 5. schůze, část 26, 13. ledna 2026, https://www.psp.cz/eknih/2025ps/stenprot/005schuz/s005026.htm (staženo 21. září 2026).
 
 [^56]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 8. schůze, části 23–27, 3. února 2026, https://www.psp.cz/eknih/2025ps/stenprot/008schuz/s008023.htm (staženo 21. září 2026).
 
 [^57]: Vláda České republiky, *Programové prohlášení vlády*, 5. ledna 2026, https://vlada.gov.cz/cz/vlada/programove-prohlaseni/programove-prohlaseni-vlady-224629/ (staženo 21. září 2026).
-
-[^58]: Poslanecká sněmovna Parlamentu ČR, 15. schůze, části 12–15.
 
 [^59]: Poslanecká sněmovna Parlamentu ČR, sněmovní tisk 231, stav projednávání, https://www.psp.cz/sqw/tisky.sqw?O=10&T=231 (staženo 21. září 2026).
 
@@ -410,35 +394,19 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^61]: Poslanecká sněmovna Parlamentu ČR, 8. schůze, části 23–27.
 
-[^62]: Poslanecká sněmovna Parlamentu ČR, 15. schůze, část 12.
+[^62]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 15. schůze, část 12, 16. dubna 2026, https://www.psp.cz/eknih/2025ps/stenprot/015schuz/s015012.htm (staženo 21. září 2026).
 
 [^63]: Poslanecká sněmovna Parlamentu ČR, sněmovní tisk 231; Poslanecká sněmovna Parlamentu ČR, Výbor pro média a kulturu, složení výboru, https://www.psp.cz/sqw/hp.sqw?k=4101 (staženo 21. září 2026).
 
 [^64]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 16. schůze, rozprava k návrhu pořadu schůze, 5. května 2026, https://www.psp.cz/eknih/2025ps/stenprot/016schuz/bqbs/b00100000.htm (staženo 21. září 2026).
 
-[^65]: Tamtéž; Poslanecká sněmovna Parlamentu ČR, hlasování č. 4 a 5 na 16. schůzi, 5. května 2026, https://www.psp.cz/sqw/hlasy.sqw?G=87302 a https://www.psp.cz/sqw/hlasy.sqw?G=87303 (staženo 21. září 2026).
-
-[^66]: Poslanecká sněmovna Parlamentu ČR, usnesení č. 174 ze 14. května 2026, https://www.psp.cz/sqw/text/text2.sqw?idd=276608 (staženo 21. září 2026); Poslanecká sněmovna Parlamentu ČR, stenografický protokol 18. schůze, části 1–6, 14. května 2026, https://www.psp.cz/eknih/2025ps/stenprot/018schuz/s018001.htm (staženo 21. září 2026).
-
 [^67]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 16. schůze, část 68, 6. května 2026, https://www.psp.cz/eknih/2025ps/stenprot/016schuz/s016068.htm (staženo 21. září 2026).
 
 [^68]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 18. schůze, část 3, 14. května 2026, https://www.psp.cz/eknih/2025ps/stenprot/018schuz/s018003.htm (staženo 21. září 2026). Malá vystoupila s přednostním právem jako předsedkyně poslaneckého klubu ANO: „kdyby nebylo zbytečné horlivosti některých jednotlivců, tak bychom tuto debatu nemuseli dnes vést, nemuseli bychom ve Sněmovně toto téma diskutovat, nemuseli bychom dělat tiskové konference a přijímat takové usnesení. Já si moc dobře uvědomuji, že tato situace je vlastně do určité míry zbytečná, ale prostě je potřeba se k ní nějak postavit."
 
-[^69]: Návrhy na změnu nebo doplnění pořadu schůze podle § 54 odst. 5, svolání schůze na žádost alespoň jedné pětiny všech poslanců podle § 51 odst. 4 zákona č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění účinném k 14. září 2026.
-
-[^70]: Poslanecká sněmovna Parlamentu ČR, 15. schůze, části 12–15; Poslanecká sněmovna Parlamentu ČR, stenografický protokol 24. schůze, části 18–23, 23. června 2026, https://www.psp.cz/eknih/2025ps/stenprot/024schuz/s024018.htm (staženo 21. září 2026); Poslanecká sněmovna Parlamentu ČR, 18. schůze, části 1–6.
-
-[^71]: § 54 odst. 5 a § 67 odst. 1 a 2 zákona č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění účinném k 14. září 2026.
-
-[^72]: Koaliční smlouva mezi hnutím ANO 2011, hnutím Svoboda a přímá demokracie a stranou Motoristé sobě, čl. 5 odst. 4.
-
-[^73]: Tamtéž, čl. 2 odst. 4 a čl. 5 odst. 4; Dodatek č. 1, čl. 1 odst. 2.
+[^73]: Koaliční smlouva mezi hnutím ANO 2011, hnutím Svoboda a přímá demokracie a stranou Motoristé sobě, čl. 2 odst. 4 a čl. 5 odst. 4; Dodatek č. 1, čl. 1 odst. 2.
 
 [^74]: Poslanecká sněmovna Parlamentu ČR, hlasování č. 235 na 10. schůzi, 11. března 2026, https://www.psp.cz/sqw/hlasy.sqw?G=86957 (staženo 21. září 2026).
-
-[^75]: Poslanecká sněmovna Parlamentu ČR, stenografický protokol 7. schůze, část 139, 12. února 2026, https://www.psp.cz/eknih/2025ps/stenprot/007schuz/s007139.htm (staženo 21. září 2026).
-
-[^76]: Poslanecká sněmovna Parlamentu ČR, 8. schůze, části 23–27; Poslanecká sněmovna Parlamentu ČR, 15. schůze, části 12–15.
 
 ---
 

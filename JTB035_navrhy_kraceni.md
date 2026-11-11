@@ -35,3 +35,6 @@ Provedeno na pokyn Barbory („škrtáme vše kromě Z3 zatím“): U1 (přehled
 ## Kap. 2 (11. 11. 2026)
 Provedeno na pokyn Barbory („všechno, W1 nech bez ⚠“): C1–C9, W2 vypuštěny; W1 ponechána jako text bez ⚠ a bez tučného. Odstraněny pozn. 7, 8, 11, 16, 17; plná citace Hopkina přenesena z pozn. 11 do pozn. 18 (s. 291–293). Akkerman – de Lange 2012 a Albertazzi – McDonnell 2005 už nejsou citovány nikde, vyřazeny i ze seznamu literatury. ⚠ Věta „Dva ze tří typů mají v literatuře jméno…“ teď nejmenuje, o která jména jde (logrolling, „one foot in“).
 - 11. 11.: do „Citační poznámky“ doplněna závorka se jmény typů (logrolling, one foot in, one foot out), schváleno Barborou.
+
+## Kap. 5 (11. 11. 2026)
+Provedeno vše K1–K10 na pokyn Barbory. Odstraněny pozn. 43, 54, 58, 65, 66, 69, 70, 71, 72, 75, 76. Pozn. 62 (15. schůze, část 12) dostala plnou citaci z vypuštěné pozn. 54; pozn. 73 „Tamtéž“ přepsána na zkrácený odkaz na koaliční smlouvu (předchozí poznámky vypadly). Nález o dvou příčinách téže strategie zůstal jen v závěru, v 5.4 už není.
