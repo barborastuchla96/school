@@ -244,3 +244,7 @@ Závěr (odd. 7) věcně sedí („time is on the side of democracy", s. 33). P�
 - **5. 11. Barbora text v dokumentu k odevzdání zjednodušila** (úvod, odd. 3 snowballing, konec odd. 5, celý závěr; hlavička bez ročníku; „Seznam použité literatury"). Rozsah 10 637 znaků s odkazy (5,9 NS), bez odkazů 10 010 (5,6 NS). Věcně zkontrolováno, beze změn obsahu oproti ověřené verzi. ⚠ Prohlášení o AI v dokumentu v tu chvíli chybělo; Barbora ho vrací.
 - **Prohlášení o AI vráceno do dokumentu k odevzdání (5. 11., Barbora ho při úpravách smazala):** znění podle pracovního docu (Claude, 22. 10. – 6. 11. 2026; „revidovala" bez „důkladně", jak to měla Barbora), nadpis jako Nadpis 2, prázdné řádky odstraněny.
 - **7. 11.: Barbora zatím neodevzdala, nechce odevzdávat výrazně dřív než ostatní.** ⬜ Před odevzdáním přepsat datum v prohlášení o AI (teď 6. 11.) na skutečné. ✅ 7. 11. Barbora ověřila: úkol v Moodlu odevzdání přijímá. Termín 15. 11., 23:59; pozdě −3 body/den.
+
+---
+
+**12. 11. 2026: finální úpravy Barbory před odevzdáním.** Text doc k odevzdání uložen v `JTB041_rozbor_finalni_12-11.txt`. Kontrola Claude: rozsah ~10 570 zn. s odkazy (5,9 NS), bez závorkových odkazů ~9 950 (5,5 NS) ✅ min. 5 NS. Nové pasáže ověřeny proti poznámkám: snowballing a vliv na vládce (s. 16–17) ✅; SSSR/Rusko a Čína (s. 19–20) ✅; nové formy autoritářství včetně „electronic dictatorship“ (s. 20) ✅. ⚠ Neověřeno: „Ačkoli jejich nástup nepovažuje za vysoce pravděpodobný“. Prohlášení: období 22. 10. – 12. 11. 2026 (B.), mezi daty spojovník místo pomlčky. Hlavička bez „1. ročník“ (B.).
