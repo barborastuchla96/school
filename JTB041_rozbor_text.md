@@ -254,3 +254,4 @@ Závěr (odd. 7) věcně sedí („time is on the side of democracy", s. 33). P�
 - 12. 11.: Barbora opravila „Evropské společenství“ a čárku sama; rozsahy stran se spojovníkem ponechány (její rozhodnutí). Nové PDF vyexportováno do `odevzdano/`.
 - 12. 11. večer: Barbora poslala vlastní finální PDF (uloženo do `odevzdano/`). Proti předchozímu exportu: slovosled „že se do roku 1990…“, „protoze nezaměňuje“ (⚠ chybí háček: „protože“), čárka „ve společnosti, a nedává“, „udržet napořád“, v prohlášení vypuštěno „k plánování struktury práce“ (⚠ Claude připravil osnovu, viz `JTB041_rozbor_osnova.md`).
 - 12. 11.: v docu opraveno „protože“ (Barbora). Prohlášení ponecháno bez „k plánování struktury práce“, rozhodnutí Barbory.
+- **12. 11. 2026: ODEVZDÁNO** (Barbora, Moodle 2 / Turnitin).
