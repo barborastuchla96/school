@@ -481,3 +481,4 @@ Tím je zodpovězena otázka 3 („co přesně znamená interpretace"). **🛑 I
 - **Chyba Clauda 11. 11. 2026 (JTB035):** tvrdil, že odstavec o asymetrii pramenů v metodologii říká, že finské protokoly z pléna nejsou dostupné. Současné znění (B., 21. 9.) to netvrdí; jen popisuje, že u Finska se pracuje s programovými a vládními dokumenty. Claude vycházel ze zastaralé poznámky v pracovním souboru místo z textu.
 
 - **Odevzdávání (rozhodnutí Barbory 11. 11. 2026):** všechny práce odevzdávat jako **PDF**. PDF exportovat z Google Docs až ve chvíli skutečného odevzdání konkrétní práce, ne dopředu.
+- **„Otázky na Smetanu mají jít mailem dřív“ (17. 11.):** Claude to Barboře zopakoval podle zastaralého řádku v `PREHLED.md`, ačkoli v `JTB036_stav.md` je od 15. 10. její rozhodnutí, že se Smetanovi nic neposílá. Řádek v přehledu opraven 19. 11.

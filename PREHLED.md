@@ -13,7 +13,7 @@
 | **30. 10.** | oznámit Literovi témata obou interpretací | JTB039 | ✅ odesláno 23. 10., schváleno 24. 10.; **Litera 24. 10. schválil** („beru“), tip k seminárce: práce Evy Irmanové |
 | **15. 11.** | dohodnout s Literou téma seminární práce | JTB039 | ✅ téma seminárky poslané s tématy interpretací 23. 10., Litera schválil 24. 10. |
 | **15. 11., 23:59** | **rozbor textu**, min. 5 NS, Moodle 2 | JTB041 | ✅✅ **ODEVZDÁNO 12. 11. 2026** (Moodle 2 / Turnitin, PDF v `odevzdano/`) |
-| **27. 11.** | blok Smetana (datum potvrdila Barbora 15. 10.; karta ho neuvádí) | JTB036 | otázky mají jít mailem dřív, viz `JTB036_stav.md` |
+| **27. 11.** | blok Smetana (datum potvrdila Barbora 15. 10.; karta ho neuvádí) | JTB036 | nic se dopředu neposílá (rozhodnutí Barbory 15. 10., potvrzeno 19. 11.) |
 | **13. 12., 24:00** | **recenze** Lux – Mikeszová, Moodle2 | JTB034 | ✅ hotová a zformátovaná 7. 11.; ⬜ doplnit datum v prohlášení; neodevzdáno |
 | **15. 12.** | **interpretace 1** (Luňák), 5 NS | JTB039 | ✅ hotová 9. 11., k odevzdání ve složce „hotové práce“ (5,3 NS, 13 pozn., prohlášení vyplněno); neodevzdáno |
 | **15. 12.** | **interpretace 2** (Litera), 5 NS | JTB039 | ⬜ nezačatá; text = Lerner, *Diplomatic History* 2008 (rozhodnutí 16. 10.) |
