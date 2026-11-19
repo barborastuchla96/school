@@ -308,7 +308,7 @@ Závěry této práce podléhají dvěma vědomým omezením. Studie vysvětluje
 
 [^59]: Poslanecká sněmovna Parlamentu ČR, sněmovní tisk 231, stav projednávání, https://www.psp.cz/sqw/tisky.sqw?O=10&T=231 (staženo 21. září 2026).
 
-[^60]: Zákon č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění účinném k 14. září 2026.
+[^60]: Zákon č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění účinném k 14. září 2026, § 12 odst. 1 písm. h).
 
 [^61]: Poslanecká sněmovna Parlamentu ČR, 8. schůze, části 23–27.
 

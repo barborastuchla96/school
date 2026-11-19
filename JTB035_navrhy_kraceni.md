@@ -67,3 +67,9 @@ Dorovnáno: nadpis „2.1 Rámec: čtyři dimenze“ → „2.1 Rámec“ (výč
 Finské citace: v textu zůstala jediná („jokaisen puolueen kädenjäljen tulee näkyä“) a má překlad ✅.
 ⬜ Zbývá: období v prohlášení o AI; doložka „ve znění účinném k 14. září 2026“ u zák. 2/1969 Sb. (neověřeno); Barbořino čtení.
 - 11. 11.: **doložka ověřena** (Claude, zakonyprolidi.cz): u zák. č. 2/1969 Sb. platilo k 14. 9. 2026 znění č. 96 (účinné 1. 1. – 31. 10. 2026, novely 448/2024 Sb. a 220/2025 Sb.); § 12 odst. 1 písm. h) svěřuje Ministerstvu vnitra „cestovní doklady, povolování pobytu cizinců a postavení uprchlíků“; žádný jiný paragraf migraci, azyl ani pobyt cizinců nezmiňuje. Formulace „ve znění účinném k 14. září 2026“ je tedy správná a tvrzení v 4.3 podložené. Slovo „migrace“ zákon nepoužívá. Návrh: v pozn. 32 doplnit „§ 12 odst. 1 písm. h)“ (rozhodne B.).
+
+## 19. 11. 2026: prohlášení o AI a pozn. 32 (na pokyn Barbory)
+
+- Prohlášení o AI: „V období [DOPLNIT] 2026“ → „V období od září do 19. listopadu 2026“ (Barbora: od září bez dne; konec = dnešní práce s Claudem). Zvýraznění [DOPLNIT] už v dokumentu není.
+- Pozn. 32 (v md zdroji [^60]): za doložku doplněno „, § 12 odst. 1 písm. h)“, ověřeno dříve proti znění 96 (1. 1. – 31. 10. 2026). Bibliografie beze změny (paragraf se uvádí jen v poznámce).
+- Ověřeno strojově v Google Docu po úpravě. Zbývá: Barbořino přečtení; když po něm budeme ještě něco s Claudem upravovat, posunout konec období.
