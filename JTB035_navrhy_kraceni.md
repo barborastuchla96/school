@@ -80,3 +80,4 @@ Finské citace: v textu zůstala jediná („jokaisen puolueen kädenjäljen tul
 - Stav Docu uložen do `JTB035_text_Doc_2026-11-20.txt` (md zdroj `JTB035_text_rozepsany.md` tím přestává být aktuální pro tělo textu).
 - Rozsah: 14,99 NS bez hlavičky a prohlášení, 15,38 NS se vším.
 - Claude zjistil při kontrole: pozn. 1 „eds. (Abingdon“ bez „titíž“ (chyba přenosu do Docu, v md zdroji „eds. titíž“ je; Claude to 11. 11. při kontrole poznámek přehlédl).
+- 20. 11. odpoledne: Barbora opravila body z kontroly (prohlášení „do 20. listopadu 2026“, ChatGPT vrácen; výzkumná otázka „Jakým způsobem…“; „předseda strany“; věta o roce 2023; „Protože srovnávám jen dva případy“; kurzívy; pozn. 1 „eds. titíž“; věta ve 2.1 přepsána). Rozsah 14,99 NS bez hlavičky a prohlášení, 15,40 NS se vším. Snapshot přepsán.
