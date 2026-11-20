@@ -14,7 +14,7 @@
 | **15. 11.** | dohodnout s Literou téma seminární práce | JTB039 | ✅ téma seminárky poslané s tématy interpretací 23. 10., Litera schválil 24. 10. |
 | **15. 11., 23:59** | **rozbor textu**, min. 5 NS, Moodle 2 | JTB041 | ✅✅ **ODEVZDÁNO 12. 11. 2026** (Moodle 2 / Turnitin, PDF v `odevzdano/`) |
 | **27. 11.** | blok Smetana (datum potvrdila Barbora 15. 10.; karta ho neuvádí) | JTB036 | nic se dopředu neposílá (rozhodnutí Barbory 15. 10., potvrzeno 19. 11.) |
-| **13. 12., 24:00** | **recenze** Lux – Mikeszová, Moodle2 | JTB034 | ✅ hotová 7. 11.; 20. 11. hlavička, datum v prohlášení, A4; ⬜ Barbora ještě přečte; neodevzdáno |
+| **13. 12., 24:00** | **recenze** Lux – Mikeszová, Moodle2 | JTB034 | ✅ **hotová 20. 11.** (přepracovaná, 5,29 NS, hlavička, prohlášení, A4; ve složce „hotové práce“?); neodevzdáno |
 | **15. 12.** | **interpretace 1** (Luňák), 5 NS | JTB039 | ✅ hotová 9. 11., k odevzdání ve složce „hotové práce“ (5,3 NS, 13 pozn., prohlášení vyplněno); neodevzdáno |
 | **15. 12.** | **interpretace 2** (Litera), 5 NS | JTB039 | ⬜ nezačatá; text = Lerner, *Diplomatic History* 2008 (rozhodnutí 16. 10.) |
 | **27. 12., 23:59** | **analýza demokratického přechodu**, min. 7 NS, Moodle 2 | JTB041 | ⬜ nezačatá |
@@ -56,7 +56,7 @@ Všech pět předmětů má v SIS „Zk". **Samostatná zkouška mimo to, co je 
 ## 4. Co zbývá dokončit (hotové texty)
 
 - **JTB041 rozbor (Huntington):** ✅ odevzdáno 12. 11. 2026.
-- **JTB034 recenze:** 20. 11. doplněna hlavička, datum v prohlášení a A4; Barbora ještě přečte; odevzdat do 13. 12.
+- **JTB034 recenze:** ✅ hotová 20. 11., jen odevzdat (PDF) do 13. 12.
 - **JTB039 interpretace 1:** ✅ hotová, jen odevzdat do 15. 12.
 - **JTB036:** ✅ hotovo, odevzdat 6. 1. / 13. 1. / 27. 1.; po bloku 27. 11. zkontrolovat kartu SIS.
 - **JTB039 seminární práce:** ✅ hotová 10. 11., jen odevzdat do 10. 1.
