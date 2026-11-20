@@ -82,3 +82,5 @@ Finské citace: v textu zůstala jediná („jokaisen puolueen kädenjäljen tul
 - Claude zjistil při kontrole: pozn. 1 „eds. (Abingdon“ bez „titíž“ (chyba přenosu do Docu, v md zdroji „eds. titíž“ je; Claude to 11. 11. při kontrole poznámek přehlédl).
 - 20. 11. odpoledne: Barbora opravila body z kontroly (prohlášení „do 20. listopadu 2026“, ChatGPT vrácen; výzkumná otázka „Jakým způsobem…“; „předseda strany“; věta o roce 2023; „Protože srovnávám jen dva případy“; kurzívy; pozn. 1 „eds. titíž“; věta ve 2.1 přepsána). Rozsah 14,99 NS bez hlavičky a prohlášení, 15,40 NS se vším. Snapshot přepsán.
 - 20. 11.: na pokyn Barbory dvě stylistické úpravy (úvod: „Jakým způsobem si je strana kompenzuje?“; 2.1: „Zajímá je přitom zejména, jak…“). Rozsah nově ≈ 14,97 NS (26 938 znaků) bez hlavičky a prohlášení.
+
+**20. 11. 2026: HOTOVO.** Barbora potvrdila jako hotovou. Doc `1Cn8862yIhoBsUL6M95NO42yInlSlHyjr8gWXWXTRZjc`, 14,97 NS bez hlavičky a prohlášení, 38 poznámek, prohlášení o AI „od září do 20. listopadu 2026“ (Claude a ChatGPT). Odevzdat jako PDF až při odevzdání, termín 10. 1. 2027 (Moodle2). Pokud se bude cokoli s Claudem měnit později, posunout datum v prohlášení.

@@ -1,6 +1,6 @@
 # Přehled: zimní semestr 2026/2027
 
-*Stav aktualizován 10. 11. 2026 (dříve 15. 10. 2026). Termíny, rozsahy a váhy jsou z karet SIS přepsaných 15. 10. (soubory `JTB0xx_karta_SIS_2026-10-15.md`). Stav jednotlivých prací je z předávacího dokumentu; ⚠ textové soubory prací v repozitáři nejsou, takže stav z nich ověřený není.*
+*Stav aktualizován 20. 11. 2026 (dříve 10. 11. a 15. 10. 2026). Termíny, rozsahy a váhy jsou z karet SIS přepsaných 15. 10. (soubory `JTB0xx_karta_SIS_2026-10-15.md`). Stav jednotlivých prací je z předávacího dokumentu; ⚠ textové soubory prací v repozitáři nejsou, takže stav z nich ověřený není.*
 
 ---
 
@@ -19,7 +19,7 @@
 | **15. 12.** | **interpretace 2** (Litera), 5 NS | JTB039 | ⬜ nezačatá; text = Lerner, *Diplomatic History* 2008 (rozhodnutí 16. 10.) |
 | **27. 12., 23:59** | **analýza demokratického přechodu**, min. 7 NS, Moodle 2 | JTB041 | ⬜ nezačatá |
 | **6. 1., 13. 1. nebo 27. 1., 23:59** | **úvaha o tisku** 7–10 NS + **recenze** 3–4 NS, jeden soubor, Moodle | JTB036 | ✅ hotovo 10. 11.: složený soubor zformátovaný, prohlášení vyplněné, rozsah v limitu; po bloku 27. 11. zkontrolovat kartu SIS (`JTB036_stav.md`) |
-| **10. 1., 24:00** | **komparativní studie**, 10–15 NS včetně aparátu, Moodle2 | JTB035 | ✅ napsaná; ⚠ nejspíš přes limit |
+| **10. 1., 24:00** | **komparativní studie**, 10–15 NS včetně aparátu, Moodle2 | JTB035 | ✅ **hotová 20. 11.** (Google Doc „JTB035 Komparativní studie … (k odevzdání)“ v Můj disk, 14,97 NS vč. aparátu, 38 pozn., prohlášení vyplněno); neodevzdáno |
 | **10. 1., 24:00** | **malá seminární práce**, Moodle2 | JTB034 | ⬜ nezačatá |
 | **10. 1.** | **seminární práce**, 15 NS s poznámkovým aparátem | JTB039 | ✅ hotová 10. 11. (Google Doc ve složce „hotové práce“, 18,2 NS, 78 pozn.); neodevzdáno |
 | **15. 1., 17:00** | **test**, Moodle 2 | JTB041 | |
@@ -60,7 +60,7 @@ Všech pět předmětů má v SIS „Zk". **Samostatná zkouška mimo to, co je 
 - **JTB039 interpretace 1:** ✅ hotová, jen odevzdat do 15. 12.
 - **JTB036:** ✅ hotovo, odevzdat 6. 1. / 13. 1. / 27. 1.; po bloku 27. 11. zkontrolovat kartu SIS.
 - **JTB039 seminární práce:** ✅ hotová 10. 11., jen odevzdat do 10. 1.
-- **JTB035 komparativní studie:** odstavec o asymetrii pramenů v kap. 3; **rozsah** (10–15 NS včetně aparátu, nejspíš přes); doložka „ve znění účinném k 14. září 2026"; překlady finských citací; prohlášení o AI.
+- **JTB035 komparativní studie:** ✅ hotová 20. 11., jen odevzdat (PDF) do 10. 1.
 - **Admin:** zapsat se na test JTB041 v SIS (test 15. 1.).
 
 ## 5. Otevřené otázky
