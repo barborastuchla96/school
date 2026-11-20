@@ -84,3 +84,4 @@ Finské citace: v textu zůstala jediná („jokaisen puolueen kädenjäljen tul
 - 20. 11.: na pokyn Barbory dvě stylistické úpravy (úvod: „Jakým způsobem si je strana kompenzuje?“; 2.1: „Zajímá je přitom zejména, jak…“). Rozsah nově ≈ 14,97 NS (26 938 znaků) bez hlavičky a prohlášení.
 
 **20. 11. 2026: HOTOVO.** Barbora potvrdila jako hotovou. Doc `1Cn8862yIhoBsUL6M95NO42yInlSlHyjr8gWXWXTRZjc`, 14,97 NS bez hlavičky a prohlášení, 38 poznámek, prohlášení o AI „od září do 20. listopadu 2026“ (Claude a ChatGPT). Odevzdat jako PDF až při odevzdání, termín 10. 1. 2027 (Moodle2). Pokud se bude cokoli s Claudem měnit později, posunout datum v prohlášení.
+- 20. 11.: Doc přesunut z Můj disk do složky „ZS 2026-27 – hotové práce“ (na pokyn Barbory).

@@ -19,7 +19,7 @@
 | **15. 12.** | **interpretace 2** (Litera), 5 NS | JTB039 | ⬜ nezačatá; text = Lerner, *Diplomatic History* 2008 (rozhodnutí 16. 10.) |
 | **27. 12., 23:59** | **analýza demokratického přechodu**, min. 7 NS, Moodle 2 | JTB041 | ⬜ nezačatá |
 | **6. 1., 13. 1. nebo 27. 1., 23:59** | **úvaha o tisku** 7–10 NS + **recenze** 3–4 NS, jeden soubor, Moodle | JTB036 | ✅ hotovo 10. 11.: složený soubor zformátovaný, prohlášení vyplněné, rozsah v limitu; po bloku 27. 11. zkontrolovat kartu SIS (`JTB036_stav.md`) |
-| **10. 1., 24:00** | **komparativní studie**, 10–15 NS včetně aparátu, Moodle2 | JTB035 | ✅ **hotová 20. 11.** (Google Doc „JTB035 Komparativní studie … (k odevzdání)“ v Můj disk, 14,97 NS vč. aparátu, 38 pozn., prohlášení vyplněno); neodevzdáno |
+| **10. 1., 24:00** | **komparativní studie**, 10–15 NS včetně aparátu, Moodle2 | JTB035 | ✅ **hotová 20. 11.** (Google Doc „JTB035 Komparativní studie … (k odevzdání)“ ve složce „hotové práce“, 14,97 NS vč. aparátu, 38 pozn., prohlášení vyplněno); neodevzdáno |
 | **10. 1., 24:00** | **malá seminární práce**, Moodle2 | JTB034 | ⬜ nezačatá |
 | **10. 1.** | **seminární práce**, 15 NS s poznámkovým aparátem | JTB039 | ✅ hotová 10. 11. (Google Doc ve složce „hotové práce“, 18,2 NS, 78 pozn.); neodevzdáno |
 | **15. 1., 17:00** | **test**, Moodle 2 | JTB041 | |
