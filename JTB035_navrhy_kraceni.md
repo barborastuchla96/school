@@ -73,3 +73,10 @@ Finské citace: v textu zůstala jediná („jokaisen puolueen kädenjäljen tul
 - Prohlášení o AI: „V období [DOPLNIT] 2026“ → „V období od září do 19. listopadu 2026“ (Barbora: od září bez dne; konec = dnešní práce s Claudem). Zvýraznění [DOPLNIT] už v dokumentu není.
 - Pozn. 32 (v md zdroji [^60]): za doložku doplněno „, § 12 odst. 1 písm. h)“, ověřeno dříve proti znění 96 (1. 1. – 31. 10. 2026). Bibliografie beze změny (paragraf se uvádí jen v poznámce).
 - Ověřeno strojově v Google Docu po úpravě. Zbývá: Barbořino přečtení; když po něm budeme ještě něco s Claudem upravovat, posunout konec období.
+
+## 20. 11. 2026: Barbořiny úpravy v Google Docu
+
+- Barbora přepsala většinu textu těla (kap. 1–5) do vlastního jazyka; poznámky pod čarou beze změny (38), bibliografie beze změny. Z prohlášení vyškrtla ChatGPT, datum změnila na „29. listopadu“.
+- Stav Docu uložen do `JTB035_text_Doc_2026-11-20.txt` (md zdroj `JTB035_text_rozepsany.md` tím přestává být aktuální pro tělo textu).
+- Rozsah: 14,99 NS bez hlavičky a prohlášení, 15,38 NS se vším.
+- Claude zjistil při kontrole: pozn. 1 „eds. (Abingdon“ bez „titíž“ (chyba přenosu do Docu, v md zdroji „eds. titíž“ je; Claude to 11. 11. při kontrole poznámek přehlédl).
