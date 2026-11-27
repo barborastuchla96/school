@@ -70,3 +70,8 @@ Claude ověřil v textu:
 2. **Výhrada 1:** výpovědi představitelů tvrdé linie mohou odrážet jejich politické zájmy, nejen skutečné obavy z amerického vlivu (Gomułka s. 99–100, Ulbricht s. 100–101 přes Dawishovou; Lerner odlišuje jen od veřejné propagandy, s. 94).
 3. **Výhrada 2:** nejasná hranice mezi Johnsonovou politikou, širším západním vlivem a příčinami invaze (s. 80 „master hand that did not always exist"; západoněmecké úvěry a NSR s. 95–96, 100; krok k rozhodnutí s. 94 a 102; usnesení 17. 8. s. 92).
 - Barbora nechce jen kritizovat. Claudovy návrhy dalších předností k výběru: spojení amerických a východoblokových pramenů (s. 78 „recent evidence", s. 81 „new evidence from Communist archives"); rozlišení skutečného a vnímaného dopadu (s. 78); vnitřní rozpor americké politiky (s. 79–80); autor sám tezi tlumí (s. 78, 103).
+
+## 27. 11.: úvod (Google Doc `19oiKDL3OsmAiyekkBracxtGJl_RIzJGw0frWTJ7ot2g`)
+- Barbora napsala úvod, ≈ 1 840 znaků (≈ 1,0 NS). Claude ověřil proti s. 77–78: 20. 8., summit, Dobrynin, konec bridge building, obrácená perspektiva, teze, „should not be overstated" ✅.
+- Claudovy připomínky: (1) „Rozhodující nebylo…" je silnější než „Less important than the actual success…" (s. 78); (2) poslední odstavec („jeden z faktorů") Lernera mírní víc, než on sám: týž odstavec s. 78 říká „played a major role in causing the event" a s. 103 „kernel of truth… Johnson had been the guy who invited them". Kolísání mezi „major role" a „should not be overstated" je materiál pro výhradu 2.
+- Formát (hlavička, TNR, A4, skutečné poznámky místo „[1]") až na konec.
