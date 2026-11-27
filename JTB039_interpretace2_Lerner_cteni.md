@@ -41,3 +41,12 @@ LERNER, Mitchell. „Trying to Find the Guy Who Invited Them": Lyndon Johnson, B
 2. Většina zmíněných obav (západoněmecké úvěry, turisté, rock, Friedanová, rozhlas) není americký vládní program; sám Lerner s. 80 píše, že vůdci VS viděli „imperialist master hand that did not always exist". Role NSR (Ostpolitik, jednání s Prahou v dubnu 1968, s. 92) zůstává v pozadí.
 3. Československá strana jen přes anglické edice (Navrátil, CWIHP); česky psaná literatura a pohled pražských reformátorů na americkou politiku chybí.
 4. Kontrafaktuál: autor sám připouští, že by invaze nejspíš proběhla i bez bridge building (s. 78, 90, 103); co přesně tedy „cause" znamená?
+
+## 27. 11.: Barbořin úhel pro bod 3
+**„Strach ze Západu, nebo strach o vlastní moc?"** (s. 94–101; Gomułka po březnu 1968, Ulbricht).
+
+Claude ověřil v textu:
+- Gomułka: polští studenti v březnu 1968, transparent „Polska czeka na swego Dubczeka" (s. 99–100); Čechoslováci mají „increasingly detrimental effect on Poland" (s. 100, pozn. 111, překladatelská pozn. Kramera v CWIHP Bulletin); v dubnu žádá okamžitý zásah (s. 100, pozn. 112, Navrátil, dok. 24).
+- Ulbricht: imperialisté se zaměřují na maďarskou inteligenci, „long term global strategy" (s. 100, pozn. 113, Navrátil, dok. 52); „We may all find ourselves kicked out" (s. 101, pozn. 120, **přes Dawishovou**, citovat jako „cit. podle").
+- ⚠ Lerner tuto obavu sám uvádí (s. 99: „not only worried about the American influence… but also… its potential impact on their own regimes"), ale řadí ji jako *důsledek* západního vlivu. Barbořin úhel je tedy přehodnocení priorit, ne „autor to přehlédl".
+- Doklady v článku, že zdrojem „nákazy" byla sama Praha, ne Západ: polští studenti (s. 99–100), Maďaři na Slovensku „root of the evil is entirely in the Czech lands" (s. 100), sovětští čtenáři českých novin (s. 101), s. 80 „master hand that did not always exist", s. 102 „not as an indigenous movement… but as a potential attack".
