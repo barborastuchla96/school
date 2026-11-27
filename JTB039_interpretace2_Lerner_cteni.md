@@ -64,3 +64,9 @@ Claude ověřil v textu:
 - s. 102: mechanismus: tato představa „magnified the threat dramatically and limited the options considered", tvrzeno, ne doloženo konkrétním jednáním.
 - s. 103: „many different factors… certainly an overstatement… kernel of truth".
 - ⚠ Argumenty 1 a 2 spolu souvisejí (oba o tom, co skutečně stálo za rozhodnutím); při psaní hlídat, aby se neopakovaly.
+
+## 27. 11.: Barbořina osnova bodu 3 (jde psát)
+1. **Přínos:** Lerner obrací obvyklou perspektivu (místo důsledků invaze pro americkou politiku zkoumá její podíl na vzniku krize). Opora: s. 78 („historians have long noted the impact the invasion had on bridge-building efforts, they have neglected the inverse").
+2. **Výhrada 1:** výpovědi představitelů tvrdé linie mohou odrážet jejich politické zájmy, nejen skutečné obavy z amerického vlivu (Gomułka s. 99–100, Ulbricht s. 100–101 přes Dawishovou; Lerner odlišuje jen od veřejné propagandy, s. 94).
+3. **Výhrada 2:** nejasná hranice mezi Johnsonovou politikou, širším západním vlivem a příčinami invaze (s. 80 „master hand that did not always exist"; západoněmecké úvěry a NSR s. 95–96, 100; krok k rozhodnutí s. 94 a 102; usnesení 17. 8. s. 92).
+- Barbora nechce jen kritizovat. Claudovy návrhy dalších předností k výběru: spojení amerických a východoblokových pramenů (s. 78 „recent evidence", s. 81 „new evidence from Communist archives"); rozlišení skutečného a vnímaného dopadu (s. 78); vnitřní rozpor americké politiky (s. 79–80); autor sám tezi tlumí (s. 78, 103).
