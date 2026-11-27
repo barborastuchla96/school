@@ -101,3 +101,5 @@
 - Kontrola exportem do PDF: 10 stran A4, úvaha s. 1–6, recenze od s. 7. Rozsah se nezměnil (úvaha 17 774 zn. ≤ 18 000).
 - ⬜ Zbývá: Barbořino čtení čerstvýma očima; po bloku 27. 11. kontrola karty SIS.
 - 10. 11.: Barbora považuje soubor za hotový („ted uz je to asi ready“). Otevřené jen: blok 27. 11. a karta SIS po něm.
+
+**27. 11. 2026, ze skupiny spolužáků (Barbora, screenshoty; jména a čísla se neukládají):** v den bloku se řešilo zadání recenze. Kolovala starší verze zadání (dokument „sylabus“): recenze 3–4 NS na **Vaněk – Mücke, *Třetí strana trojúhelníku*** (2015, popř. Vaněk 2004) **nebo Iggers**. Karta SIS (stav 15. 10.) uvádí **Iggers nebo Evans, *Na obranu historie*** (Argo 2019). Podle spolužáka se má zadání brát **přímo ze SIS, ne z dokumentu**. Pro Barboru beze změny: **recenze Iggerse je v obou verzích**, rozsah 3–4 NS splňuje. Blok byl na Zoomu (Barbora nebyla, v práci). ⬜ Až bude chtít: zkontrolovat kartu SIS, jestli se po bloku nezměnila.
