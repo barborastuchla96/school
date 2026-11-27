@@ -17,3 +17,27 @@ LERNER, Mitchell. „Trying to Find the Guy Who Invited Them": Lyndon Johnson, B
 
 ## Stav
 - ⬜ Barbora si článek osvěží, zvolí bod 3, napíše text. Claude kontroluje stránky, citace a rozsah.
+
+## 27. 11.: Claudův průchod článkem (celý text s. 77–103 přečten strojově z výřezu)
+
+*Orientační mapa pro Barboru, ne text práce. Stránky podle záhlaví časopisu.*
+
+| s. | co tam je |
+|---|---|
+| 77–78 | úvod: 20. 8. 1968, Johnson těsně před oznámením summitu, Dobrynin oznamuje invazi; teze (s. 78) a hned zmírnění („should not be overstated") |
+| 79–81 | dva širší přínosy: (1) vnitřní rozpor bridge building (uvolnění napětí × oslabování bloku), který vedení USA nedomyslelo; (2) rostoucí nestabilita Varšavské smlouvy (Albánie, Rumunsko 1966, NDR, Polsko 1968) |
+| 81–85 | Johnson a vznik politiky: motivy (mír, PR, klín mezi SSSR a satelity, signály z Evropy), CIA/NIE 1964–65, projev v Lexingtonu 23. 5. 1964, NSAM 304 |
+| 85–88 | provádění: SSSR (obchod, letecká dohoda), Polsko, Maďarsko, Rumunsko, Bulharsko; 1966 NSAM 352, „peaceful engagement" |
+| 88–90 | Československo jako „one of our more attractive opportunities" (s. 89): VOA bez rušení, obchod, letadla, Koloděje, kultura, Ginsberg; duben 1968 NSC (Rusk: „rape and seduction"), program se nezastavil |
+| 90–93 | Pražské jaro a invaze (podle Skillinga a Navrátila): Novotný → Dubček, Drážďany, Akční program, 2000 slov, 17. 8. rozhodnutí, operace Dunaj |
+| 93–94 | veřejná propaganda VS výslovně proti „bridge building" (Krasnaja zvezda, Izvestija, Pravda, Neues Deutschland) |
+| 94–98 | interní doklady: Šelest, Brežněv, Gomułka, Ulbricht; ekonomika (úvěry, Šik), kultura, turismus, média |
+| 98–101 | KGB a omezování kulturního vlivu; intelektuálové a mládež; obavy o vlastní režimy (Polsko březen 1968, NDR, SSSR) a o celý pakt |
+| 101–102 | nestabilita paktu 1966 (reformní návrhy, Rumunsko, vojenské nedostatky) vysvětluje přecitlivělost |
+| 102–103 | závěr: vtip z Budapešti (název článku), „certainly an overstatement… kernel of truth" |
+
+**Možné úhly pro bod 3 (Claudovy postřehy, Barbora vybírá a ověřuje):**
+1. Doklady jsou převážně výroky zastánců tvrdé linie (Šelest, Ulbricht, Gomułka), kteří na zásah tlačili; jejich „obava ze Západu" mohla být i argument. Lerner to s. 94 řeší jen proti veřejné propagandě.
+2. Většina zmíněných obav (západoněmecké úvěry, turisté, rock, Friedanová, rozhlas) není americký vládní program; sám Lerner s. 80 píše, že vůdci VS viděli „imperialist master hand that did not always exist". Role NSR (Ostpolitik, jednání s Prahou v dubnu 1968, s. 92) zůstává v pozadí.
+3. Československá strana jen přes anglické edice (Navrátil, CWIHP); česky psaná literatura a pohled pražských reformátorů na americkou politiku chybí.
+4. Kontrafaktuál: autor sám připouští, že by invaze nejspíš proběhla i bez bridge building (s. 78, 90, 103); co přesně tedy „cause" znamená?
