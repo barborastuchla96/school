@@ -53,3 +53,14 @@ Claude ověřil v textu:
 - **Rozdíl Lerner × Barbora:** Lerner: západní vliv → Pražské jaro → strach o vlastní režimy (na začátku Západ). Barbora: na začátku strach z nákazy reformou, „západní vliv" spíš vysvětlení a ospravedlnění.
 - **Pracovní linka bodu 3 (návrh, Barbora upraví):** (1) Lerner ukazuje strach ze západního vlivu, nejen amerického; (2) z jeho dokladů ale vychází hlavně strach z šíření reforem (Gomułka, Ulbricht); (3) čemu by se mohl věnovat: rozlišit strach z vnějšího vlivu a strach o vlastní moc; víc polských a východoněmeckých pramenů (má je jen z anglických edic).
 - ⬜ Barbora má další návrhy (27. 11.).
+
+## 27. 11.: druhý hlavní argument Barbory
+**„Co vlastně Lerner označuje za příčinu invaze?"** Článek přesvědčivě dokládá, že představa rostoucího západního vlivu hrála roli v *argumentaci* představitelů VS; méně přesvědčivě, nakolik skutečně změnila *rozhodnutí* o zásahu.
+
+Claude ověřil v textu:
+- s. 78: teze + „Such concerns should not be overstated… a myriad of reasons".
+- s. 94: klíčový přechod: „behind the scenes evidence indicates that concern with the spread of Western influence… was indeed a factor in the decision". Doklady za tím jsou projevy a rozhovory (Šelest, Brežněv, Gomułka, Ulbricht), ne záznamy rozhodování.
+- s. 92, pozn. 70: usnesení politbyra ÚV KSSS ze 17. 8. 1968 (Navrátil, dok. 88) Lerner cituje jen větou „the time has come to resort to active measures in defense of socialism"; o západním vlivu ani bridge building z něj nic neuvádí.
+- s. 102: mechanismus: tato představa „magnified the threat dramatically and limited the options considered", tvrzeno, ne doloženo konkrétním jednáním.
+- s. 103: „many different factors… certainly an overstatement… kernel of truth".
+- ⚠ Argumenty 1 a 2 spolu souvisejí (oba o tom, co skutečně stálo za rozhodnutím); při psaní hlídat, aby se neopakovaly.
