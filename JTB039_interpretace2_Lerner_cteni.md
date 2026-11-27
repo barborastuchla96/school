@@ -75,3 +75,7 @@ Claude ověřil v textu:
 - Barbora napsala úvod, ≈ 1 840 znaků (≈ 1,0 NS). Claude ověřil proti s. 77–78: 20. 8., summit, Dobrynin, konec bridge building, obrácená perspektiva, teze, „should not be overstated" ✅.
 - Claudovy připomínky: (1) „Rozhodující nebylo…" je silnější než „Less important than the actual success…" (s. 78); (2) poslední odstavec („jeden z faktorů") Lernera mírní víc, než on sám: týž odstavec s. 78 říká „played a major role in causing the event" a s. 103 „kernel of truth… Johnson had been the guy who invited them". Kolísání mezi „major role" a „should not be overstated" je materiál pro výhradu 2.
 - Formát (hlavička, TNR, A4, skutečné poznámky místo „[1]") až na konec.
+- **27. 11., na pokyn Barbory („opravíš to prosím") Claude přepsal dvě místa úvodu** (znění je Claudovo, Barbora ho může upravit):
+  - „Podle něj přitom méně záleželo na tom, jaké skutečné úspěchy americká politika měla, než na tom, jak tyto úspěchy a další možnosti západního vlivu vnímali představitelé komunistických zemí."
+  - Poslední odstavec: „…obavy ze západního vlivu nelze přeceňovat. Ve stejném odstavci však zároveň tvrdí, že Johnsonův úspěch sehrál při vzniku krize „major role“. V závěru článku pak připouští, že tvrzení, podle něhož invazi „pozval“ sám Johnson, je sice nadsázkou, ale obsahuje „kernel of truth“.[2] Lerner tak kolísá mezi opatrným zmírňováním své teze a jejím mnohem silnějším vyzněním." ([2] = s. 103; „major role" s. 78.)
+  - ⚠ Prohlášení o AI pak musí zahrnout i úpravu formulací.
