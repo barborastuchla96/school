@@ -79,3 +79,9 @@ Claude ověřil v textu:
   - „Podle něj přitom méně záleželo na tom, jaké skutečné úspěchy americká politika měla, než na tom, jak tyto úspěchy a další možnosti západního vlivu vnímali představitelé komunistických zemí."
   - Poslední odstavec: „…obavy ze západního vlivu nelze přeceňovat. Ve stejném odstavci však zároveň tvrdí, že Johnsonův úspěch sehrál při vzniku krize „major role“. V závěru článku pak připouští, že tvrzení, podle něhož invazi „pozval“ sám Johnson, je sice nadsázkou, ale obsahuje „kernel of truth“.[2] Lerner tak kolísá mezi opatrným zmírňováním své teze a jejím mnohem silnějším vyzněním." ([2] = s. 103; „major role" s. 78.)
   - ⚠ Prohlášení o AI pak musí zahrnout i úpravu formulací.
+
+## 28. 11.: výcuc (2.1 + 2.2)
+- Rozsah: úvod ≈ 1 890 zn., výcuc ≈ 6 210 zn. (3,45 NS); dohromady ≈ 8 100 zn. = 4,5 NS **ještě bez bodu 3**. S bodem 3 (≈ 2 NS) by to bylo ≈ 6,5 NS při zadání 5 NS (Luňák 5,3 NS). Výcuc je třeba stáhnout zhruba na 2–2,3 NS.
+- Fakta ověřena proti s. 79–103 ✅. Drobnosti: Brežněv mluví o „imperialist ideological subversion", USA a NSR jmenuje výslovně Šelest (s. 94–95); „v souvislosti s ekonomickými reformami" u úvěrů v textu není (s. 95–96: Šik žádá úvěr od SSSR, jinak od Západu); TV pořady jen Rumunsko, Bulharsko výrobky (s. 86).
+- Struktura: chybí nadpis „2." (je jen 2.1 a 2.2); 2.1 shrnuje to, co 2.2 rozvádí (duplicita); poslední odstavec výcuc (s. 102–103) opakuje konec úvodu.
+- Claudův návrh krácení (Barbora rozhodne): vypustit 2.1 celé (≈ −980), vypustit závěrečný odstavec (≈ −320), sloučit odstavce s. 81–85 a 85–88 a zkrátit Pražské jaro (≈ −800).
