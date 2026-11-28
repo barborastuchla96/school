@@ -16,7 +16,7 @@
 | **27. 11.** | blok Smetana (datum potvrdila Barbora 15. 10.; karta ho neuvádí) | JTB036 | ✅ proběhl; podle spolužáků nic nového, platí SIS |
 | **13. 12., 24:00** | **recenze** Lux – Mikeszová, Moodle2 | JTB034 | ✅ **hotová 20. 11.** (přepracovaná, 5,29 NS, hlavička, prohlášení, A4; ve složce „hotové práce“); neodevzdáno |
 | **15. 12.** | **interpretace 1** (Luňák), 5 NS, mailem jmb504@seznam.cz | JTB039 | ✅ hotová 9. 11., k odevzdání ve složce „hotové práce“ (5,3 NS, 13 pozn., prohlášení vyplněno); neodevzdáno |
-| **15. 12.** | **interpretace 2** (Lerner), 5 NS, mailem jmb504@seznam.cz | JTB039 | ✅ napsaná 28. 11. (5,27 NS, zformátovaná); ⬜ prohlášení o AI |
+| **15. 12.** | **interpretace 2** (Lerner), 5 NS, mailem jmb504@seznam.cz | JTB039 | ✅ **hotová 28. 11.** (5,27 NS, zformátovaná, prohlášení vyplněno); neodevzdáno |
 | **27. 12., 23:59** | **analýza demokratického přechodu**, min. 7 NS, Moodle 2 | JTB041 | ⬜ nezačatá |
 | **6. 1., 13. 1. nebo 27. 1., 23:59** | **úvaha o tisku** 7–10 NS + **recenze** 3–4 NS, jeden soubor, Moodle | JTB036 | ✅ hotovo 10. 11.: složený soubor zformátovaný, prohlášení vyplněné, rozsah v limitu; blok 27. 11. nic nezměnil |
 | **10. 1., 24:00** | **komparativní studie**, 10–15 NS včetně aparátu, Moodle2 | JTB035 | ✅ **hotová 20. 11.** (Google Doc „JTB035 Komparativní studie … (k odevzdání)“ ve složce „hotové práce“, 14,97 NS vč. aparátu, 38 pozn., prohlášení vyplněno); neodevzdáno |
@@ -49,7 +49,6 @@ Všech pět předmětů má v SIS „Zk". **Samostatná zkouška mimo to, co je 
 
 | práce | rozsah | termín |
 |---|---|---|
-| JTB039 interpretace 2 (Lerner) | 5 NS | 15. 12. |
 | JTB041 analýza demokratického přechodu | min. 7 NS | 27. 12. |
 | JTB034 malá seminární práce | psát na 10 stran | 10. 1. |
 
