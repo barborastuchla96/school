@@ -86,3 +86,8 @@ Claude ověřil v textu:
 - Struktura: chybí nadpis „2." (je jen 2.1 a 2.2); 2.1 shrnuje to, co 2.2 rozvádí (duplicita); poslední odstavec výcuc (s. 102–103) opakuje konec úvodu.
 - Claudův návrh krácení (Barbora rozhodne): vypustit 2.1 celé (≈ −980), vypustit závěrečný odstavec (≈ −320), sloučit odstavce s. 81–85 a 85–88 a zkrátit Pražské jaro (≈ −800).
 - 28. 11.: Barbora zkrátila výcuc (2.1 a závěrečný odstavec pryč, odstavce sloučené, drobnosti opravené). Úvod ≈ 1 890 zn., výcuc ≈ 4 370 zn. (2,4 NS), zatím celkem ≈ 6 290 zn. = 3,5 NS. Na bod 3 zbývá ≈ 2 700–3 200 zn. (1,5–1,8 NS) pro cíl 5–5,3 NS. Fakta v nových formulacích ověřena (odkaz s. 80/82, Šik s. 95–96, Šelest s. 94) ✅.
+
+## 28. 11.: bod 3 napsán, text kompletní
+- Rozsah od „1. Úvod" po konec textu (bez nadpisu práce a MATERIÁLU) ≈ 9 480 zn. = **5,27 NS** ✅ (Luňák 5,3).
+- Bod 3 ověřen: s. 78 ✅, s. 94 ✅, s. 99–101 ✅, s. 80 ✅, NSR s. 95–96 a 100 ✅, s. 102 ✅, usnesení 17. 8. na s. 92 ✅. Drobnost: že Gomułka a Ulbricht „sami prosazovali tvrdší postup", dokládá v textu přímo jen Gomułka (s. 100, žádá okamžitý zásah); u Ulbrichta nepřímo (s. 100–101).
+- Zbývá: (1) sjednotit odkazy: v textu jsou závorky (s. X), v úvodu „[1]" a „[2]" (+ „major role" bez strany) → buď vše v závorkách, nebo vše pod čarou; (2) hlavička jako u ostatních prací; (3) prohlášení o AI (vč. úpravy formulací v úvodu); (4) formát (A4, TNR 12, řádkování 1,5, nadpisy); (5) PDF až při odevzdání; ⚠ ověřit, kam se odevzdává.
