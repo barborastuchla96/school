@@ -60,7 +60,7 @@ Všech pět předmětů má v SIS „Zk". **Samostatná zkouška mimo to, co je 
 - **JTB036:** ✅ hotovo, odevzdat 6. 1. / 13. 1. / 27. 1.
 - **JTB039 seminární práce:** ✅ hotová 10. 11., jen odevzdat do 10. 1.
 - **JTB035 komparativní studie:** ✅ hotová 20. 11., jen odevzdat (PDF) do 10. 1.
-- **Admin:** zapsat se na test JTB041 v SIS (test 15. 1.).
+- **Admin:** zapsat se na test JTB041 v SIS (test 15. 1.). ⚠ K 28. 11. termín v SIS ještě není vypsaný (Barbora); zkontrolovat znovu v prosinci.
 
 ## 5. Otevřené otázky
 
